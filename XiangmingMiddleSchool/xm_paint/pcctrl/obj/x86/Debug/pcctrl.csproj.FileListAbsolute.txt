@@ -1,0 +1,8 @@
+D:\paint\pcctrl\pcctrl\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\paint\pcctrl\pcctrl\obj\x86\Debug\pcctrl.MainForm.resources
+D:\paint\pcctrl\pcctrl\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\paint\pcctrl\pcctrl\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\paint\pcctrl\pcctrl\bin\Debug\pcctrl.exe
+D:\paint\pcctrl\pcctrl\bin\Debug\pcctrl.pdb
+D:\paint\pcctrl\pcctrl\obj\x86\Debug\pcctrl.exe
+D:\paint\pcctrl\pcctrl\obj\x86\Debug\pcctrl.pdb

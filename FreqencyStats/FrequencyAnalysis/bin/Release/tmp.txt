@@ -1,0 +1,148 @@
+Query >45	 [vp] g u g 音/d [pp] 
+25	 g [vp] [advp] a [advp] 音/d g 
+17	 s [np] [vp] 音/d [vp] p s [vp] 
+32	 [vp] c [np] 音/d [pp] u [np] c [vp] 
+17	 [np] [vp] 音/d [vp] a [qp] [vp] 
+16	 f c 音/d p b [advp] 
+14	 音/d g g g 
+14	 音/d a m t u 
+12	 [qp] f 音/d a [qp] u [qp] 
+12	 r [advp] 音/d [vp] p [vp] [qp] r 
+11	 c r [advp] 音/d [vp] b u [np] 
+88	 [vp] p 音/d a u t 
+11	 音/d [vp] g c [vp] 音/d [advp] 
+15	 音/d [vp] m t [advp] [vp] y 
+10	 [advp] p g a c 音/d [vp] 
+10	 s b g b 音/d [vp] 
+10	 音/d [np] [advp] [vp] m 
+18	 p 音/d [vp] m t u [np] f 
+9	 a u c 音/d a u 
+9	 c s p m [np] f 音/d p s [vp] 
+9	 g 音/d [vp] c [np] 音/d [vp] 
+9	 r [advp] 音/d [vp] p r u [np] [vp] 
+9	 r t [pp] u [np] 音/d [vp] [advp] a u 
+9	 [vp] 音/d [vp] t [np] m u 
+9	 a g [vp] 音/d a [qp] 
+8	 c [np] [advp] [vp] c 音/d [vp] [advp] [vp] 
+15	 [vp] 音/d [pp] u [np] p [vp] 
+8	 a u a 音/d y 
+8	 m t u [np] 音/d [vp] a 
+8	 [qp] m [np] [vp] 音/d u [np] 
+8	 [np] 音岑/v c 音/d [np] 
+8	 [advp] [vp] 音/d u s [vp] s [np] m [np] 
+8	 [vp] p [qp] r [advp] [vp] 音/d [vp] 
+8	 [np] f [vp] 音/d [advp] l [vp] a u 
+7	 b 音/d u a p [qp] 
+7	 s u [np] [advp] 音/d [vp] p r c [np] [vp] 
+7	 音/d [vp] s [np] [vp] a s 
+7	 [vp] k 音/d u [vp] 
+7	 [np] c g c 音/d [advp] [vp] 
+7	 p [vp] c [advp] [vp] 音/d [vp] g 
+7	 [vp] 音/d g [vp] c [vp] [pp] [np] [vp] 
+7	 p r 音/d p u [np] 
+7	 音/d [vp] k [vp] m 
+7	 m [np] g u 音/d [vp] g 
+7	 音/d p r u [vp] 音揖/a c [vp] 
+7	 音/d [vp] [qp] m g 
+7	 t a u a 音/d [vp] a 
+20	 [vp] p 音/d [advp] [np] f 
+7	 [np] f 音/d [vp] g [vp] g 
+7	 c s [np] m t 音/d [vp] 
+7	 [vp] [advp] a 音/d u u y 
+7	 音/d [vp] p 音/d p 
+7	 [vp] p r [advp] [vp] [advp] 音/d [vp] 
+6	 b [vp] [advp] u 音/d [advp] [vp] 
+6	 [advp] 音/d [vp] [pp] [np] f [vp] 
+6	 [vp] [advp] m t f [np] [vp] 音/d [vp] m t 
+11	 c 音/d [vp] [pp] u [np] [vp] 
+6	 [np] p [qp] [vp] [qp] 音/d [vp] 
+6	 [vp] 音/d p t a 
+6	 音/d [vp] f [np] m 
+6	 c 音/d [vp] g g g 
+6	 u [np] 音/d g [vp] 
+6	 m [np] 音/d u [np] 
+6	 p [vp] f p [vp] 音/d [vp] 
+6	 c r [advp] 音/d [vp] p r u [np] 
+6	 r [advp] 音/d [vp] [advp] p f [vp] 
+6	 c 音/d [vp] b u [np] [advp] [vp] 
+6	 [advp] g [np] 音/d g [np] 
+6	 t [advp] [vp] 音/d a u m t 
+6	 [np] p c 音/d c 
+6	 s [np] c 音/d [vp] f u r a 
+6	 [advp] [vp] m 音/d [np] [advp] [vp] 
+6	 [advp] 音/d [vp] [pp] [np] [vp] 音/d [vp] 
+6	 m 音/d m [advp] 
+6	 r 音/d [vp] a u p [vp] 
+6	 a 音/d [vp] c [advp] a [vp] 
+6	 音/d [np] [advp] p [qp] f 
+6	 r [advp] 音/d [advp] [vp] a [vp] 肖互音和/v u [np] y 
+6	 [vp] a u [advp] [vp] 音/d [vp] y 
+6	 音/d p 音/d p 音/d p 
+6	 音岑/v k 音/d [np] 
+6	 音/d [vp] a g a k u [np] [vp] 
+6	 c [np] [advp] a 音/d u [np] 
+6	 r 音/d g r r 
+6	 g [np] g [vp] x 音/d 
+6	 f b [vp] 音/d 
+5	 音誼/v [np] c 音/d 
+5	 s [np] c [pp] c [np] [advp] 音/d [vp] 
+5	 [np] p t t t [pp] [vp] p [qp] p [vp] c 音/d [vp] s [np] 
+5	 [np] s [np] 音/d g s [np] 
+5	 c t 音/d [vp] a u l 
+5	 音/d u r [advp] a 
+5	 s [np] 音/d [np] r 
+5	 s [np] [advp] [vp] t f 音/d [vp] s [vp] 
+5	 [np] [advp] [vp] c [vp] 音/d [vp] f 
+5	 [vp] [qp] f u [np] 音/d [vp] m [np] 
+5	 r p s s [vp] 音/d [vp] s [np] 
+5	 [np] t 音/d g s [np] 
+5	 [advp] [vp] 音/d [vp] m t u [np] 
+5	 [vp] 音/d p s [np] [vp] t [vp] 
+5	 音/d p m [vp] m g m [np] [vp] m g 
+5	 [np] [pp] [np] 音/d [np] g 
+5	 音/d [vp] [advp] 音/d [vp] [pp] [np] [advp] [vp] 
+5	 p [vp] c [np] [advp] 音/d a u 
+5	 音/d g c a c a 
+5	 音/d [vp] g g g [vp] 
+5	 r [qp] 音/d [vp] p r u [np] [vp] [pp] 
+5	 a g 音/d [advp] p 
+5	 c a g 音/d [advp] 
+5	 r u [np] [advp] [vp] [advp] 音/d a u 
+5	 [advp] [vp] [pp] [advp] [vp] 音/d [advp] [vp] l c l 
+5	 音/d [vp] l c l u [np] 
+5	 [vp] 音/d a c [np] 音/d a 
+5	 a u c 音/d [np] 
+5	 音/d [advp] [vp] g g 
+5	 r [advp] 音/d [vp] p r r u [np] 
+5	 [advp] p r p s u [advp] 音/d [np] [vp] m 
+5	 p m [np] [vp] a [vp] 音/d [advp] 
+5	 c [advp] [vp] s [np] c 音/d [advp] a 
+5	 [vp] m c [np] 音/d [vp] c [np] [advp] [vp] [advp] [vp] 
+5	 [np] 音/d p [vp] [pp] 
+5	 [np] [vp] 音/d [vp] c 音/d [vp] 
+5	 [vp] [qp] 音揖/a [np] c 音/d [pp] [vp] 
+5	 c f [np] 音/d [vp] c [advp] a 
+5	 b m [np] 音/d [vp] c [vp] 
+5	 p r [advp] 音/d [np] [vp] a u [advp] [vp] y 
+5	 r [advp] 音/d [vp] f [vp] c r u [np] 
+5	 c [np] 音/d [vp] [pp] [np] u [advp] [vp] 
+5	 r r [advp] [vp] 音/d [vp] c [np] [pp] [vp] 
+5	 b b m [np] c [vp] 音/d a 
+5	 r [advp] [vp] [advp] a 音/d u u [np] 
+5	 音/d [vp] 音怎參/v [np] g 
+5	 r u [np] [advp] [vp] p c 音/d [vp] 
+5	 g g r 音/d [np] 
+5	 音/d [vp] c [np] p r s [vp] [pp] u [np] 
+5	 s p s m [np] [advp] 音/d [vp] 
+5	 音/d a u g [np] 
+5	 p 音/d u p [vp] 
+5	 r 音/d p r [advp] [vp] y 
+5	 b a 音/d f [vp] 
+13	 音/d 音/d 音/d 音/d 音/d 
+10	 r 音/d [vp] [advp] [vp] a y y 
+5	 r u [np] 音/d p r f 
+5	 r 音/d c [np] [vp] 
+5	 [pp] [np] 音/d u r 
+5	 音/d [vp] b m u [np] [vp] s [np] [vp] [pp] u [np] 
+5	 r 音/d [vp] [advp] p f [vp] y 
+Query >

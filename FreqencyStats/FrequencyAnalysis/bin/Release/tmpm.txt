@@ -1,0 +1,5502 @@
+Query >939	 [np] 不禁/d [vp] 
+2546	 c [np] c 不/d a 
+125	 不一而足/v 
+544	 [np] [pp] [np] 不/d [vp] 
+286	 u 不同/a u [vp] 
+110	 不但/c r 
+105	 不怕牺牲/v 
+95	 不消/v [vp] 
+1739	 p [vp] 不断/d [vp] 
+189	 c [advp] 不/d [advp] [vp] 
+2428	 c 不管/c [vp] 
+88	 不进则退/v 
+120651	 [advp] r 不/d [vp] y 
+2393	 r [advp] 不/d [advp] [vp] y 
+109	 c 不/d [vp] 不/d [vp] 
+136	 c 不出所料/v 
+72	 [np] g 不/d a 
+2613	 c [advp] 不/d [vp] [advp] [vp] 
+201	 c [np] [vp] 不/d [vp] 
+141	 不管/c [vp] 不/d [vp] 
+442	 c 不幸/a u [vp] 
+203	 不/d [vp] a 不/d [vp] 
+145	 [vp] 不亦乐乎/v 
+74	 [np] 不如/v [np] 
+77	 r 不管/v 
+67	 不务正业/v 
+67	 c [advp] 不/d [advp] a 
+1450	 r [advp] [vp] 不/d a u 
+94	 不知/v [pp] [vp] 
+173	 [advp] [vp] 不易/a 
+65	 不过/c l 
+1758	 r 不再/d [vp] y 
+64	 r 不/d y 
+54234	 c r [advp] 不/d [vp] y 
+78	 不/d a m [vp] 
+60	 不过/c y 
+413	 c 不/d [vp] [pp] [vp] 
+126	 不拘一格/v [vp] 
+59	 不徇私情/v 
+64	 [np] [advp] 不堪设想/v 
+502	 不要紧/v u 
+543	 r 不断/d u [vp] 
+1846	 c [np] c 不/d [vp] 
+96	 r 不假思索/l u [vp] 
+342	 [np] 不予/v [vp] 
+131	 r 不解/v u [vp] 
+308	 r [advp] [vp] 不/d f [vp] 
+51	 [np] 不息/v 
+74	 不拘/v [np] 
+1544	 [np] [vp] [qp] 不/d [vp] 
+87	 不过/c p [vp] 
+50	 c 不然/v 
+3832	 c r 不/d [vp] y 
+111	 r 不耐烦/a u [vp] 
+688	 r 不能/v [advp] [vp] y 
+186	 r [advp] 不/d p y 
+326	 r [advp] 不用/d [vp] y 
+104	 p 不/d u [vp] 
+112	 c r 不/d [vp] [advp] [vp] 
+548	 r 不仅/c [np] a 
+86	 r 不难/d [vp] 
+79	 c [vp] 不/d y 
+65	 [vp] g u g 不/d [pp] 
+65	 不觉/d [vp] 
+58	 不管/c [vp] c [np] 
+44	 不论是/c r 
+147	 r p r 不/d a 
+1775	 m [vp] m 不/d [vp] 
+227	 r 不但/c 不/d [vp] 
+109	 [np] t 不/d [vp] 
+42	 a 不/d [vp] g 
+52	 [np] 不俗/a 
+240	 r [qp] 不/d a 
+77	 p 不到/v [np] f 
+40	 [advp] 不久/m 
+2927	 [np] c [vp] 不/d [vp] 
+221	 r [advp] 不准/v [vp] 
+148	 [advp] 不幸/a u [vp] 
+39	 不速之客/l 
+184	 [np] 不/d [vp] 不/d a 
+803	 r 不要/d [advp] [vp] y 
+39	 不管/c m 
+99	 r [advp] 不得不/d [vp] 
+215	 c r [advp] 不够/a 
+54	 p m t u 不懈努力/v 
+651	 c [vp] c 不/d a 
+71	 [np] 不/d [vp] m t 
+101	 r 不得而知/v 
+55	 不管/c [np] [advp] a 
+21905	 c [np] 不/d [vp] [advp] a 
+60524	 c r [advp] [vp] 不/d [vp] y 
+69	 [np] f [vp] 不/d a 
+37	 p 不懈/z u [np] 
+37	 s 不胜/d g 
+60	 [np] 不适/a 
+64	 c [advp] 不能/v [vp] 
+108	 r [advp] a 不/d g 
+37	 e 不/d 
+197	 r [advp] 不/d a a 
+1818	 c [advp] 不可/v [vp] 
+1379	 c [vp] c 不/d [vp] 
+804	 r [advp] 不再/d [vp] y 
+42	 m 不/d [advp] [vp] 
+91	 [vp] 不/d g a 
+36	 g c 不/d g 
+1085	 c 不知/v r u 
+75	 c [vp] 不/d [vp] y 
+226	 r 不但/c [advp] [vp] 
+333	 c [pp] 不/d a 
+88	 [np] 不/d g g 
+41	 [np] [advp] [vp] [advp] 不/d [vp] 
+35	 r 不/d a u 
+92	 c [vp] 不/d u [np] 
+238	 t r 不/d [vp] y 
+83	 r c [vp] 不/d [vp] 
+47	 r 不可/v [vp] 
+92	 p s [np] u 不断/d [vp] 
+46	 [np] 不再/d a 
+132	 r [advp] 不会/v [vp] 
+145	 p 不/d [np] f 
+404	 [np] 不够/a a 
+34	 r a 不/d a 
+34	 不得了/l y 
+60	 r [advp] 不同/a y 
+13305	 r c [np] 不/d a 
+33	 不善/a [np] 
+57	 [np] p 不/d [vp] 
+74	 c r [advp] 不/d [advp] [vp] 
+4471	 r [advp] [vp] 不/d [np] 
+760	 [np] 不/d [np] a 
+33	 不论/c l 
+33	 不知不觉/l u 
+520	 r [advp] r [advp] 不/d [vp] y 
+47	 c 不必/d [vp] 
+956	 [np] [vp] 不/d [vp] a u 
+95	 r 不安/a u [vp] 
+41	 不/d g 不/d [vp] 
+192	 [np] 不/d [vp] [pp] [vp] 
+235	 p s [np] 不/d a 
+160	 不/d [vp] 不行/a y 
+176	 p 不知不觉/l f 
+76	 c [advp] 不/d [vp] y 
+32	 不求甚解/v 
+2391	 [np] 不得/v [vp] c [vp] 
+89	 [vp] 不如/v [vp] 
+106	 [np] [advp] 不/d p y 
+462	 r [advp] 不必/d [vp] y 
+43	 [np] 不停/v u [vp] 
+43	 [np] 不同/a u [np] 
+134	 c 不/d [vp] [advp] u [vp] 
+280	 [vp] 不/d [vp] [advp] a y 
+37	 不少/m [np] [vp] y 
+535	 r [advp] [vp] [qp] 不/d [np] 
+211	 c [vp] 不力/a 
+41	 m 不/d [vp] g 
+68	 [np] 不好/a y 
+1634	 r g 不久前/t 
+150	 [np] 不/d [vp] s [vp] 
+750	 c [vp] 不/d a u 
+106	 r 不得不/d [advp] [vp] 
+883	 [pp] [np] 不/d [advp] [vp] 
+253	 r [advp] 不行/a y 
+39	 [np] [vp] 不止/v 
+30	 r g 不/d a 
+37	 c 不/d g [np] 
+79	 r 不/d [vp] m [np] 
+195	 [np] g [vp] 不/d [vp] 
+1032	 r 不/d p [vp] y 
+38	 r [advp] 不见/v y 
+29	 b 不同/a u [vp] 
+58	 c 不少/m [np] [vp] 
+129	 [np] [vp] 不/d [advp] [vp] 
+71	 [np] 不/d u [vp] 
+118	 r g [advp] 不/d [vp] 
+95	 c c 不/d [vp] 
+259	 r [advp] 不/d r a 
+162	 [np] 不怕/v [vp] a 
+78	 [np] [vp] c 不/d [vp] 
+286	 [advp] [vp] 不正之风/l 
+54	 m 不可/v [vp] 
+348	 r 不仅/c [advp] [vp] 
+108	 u [np] 不胫而走/v 
+58	 [np] [advp] f 不/d [vp] 
+53	 [np] a 不好/a 
+268	 r 不知/v [vp] a 
+67	 r [advp] 不耐烦/a y 
+164	 c 不论/c r 
+216	 r 不/d [vp] t [np] 
+72	 c p 不/d [vp] 
+152	 c [vp] 不同/a u [np] 
+159	 不幸/n [vp] 
+585	 r [advp] 不要/d [vp] y 
+28	 g 不/d g [np] 
+50	 [np] [advp] [vp] 不/d [np] 
+28	 不拘小节/v 
+28	 [pp] 不够/a 
+63	 c 不再/d [vp] 
+275	 c [pp] [np] 不/d a 
+28	 s t 不/d [vp] 
+28	 [pp] 不通/a 
+788	 r [advp] 不许/d [vp] 
+64	 [np] 不过/c [qp] 
+28	 [vp] k 不/d g 
+51	 c 不/d [vp] m [vp] 
+178	 r s 不/d a 
+28	 不偏不倚/v 
+131	 [advp] 不可/v [advp] [vp] 
+2605	 r 不/d [vp] 不/d [vp] y 
+33	 c [advp] 不/d [vp] 不/d [vp] 
+28	 不尚空谈/v 
+40	 [np] [qp] 不/d a 
+132	 r [qp] [advp] [vp] 不/d [vp] 
+1172	 [vp] 不然/c u 
+146	 r a u 不得了/l 
+73	 [pp] 不/d [np] f 
+62	 [np] [advp] 不尽/d a 
+120	 c [vp] 不断/d [vp] 
+77	 [np] 不论/c [advp] a 
+51	 r c 不/d [advp] [vp] 
+27	 不巧/a u [vp] 
+68	 [np] [advp] 不便/a 
+50	 不过/c r [advp] 不/d [vp] 
+228	 r [advp] 不在乎/v y 
+527	 r t 不/d [vp] y 
+58	 [vp] f [vp] 不/d [vp] 
+27	 g 不成/v g 
+27	 r 不管/c r 
+37	 r 不屑/v u [vp] 
+346	 c [np] 不/d [advp] a 
+36	 c [pp] [np] 不/d [vp] 
+34	 不仅/c [np] [advp] a 
+58	 [vp] g [advp] 不/d [vp] 
+26	 a c 不/d g 
+32	 z 不可终日/l 
+38	 p t 不变价格/l [vp] 
+26	 z 不/d a 
+47	 [np] 不/d p y 
+172	 [np] a c 不/d a 
+70	 r 不顾/v [vp] 
+56	 c 不/d [vp] m [np] 
+26	 r g 不/d [advp] 
+5581	 r 不仅/c [vp] y 
+84	 r 不/d [vp] [advp] [np] y 
+39	 r c [advp] 不/d [vp] 
+31	 [np] 不是/c [np] 
+44	 [np] [vp] c 不/d a 
+42	 [np] 不但/c [advp] [vp] 
+34	 不管/c [advp] a 
+40	 [np] k [vp] 不/d [vp] 
+56	 g [vp] 不/d m 
+26	 不管/c l 
+35	 [np] [vp] 不/d u r 
+55	 r s [advp] 不安/a 
+26	 不管/c y 
+76	 [np] 不能/v [vp] 
+312	 [pp] [np] u 不同/a [np] 
+88	 [pp] u 不同/a [np] 
+48	 [np] [qp] [advp] 不/d a 
+80	 r a 不已/v 
+44	 c 不/d [vp] [advp] [np] 
+30	 不但/c [np] [advp] [vp] 
+47	 不/d [advp] g y 
+87	 c 不/d [vp] f u [np] 
+25	 不倒翁/n 
+110	 r 不/d [vp] y y 
+51	 [np] 不解/v u [vp] 
+25	 b r 不/d [vp] 
+30	 g [vp] 不/d g 
+66	 m t [vp] 不/d [vp] 
+163	 [np] [advp] a 不/d a y 
+709	 [np] r 不/d [vp] y 
+32	 g [vp] [advp] a [advp] 不/d g 
+63	 [vp] 不如/c [vp] 
+41	 c 不如说/c 
+97	 r 不/d c [vp] 
+25	 不要紧/v y 
+110	 r [advp] [vp] 不久/m 
+44	 [np] [advp] [vp] 不/d u [np] 
+57	 不论是/c [vp] 
+49	 s u [np] 不断/d [vp] 
+328	 r 不知/v [np] 
+742	 不过/c r [advp] [vp] y 
+24	 不/d g 不/d g 
+42	 不锈钢/n [np] 
+445	 [np] r [advp] 不/d [vp] y 
+417	 s u [np] [vp] 不能/v [vp] a 
+568	 [np] 不/d a 不/d a 
+159	 [np] g [np] 不/d [vp] 
+139	 r 不慌不忙/v u [vp] 
+61	 [vp] p 不顾/v 
+1074	 r [advp] 不/d a [vp] y 
+529	 c r [advp] 不/d [vp] 不/d [vp] 
+688	 c [advp] [vp] 不/d [vp] y 
+24	 r a 不好/a 
+452	 不过/c [advp] [vp] y 
+845	 [np] 不/d [vp] [advp] [vp] y 
+149	 不管/c [np] r a 
+151	 [vp] 不朽/z u [np] 
+23	 p s 不/d a 
+49	 [np] a u 不/d [vp] 
+84	 p [vp] 不同/a [np] 
+31	 p [vp] 不时/d u g 
+23	 [np] 不可/v f g 
+45	 r 不行/a y 
+2493	 t [np] 不错/a 
+92	 不少/m [np] p [vp] 
+107	 r 不必/d a 
+114	 c [advp] 不/d [vp] a u 
+112	 r 不/d [vp] a [vp] 
+23	 [advp] 不巧/a 
+1104	 c r [advp] 不能/v [vp] 
+232	 [np] [vp] [advp] 不错/a 
+523	 r 不/d [vp] [advp] a y y 
+240	 r [advp] [np] 不/d [vp] 
+45	 [vp] 不要/d a 
+23	 不说/c [np] 
+53	 c [np] 不/d [advp] [vp] 
+22	 p 不懈努力/v 
+509	 s [np] 不/d [vp] s [np] 
+295	 r [advp] 不/d [vp] s [np] 
+36	 [vp] g [vp] 不/d [vp] 
+45	 c g 不/d [vp] 
+22	 [np] k 不/d a 
+32	 [np] 不犯/d [np] 
+22	 s 不/d [vp] g 
+380	 r 不/d [vp] [qp] [vp] 
+130	 r 不仅/c 不/d [vp] 
+157	 r 不但/c [np] a 
+90	 r 不/d [vp] m g 
+113	 r [advp] 不/d [vp] c [vp] 
+39	 r 不可偏废/v 
+74	 [vp] [advp] [vp] 不/d y 
+172	 r [advp] [vp] c 不/d [vp] 
+140	 m t [np] 不/d a 
+56	 [np] 不/d t f 
+27	 不/d [pp] 不/d [vp] 
+57	 r 不无/v [vp] 
+22	 [advp] t 不/d [vp] 
+61	 [np] [vp] 不/d a y 
+134	 r 不知所措/v 
+49	 [np] 不/d [np] u 
+68	 不见得/d y 
+32	 [advp] 不/d a p t 
+1480	 r [advp] [vp] 不同/a u [np] 
+48	 c [np] 不/d [vp] [advp] [vp] 
+43	 [np] 不计其数/v 
+87	 [advp] [vp] 不解/v u [vp] 
+237	 p 不/d [np] [vp] 
+350	 c r [qp] [advp] 不/d a 
+1063	 [np] c 不/d [vp] [advp] [vp] 
+68	 不失时机/l u [vp] 
+402	 c r 不能/v [vp] 
+29	 不料/d r [advp] [vp] 
+21	 c [qp] [advp] 不/d a 
+34	 不管/c [vp] m [np] 
+233	 c r 不/d p r 
+105	 c r 不在乎/v 
+60	 c 不得不/d [vp] 
+21	 r t [np] 不/d a 
+21	 [np] g 不/d g 
+21	 [advp] 不难/d [vp] 
+43	 不少/m [np] a 
+123	 r 不仅/c [vp] s u [np] 
+34	 不仅/c [np] [advp] [vp] 
+26	 不/d a 不/d [vp] 
+67	 [advp] 不/d [vp] p a 
+21	 r c 不/d [vp] a 
+21	 r t [advp] 不/d a 
+121	 c [advp] 不尽然/v 
+21	 不问/v l 
+30	 [np] g 不足/v 
+29	 [vp] 不久/m u t 
+26	 p 不/d u m t 
+35	 不管/c [np] [advp] [vp] 
+31	 [advp] [np] [vp] 不/d [vp] 
+139	 m [vp] c 不可/v [vp] 
+112	 [vp] [advp] a [advp] 不/d [vp] 
+37	 不孝/a [vp] m 
+77	 [np] f 不/d [np] 
+769	 c r 不得不/d [vp] 
+617	 r 不顾/v [np] [vp] 
+88	 r [advp] [np] 不/d a 
+97	 c [np] m 不/d [vp] 
+428	 r 不禁/d [vp] y 
+21	 f 不愧/d [np] 
+79	 u [np] [advp] 不/d [vp] [qp] 
+21	 c 不/d y 
+171	 r [advp] [vp] [qp] 不/d [vp] 
+2665	 c r [advp] 不/d a y 
+21	 [np] 不安/a u [vp] 
+21	 r 不利/a a [advp] [vp] 
+882	 r 不必/d [vp] y 
+4852	 r m [vp] [advp] 不/d [vp] 
+40	 [pp] 不/d [vp] f 
+81	 [np] 不/d g u [np] 
+3824	 c 不久/m f 
+33	 a s [vp] 不久/m 
+66	 c [advp] 不能不/d [vp] 
+173	 r 不惜/v [vp] 
+134	 r u p 不同/a [np] [vp] c [np] 
+63	 c s [np] 不/d [vp] 
+20	 不懈/z [vp] 
+667	 [np] [vp] a 不好/a 
+135	 [np] [vp] 不可/v [vp] 
+346	 [advp] [vp] 不良/a [np] 
+56	 r 不/d g r 
+43	 m 不/d g [np] 
+41	 不堪/v [vp] g 
+29	 r c r [advp] 不/d [vp] 
+20	 不/d [advp] 不/d [vp] 
+38	 不/d [vp] m [np] [vp] 
+57	 r 不乏/v [np] 
+177	 [advp] [pp] 不断/d [vp] 
+39	 [pp] [vp] 不/d [np] 
+78	 s u [np] c 不/d a 
+126	 c [np] 不通/a 
+950	 c r [qp] [advp] 不/d [vp] 
+129	 r c r 不/d a 
+61	 [vp] [qp] [advp] 不/d a 
+75	 [np] [pp] [np] 不服/v u 
+78	 r [advp] 不得而知/v y 
+95	 [np] a 不/d [vp] a 
+35	 c [advp] [vp] 不/d [np] 
+90	 [vp] 不法/b [np] 
+177	 r [advp] [vp] 不错/a u 
+20	 不可言传/v 
+51	 [np] 不/d [vp] a y 
+26	 l 不可/v [vp] 
+50	 [vp] p 不/d g f 
+20	 u r [advp] [vp] 不/d a 
+154	 s 不住/d u [vp] 
+20	 [np] 不得而知/v 
+27	 c r 不/d [vp] 不/d [vp] 
+499	 r 不用/d [vp] y 
+157	 [np] 不足/v m [np] 
+280	 [np] [vp] 不/d [vp] [qp] 
+25	 r 不得不/d [vp] y 
+15908	 不过/c [vp] y 
+25	 r 不/d [vp] p [vp] [qp] r 
+69	 r a 不/d [advp] [vp] 
+19	 a a 不/d m 
+19	 [np] 不妙/a 
+79	 [np] 不仅/c [advp] [vp] 
+46	 c [advp] 不/d [vp] p [vp] 
+28	 不/d p g [vp] 
+25	 不管/c [np] m a 
+66	 r 不仅/c a 
+19	 g 不/d g a 
+32	 [np] 不无/v [advp] [vp] 
+1398	 r [advp] 不/d [pp] [vp] 
+605	 r [advp] [vp] 不已/v 
+19	 [np] 不当/a 
+24	 c [np] 不错/a 
+134	 [advp] 不宜/v [vp] 
+19	 不要/d [np] t [np] 
+19	 a 不/d u [qp] 
+19	 c [advp] 不/d [vp] p r 
+19	 不/d [vp] s z [vp] 
+1607	 [advp] [vp] m t 不/d [vp] 
+197	 [np] [advp] 不得/v [vp] 
+19	 [np] m [vp] y 不复/d [advp] 
+25	 不许/d [vp] g 
+670	 c r [advp] 不/d [advp] a 
+36	 c 不/d [vp] g [vp] 
+19	 不/d g 不/d a 
+24	 [np] [pp] 不/d a 
+19	 不/d m [np] 
+19	 [np] 不和/a 
+64	 r 不/d [vp] f u [np] 
+108	 c [np] 不/d p r 
+346	 [np] 不再/d [vp] y 
+19	 不/d [np] k 
+29	 r m t 不/d [vp] 
+25	 [np] [advp] 不/d a a 
+19	 不言不语/v 
+19	 m t m 不/d [vp] 
+84	 r [advp] g 不/d [vp] 
+305	 [np] [advp] 不/d [advp] [vp] y 
+34	 [np] 不住/d u [vp] 
+19	 [np] p r [advp] 不/d a 
+44	 [np] 不/d y 
+50	 r [advp] 不能不/d [vp] 
+44	 不管/c [vp] y 
+271	 [np] [advp] 不足/v [qp] 
+35	 [np] 不得/v [vp] f 
+92	 r 不/d [vp] 不/d g 
+19	 r 不是/v [np] 
+117	 r m g 不/d [vp] 
+19	 m t 不/d [vp] y 
+545	 r [advp] 不/d p [vp] y 
+26	 [np] a u 不得了/l 
+18	 不知/v r g 
+18	 r g 不/d g 
+29	 不料/d [np] [advp] [vp] 
+25	 c t [vp] 不/d [vp] 
+125	 [np] [vp] 不/d [vp] g [vp] 
+145	 [advp] [vp] c [np] 不断/d [vp] 
+18	 p 不到/v m t [np] f 
+18	 c [advp] p 不断/d [vp] 
+55	 c [advp] [vp] 不/d u [np] 
+319	 r 不仅/c [vp] s [np] 
+79	 c 不/d a [advp] 不/d a 
+18	 [advp] u 不/d g 
+37	 c c r 不/d [vp] 
+18	 [np] 不均/a 
+25	 [pp] [vp] 不少/m [np] 
+24	 [np] [advp] [vp] 不久/m 
+60	 p t 不/d [advp] [vp] 
+47	 c 不/d [vp] c [vp] 
+18	 不仅/c [np] m 
+51	 r 不禁/d l 
+49	 [np] 不言自明/v 
+61	 [vp] 不好/a [advp] [vp] 
+220	 [vp] p 不久/m u t 
+30	 c [vp] 不/d [advp] [vp] 
+84	 [vp] [qp] 不幸/a u [np] 
+55	 [vp] g [np] 不/d a 
+23	 l [np] 不/d [vp] 
+23	 不管/c p r 
+18	 l [np] 不同/a 
+23	 不要/d [vp] g 
+45	 [np] 不但/c 不/d [vp] 
+118	 [qp] [vp] 不/d [vp] k 
+25	 [np] [advp] [vp] [qp] 不/d [vp] 
+235	 c [pp] u 不断/d [vp] 
+125	 [np] f [np] 不/d [vp] 
+18	 [np] [advp] [vp] 不/d g 
+45	 [advp] 不了了之/v 
+28	 不知/v [np] r 
+18	 [advp] a [advp] 不/d a 
+18	 m c 不/d g 
+27	 a c 不/d [np] 
+37	 r [advp] 不能/v [vp] y 
+39	 不妨/v m [vp] 
+18	 a 不/d [vp] [pp] 
+18	 [vp] [advp] 不/d g 
+18	 g 不/d [vp] 不/d [vp] 
+51	 p 不/d [pp] [vp] 
+30	 [np] 不好/a u [np] 
+25	 c [vp] 不/d p 
+126	 r [advp] 不必/d y 
+18	 r [advp] 不/d a u 
+18	 不管/c r u 
+45	 不知/v r [advp] [vp] 
+804	 r [advp] 不/d [vp] [advp] a y 
+25	 c r 不再/d [vp] 
+17	 [np] k [advp] 不/d a 
+58	 [vp] 不知/v r 
+196	 c [np] 不堪设想/v 
+83	 c [vp] 不当/a 
+328	 t [np] 不足/v [qp] 
+63	 [np] f [vp] 不少/m [np] 
+38	 不/d [vp] [advp] [vp] s [np] 
+30	 [np] r 不同/a 
+29	 r g [vp] 不/d [vp] 
+36	 不/d [vp] 不/d [advp] [vp] 
+1331	 u [np] [vp] 不/d a u 
+411	 [np] 不/d [vp] g [advp] 
+17	 m 不/d g s u r 
+27	 [pp] [advp] 不利/a 
+28	 [np] 不言而喻/v 
+28	 [vp] 不及/v 
+41	 [advp] 不可/v l 
+17	 不/d p r [qp] 
+26	 不过/c [np] a 
+43	 不可/v g [vp] 
+292	 s [np] [vp] 不/d [vp] p s [vp] 
+17	 c 不知/v [np] 
+134	 p [vp] 不必要/a u [np] 
+276	 r [advp] [vp] 不/d u [vp] 
+72	 [np] 不容忽视/v 
+668	 c [np] [advp] 不/d [vp] y 
+203	 [vp] c [np] 不/d [pp] u [np] c [vp] 
+17	 c [advp] 不得不/d [vp] 
+47	 [np] r [advp] 不/d a 
+17	 不知/v r m 
+17	 [np] [advp] 不/d p r 
+17	 [np] [advp] 不/d [vp] 不/d [vp] 
+17	 不知/v [vp] g 
+305	 p r 不/d [np] f 
+29	 [np] [vp] 不/d [vp] a [qp] [vp] 
+17	 r c 不/d g 
+26	 c [qp] [advp] 不/d [vp] 
+22	 m r 不/d [vp] 
+300	 r [advp] [vp] 不止/v 
+25	 [np] [advp] 不/d [vp] a y 
+52	 不少/m [np] [pp] [vp] 
+17	 不料/d [np] [vp] 
+17	 c 不能不/d [vp] 
+17	 不管/c [advp] [np] 
+17	 l 不/d a 
+17	 p s 不久/m 
+77	 r [advp] [vp] 不/d u y 
+28	 [np] 不/d [advp] [vp] y 
+17	 [np] 不拘/v 
+39	 [np] [vp] g 不妙/a 
+24	 c r 不/d p [vp] 
+25	 不仅/c t [vp] 
+17	 p r 不/d [vp] 不/d [vp] 
+22	 r 不时/d [vp] 
+96	 [np] 不胜枚举/v 
+22	 [np] g [vp] 不宜/v [vp] 
+35	 [np] [vp] 不/d [vp] [advp] a 
+17	 c 不错/a 
+32	 r [advp] 不/d [vp] 不/d a 
+152	 r [advp] 不好/a [vp] y 
+379	 r [advp] 不/d [vp] [qp] [advp] [np] 
+17	 不过/c 不要紧/v 
+698	 c r [advp] [vp] [advp] 不/d [vp] 
+129	 r b [vp] 不/d [vp] 
+17	 不禁/d a c [vp] 
+57	 r z 不/d g 
+111	 r p [vp] 不/d a 
+863	 r t [advp] 不/d [vp] y 
+224	 r [advp] [vp] 不/d [advp] a 
+54	 [np] [advp] r 不/d a 
+16	 t r [advp] [vp] 不/d a 
+16	 b g 不/d [vp] 
+16	 不管/c r [advp] [vp] 
+101	 [vp] 不息/v u [np] 
+16	 不久/m [advp] [vp] s 
+23	 r p 不同/a [np] 
+270	 不仅/c [np] [vp] a 
+31	 p 不少/m [np] f 
+857	 c [np] f 不/d [vp] 
+16	 b m t 不/d [vp] 
+42	 [vp] 不同/a [np] [vp] 
+112	 不过/c [pp] [vp] 
+109	 [np] [advp] 不/d g a 
+142	 m 不/d g s [np] r 
+35	 r [advp] 不甘示弱/v 
+35	 c 不/d [vp] s u [np] 
+16	 f c 不/d p b [advp] 
+266	 r [advp] [vp] 不对/a u 
+266	 c 不仅仅/d [vp] 
+64	 r 不/d [vp] p s [vp] 
+16	 不/d g c [np] 
+16	 c 不予/v [vp] 
+16	 [np] p 不顾/v 
+36	 不少/m s [np] [vp] 
+30	 不要/d [vp] [advp] [vp] 
+21	 c [advp] 不/d a [vp] 
+22	 c s [advp] 不/d [vp] 
+54	 p 不同/a [np] f 
+217	 r [advp] 不/d [vp] s u [np] 
+36	 [np] u 不良/a [np] 
+167	 p [vp] 不足/a u [np] 
+42	 r 不管/c [vp] 
+54	 [np] f [advp] [vp] 不/d [vp] 
+52	 [np] [advp] 不满/a 
+16	 s [np] [advp] [vp] 不/d [vp] 
+35	 [np] 不得/v [vp] [qp] 
+49	 [vp] [qp] [advp] 不/d [vp] 
+16	 g k 不/d [vp] 
+47	 p r f 不久/m 
+16	 c [advp] [vp] 不/d y 
+300	 c r [advp] 不/d [vp] p r 
+16	 不耻下问/v 
+34	 c 不断/d u [vp] 
+16	 r s [np] 不/d [vp] 
+29	 r 不/d [vp] [pp] u [np] 
+16	 [vp] 不周/a 
+16	 不冷不热/v 
+34	 [vp] g [np] 不/d [vp] 
+253	 [np] [advp] 不/d [vp] [advp] [vp] y 
+16	 [advp] 不料/d 
+123	 r [advp] [vp] 不好/a 
+21	 c 不/d [vp] [advp] [vp] y 
+52	 [np] [vp] [advp] 不足/v 
+265	 [pp] [vp] s [np] 不断/d [vp] 
+26	 [vp] 不足/v [qp] 
+43	 [qp] 不/d g [advp] p [vp] 
+16	 m [vp] [advp] 不/d [vp] y 
+36	 c [advp] 不/d r a 
+31	 [vp] 不成方圆/v 
+23	 [np] p 不/d p 
+16	 [advp] [pp] 不/d a 
+137	 [np] [vp] 不严/a 
+33	 m 不/d [vp] m 不/d [vp] 
+29	 r 不/d [vp] p r a 
+16	 不拘一格/v [pp] 
+36	 不过/c p r f 
+22	 不管/c a u 
+36	 [vp] 不/d [vp] 不/d a 
+16	 不过/c r m [vp] 
+136	 r 不再/d a y 
+16	 [np] 不可/v g 
+32	 r 不好意思/v [vp] 
+30	 r 不/d [advp] [vp] [qp] 
+998	 r [advp] 不/d [vp] p [vp] y 
+16	 不知/v r [advp] a 
+275	 r [advp] [vp] 不得/v 
+15	 t [advp] 不/d g 
+15	 c [vp] 不必要/a u [np] 
+87	 [np] u 不/d [np] 
+15	 [np] u [advp] 不/d a 
+132	 r 不仅/c [vp] [advp] [vp] 
+20	 不幸/n [advp] [vp] 
+20	 [pp] [np] 不好/a 
+100	 f [vp] 不怕/v [np] 
+15	 m [np] 不/d [vp] s [np] 
+15	 不/d f 不/d f 
+57	 [vp] [advp] 不/d [advp] a 
+15	 不/d g g [np] 
+336	 c [np] c 不/d [advp] a 
+21	 [vp] 不足为奇/v u 
+44	 s 不断/d [vp] 
+15	 p m m t u 不懈努力/v 
+15	 [np] c 不/d [vp] g 
+36	 [np] [advp] [vp] 不好/a 
+25	 [np] 不得不/d [advp] [vp] 
+210	 r 不仅/c [vp] m [np] 
+15	 c s [advp] 不/d a 
+29	 t u [np] [advp] 不/d [vp] 
+37	 [vp] 不容置疑/v u 
+25	 c [vp] g 不/d [vp] 
+21	 u [np] c 不/d [vp] 
+140	 c 不/d [vp] [pp] [np] [vp] 
+37	 r [advp] 不断/d [vp] 
+31	 c [vp] 不同/a [np] 
+31	 s 不少/m [np] [vp] 
+23	 [advp] c 不/d [vp] 
+32	 [advp] 不在话下/v 
+29	 c 不惜/v [vp] 
+15	 c [np] 不/d [vp] b 
+83	 c [advp] [vp] [qp] 不容忽视/v u [np] 
+15	 c [vp] 不/d [vp] a 
+25	 t [vp] [advp] 不/d a 
+20	 [np] 不好过/a 
+1345	 [np] [advp] [vp] 不同/a [np] 
+22	 不久前/t p s [vp] 
+20	 g [vp] 不/d [vp] [advp] [vp] 
+103	 [np] 不行/a y 
+38	 [advp] 不足为怪/v y 
+200	 [advp] 不可思议/l y 
+1404	 [advp] r 不/d a y 
+56	 [np] [pp] 不/d [vp] g 
+23	 [np] 不减当年/v 
+15	 p s [advp] 不/d [advp] [vp] 
+20	 不但/c [vp] [advp] [vp] 
+26	 [np] 不许/d [vp] 
+15	 c r 不/d [np] 
+38	 [np] g g [vp] 不/d [vp] 
+39	 [qp] 不/d [advp] g 不/d [vp] 
+143	 r [advp] 不能/v [advp] [vp] 
+133	 [np] 不/d [vp] b u [np] 
+15	 不论/c [np] [advp] a 
+15	 [advp] 不慎/d 
+142	 [np] [advp] 不/d r a y 
+43	 [vp] 不/d [vp] a y 
+112	 c [np] 不少/m 
+58	 [advp] 不/d [advp] r 
+65	 [vp] 不/d [vp] c [vp] 
+84	 r 不要/d y 
+15	 t [vp] 不/d g 
+84	 r [advp] [vp] p r 不/d [vp] 
+26	 不论/c [np] [advp] [vp] 
+208	 [np] [vp] a 不/d a 
+15	 [advp] 不能/v [advp] [vp] y 
+201	 [advp] [vp] 不少/m [vp] 
+15	 r 不耐烦/a y 
+22	 [vp] 不好/a y 
+20	 [np] 不定/d 
+283	 [np] [vp] [advp] 不/d a u 
+46	 r [pp] [vp] 不解之缘/l 
+31	 [pp] [advp] [vp] 不/d [vp] 
+31	 r [advp] 不/d y 
+32	 r 不/d [advp] 不/d [advp] [vp] 
+50	 r 不/d g y 
+41	 [np] 不过/c m [np] 
+81	 [vp] 不得/v [np] 
+70	 r 不以为然/v u [vp] 
+31	 r 不/d [vp] p r u 
+28	 r [pp] 不/d a 
+20	 不由/d [advp] [vp] 
+31	 [advp] [np] c 不/d a 
+15	 r [advp] r 不/d [vp] 
+50	 [vp] 不/d [vp] [qp] a 
+15	 不光/c r 
+21	 r [advp] 不好意思/a u [vp] 
+24	 [np] 不肯/v [vp] 
+15	 c [advp] [vp] 不/d g 
+15	 不识时务/v 
+787	 r m [vp] 不/d [vp] a 
+32	 r [advp] 不/d [pp] y 
+26	 不/d [vp] g [np] [vp] 
+103	 r 不再/d [advp] [vp] 
+21	 r 不幸/a u [np] 
+2160	 r [advp] [vp] 不/d u [np] [vp] 
+15	 不要/d 不要/d 
+14	 c [advp] 不/d [vp] l 
+36	 [advp] 不论/c [np] 
+14	 [np] a 不堪/v 
+99	 [vp] a 不/d [vp] a g 
+196	 c [np] [advp] 不/d [advp] a 
+571	 c [np] [advp] 不错/a 
+14	 不/d [vp] m g [np] 
+19	 t u [np] c 不/d a 
+42	 r [advp] [vp] 不争/v u [np] 
+14	 s l [advp] [vp] s [np] 不可分割/v u m m 
+122	 t [np] 不详/v 
+37	 p s [np] 不断/d [vp] 
+2015	 c r 不/d [vp] [pp] [vp] 
+170	 c [np] [advp] p 不断/d [vp] 
+14	 t [advp] 不得而知/v 
+32	 [np] 不堪重负/v 
+14	 c 不同/a u [np] 
+14	 l [advp] 不/d a 
+25	 不料/d [advp] [vp] 
+19	 [np] 不容乐观/v 
+14	 t [advp] 不/d [vp] [advp] [vp] 
+28	 p [vp] 不行/a 
+25	 c [vp] 不/d u r 
+14	 s 不仅/c [np] a 
+76	 [np] 不知/v [np] 不觉/d 
+511	 不少/m [np] [advp] [vp] y 
+14	 [advp] 不/d [advp] g 
+14	 s 不/d g 
+22	 [np] [advp] 不以为然/v 
+39	 r 不/d [vp] [qp] r 
+252	 r [pp] [advp] 不/d [vp] 
+869	 c r 不/d [vp] s [np] 
+20	 [pp] 不断/d [vp] f 
+134	 [np] c 不/d [vp] [advp] a 
+14	 c 不乏/v [np] 
+14	 c 不用/d [vp] 
+14	 [np] p 不断/d u [vp] 
+21	 c 不/d u [vp] 
+55	 [advp] [vp] 不利/a u [np] 
+19	 [np] 不/d [vp] z 
+19	 a g [advp] 不/d [vp] 
+14	 不/d g g g 
+21	 [np] f u 不/d a 
+24	 [np] [vp] 不/d [advp] a 
+14	 [vp] 不/d [vp] [advp] u [vp] 
+14	 不要脸/a u [np] 
+14	 [advp] 不妥/a 
+26	 c a 不/d [vp] 
+19	 不/d c [advp] [vp] 
+14	 不顾/v r 
+14	 c [np] 不行/a 
+14	 [pp] u 不/d a 
+14	 [np] [advp] 不/d g [np] 
+14	 [np] 不/d [vp] 不/d g 
+52	 c [vp] 不到/v [np] 
+21	 不论/c p s 
+51	 [np] 不仅仅/d [vp] 
+48	 [pp] [np] u 不/d [advp] [vp] 
+37	 [advp] [vp] a 不已/v 
+14	 [advp] r [advp] [vp] 不/d a 
+14	 c [vp] 不严/a 
+49	 r [advp] 不/d [pp] [np] 
+14	 [np] 不/d c 
+14	 p u 不/d [vp] 
+40	 不过/c [vp] [qp] [vp] 
+30	 [np] 不无/v [np] 
+29	 [np] [advp] 不/d [vp] [pp] [vp] 
+88	 r f 不/d u [np] 
+21	 不要/d [vp] [pp] 
+110	 s [advp] [vp] 不/d [vp] y 
+14	 m [vp] c 不可收拾/l 
+19	 c t r [advp] 不/d [vp] 
+33	 不/d a m t u 
+21	 m t 不/d [vp] m t 
+48	 [np] [advp] [vp] 不足/v 
+14	 c 不/d [np] [vp] 
+29	 g 不/d [vp] [advp] [vp] 
+77	 [np] c 不/d a y 
+14	 [pp] 不灵/a 
+14	 r g [np] 不/d a 
+39	 [np] 不/d [vp] [advp] a y 
+14	 不管/c [np] f [vp] 
+25	 r [advp] 不/d [vp] 不/d [vp] y 
+46	 不足/v [vp] g 
+127	 r 不/d [vp] l u [np] 
+29	 [np] 不耐烦/a u [vp] 
+21	 [np] 不/d [vp] p a 
+943	 r [advp] [vp] 不/d [advp] [vp] 
+29	 r [advp] a u 不得了/l 
+20	 [np] 不屑/v u [vp] 
+20	 r 不曾/d [vp] 
+71	 r 不知/v [vp] [advp] a 
+105	 r [advp] p 不/d [vp] 
+615	 c 不一会儿/l 
+14	 r 不/d [vp] p [vp] p r 
+42	 [advp] 不知/v r u 
+14	 不知/v [np] u 
+847	 r [advp] [vp] 不/d u r y 
+26	 [np] a u [advp] [vp] 不/d [vp] 
+129	 r [advp] [vp] 不妙/a 
+23	 c [vp] [qp] 不/d [vp] 
+26	 z [np] 不/d [vp] 
+85	 r [advp] 不断/d u [vp] 
+4779	 r p 不/d [advp] [vp] 
+85	 c 不/d [vp] a a 
+38	 c 不得/v [vp] 
+25	 不论/c t [np] 
+13	 c 不/d [vp] 不/d g 
+13	 c p 不同/a u [np] 
+31	 不断/d [np] 
+13	 不知/v p 不知/v 
+45	 t 不少/m [np] [vp] 
+32	 [np] a u 不/d a 
+32	 c [vp] 不/d [advp] a 
+30	 c [vp] 不/d [vp] [advp] [vp] 
+13	 不/d p m [np] 
+139	 m [np] [pp] u [np] 不断/d [vp] 
+25	 [advp] 不赖/a 
+1478	 c [advp] [vp] 不少/m [np] [vp] 
+51	 t 不/d [vp] [advp] [vp] y 
+39	 r [pp] 不/d g [np] 
+13	 [vp] g 不见/v [np] 
+18	 c c [np] 不/d [vp] 
+13	 c p 不同/a [np] 
+25	 c r t 不/d [vp] 
+13	 p [vp] 不善/a 
+27	 [vp] [advp] 不断/d [vp] 
+13	 c [advp] [np] 不/d a 
+13	 不仅/c s [np] 
+33	 c m 不得已/a 
+13	 不/d [vp] t t 
+30	 [np] 不欢而散/l 
+53	 [advp] 不/d [vp] [pp] [advp] [vp] 
+13	 [np] c 不良/a [np] 
+13	 c m t 不/d [vp] 
+260	 r t [advp] [vp] 不/d [vp] y 
+13	 [advp] p 不久前/t 
+13	 不/d [np] p m 
+13	 [np] f [vp] [advp] 不/d a 
+228	 c [vp] g 不/d a 
+114	 不论/c [pp] [np] 
+166	 [advp] [vp] [qp] 不同/a [np] 
+19	 s 不再/d [vp] 
+34	 p 不/d u [np] 
+13	 不/d [vp] c g 
+51	 [np] [advp] 不行/a y 
+13	 c t [np] 不/d a 
+13	 [vp] 不力/a u [np] 
+33	 c 不仅/c [vp] 
+13	 [np] [advp] 不/d p s 
+72	 c 不/d [vp] f [np] 
+41	 [np] 不错/a y 
+23	 [np] 不/d [vp] g [np] 
+13	 [np] u 不幸/n 
+34	 [advp] 不能/v a 
+53	 [advp] [vp] 不/d [vp] [advp] [np] 
+13	 r a c 不/d a 
+13	 c 不能/v [advp] a 
+25	 [advp] [vp] [pp] 不/d a 
+249	 r [advp] 不/d [vp] f u [np] 
+670	 [np] c 不/d [vp] a u 
+86	 不过/c m t [np] 
+13	 r [advp] 不/d g a 
+13	 r u [advp] 不/d [vp] 
+1944	 c r p 不/d [vp] 
+79	 [advp] [vp] 不/d [vp] b u [np] 
+13	 r 不/d g a 
+13	 [np] 不/d p m 
+13	 不论/c p r 
+903	 [np] 不/d [vp] [qp] a 
+13	 不少/m [np] l 
+64	 m 不要/d [vp] l 
+13	 [np] 不能不/d [vp] 
+30	 [vp] 不得不/d [vp] 
+73	 r 不等/v 不/d [vp] 
+13	 [advp] [np] 不断/d 
+50	 [advp] [vp] b [vp] 不可/v u [np] y 
+13	 s [vp] [qp] 不/d a 
+34	 [vp] [advp] 不怕/v 
+22	 c r [advp] 不/d [vp] p [vp] 
+35	 r 不约而同/l u [vp] 
+34	 r 不屑一顾/v 
+13	 z [vp] 不久/m 
+33	 r [qp] [advp] 不/d [vp] y 
+20	 不论/c r a 
+71	 r [advp] 不要/d [advp] [vp] y 
+214	 [vp] m [vp] 不/d a 
+42	 r [advp] 不/d p [vp] g 
+13	 s a 不/d a 
+13	 不久前/t u [qp] t 
+31	 [vp] 不/d [np] g 
+13	 c [vp] 不解/v u [vp] 
+21	 [np] [advp] 不妙/a 
+13	 [np] 不说/v 
+19	 [np] [advp] 不安/a 
+13	 c 不得不/d [advp] [vp] 
+13	 c 不/d [vp] a [vp] 
+13	 t 不/d [vp] 不/d [vp] 
+24	 r c [vp] 不/d a 
+52	 s 不免/d a 
+13	 不/d r 不/d a 
+601	 r [advp] 不/d [vp] m [vp] y 
+24	 r p r [advp] 不/d [advp] [vp] 
+13	 c t [advp] [vp] 不/d [vp] 
+24	 r 不肯/v [vp] 
+13	 不仅/c [np] r 
+240	 r [advp] 不必/d [advp] [vp] y 
+18	 [np] m [np] 不/d [vp] 
+20	 t [vp] f 不久/m 
+129	 c [advp] [vp] 不/d a u 
+13	 不管/c r [advp] a 
+73	 r [advp] 不/d [vp] [qp] [vp] 
+34	 r [advp] [qp] [advp] 不/d a 
+1390	 c r 不/d [vp] a u 
+197	 不论是/c [np] [advp] [vp] 
+13	 不同/a u [advp] 
+24	 c r 不/d [vp] p r 
+13	 不过/c r [advp] [vp] [advp] [vp] 
+13	 不由得/d l 
+664	 r [advp] 不/d [vp] g g 
+51	 r [advp] [vp] [advp] 不/d [vp] y 
+353	 r a u 不/d [vp] y 
+80	 r 不/d [vp] c [np] [vp] 
+188	 r 不过/d [vp] y 
+34	 r [advp] 不/d [advp] a y 
+19	 不许/d r [advp] [vp] 
+18	 r 不才/n [vp] 
+13	 不许/d [vp] y 
+22	 r [advp] 不耐烦/a u [vp] 
+34	 r 不/d [vp] x 
+50	 r 不/d [vp] g y 
+34	 r p [vp] 不少/m [np] 
+12	 r 不/d [pp] y 
+25	 c 不/d [vp] g [np] 
+12	 [qp] 不见/v 
+12	 r 不/d [vp] p a 
+174	 c r [advp] 不以为然/v 
+46	 [pp] [np] 不善/a 
+27	 [np] 不翼而飞/v 
+19	 [np] f u [np] c 不/d a 
+308	 [np] g 不/d [vp] g 
+293	 c 不/d [vp] t u [np] 
+48	 [vp] 不择手段/l 
+52	 r 不辞辛苦/v 
+17	 [np] u 不同/a u [np] 
+35	 [pp] [np] 不/d [vp] f 
+12	 [qp] 不同/a a 
+18	 c [qp] 不/d [vp] 
+12	 r [advp] 不可思议/l 
+10004	 [pp] [np] 不断/d [vp] f 
+12	 [np] f [advp] 不/d [advp] [vp] 
+36	 [np] 不断/d a 
+115	 t [vp] 不/d a u m t 
+21	 m 不/d g t 
+26	 [np] p [vp] 不/d [vp] 
+12	 c [advp] 不必/d [vp] 
+12	 r [advp] 不以为然/v u [vp] 
+21	 r 不少/m [vp] 
+12	 不/d a 不/d g 
+20	 r m [np] c 不/d a 
+17	 p s [np] 不/d [vp] 
+17	 c 不/d [vp] p f [vp] 
+12	 不论/c [np] m a 
+50	 [pp] [np] 不/d [np] f 
+48	 c [np] 不得/v [vp] m t 
+54	 不予/v [np] u 
+235	 m [np] [vp] 不断/d [vp] 
+898	 t [np] 不/d [vp] y 
+12	 [advp] [vp] 不知/v 
+35	 [advp] 不仅仅/d [vp] 
+85	 [qp] 不等/v u [np] 
+19	 c [advp] r [advp] 不够/a 
+6773	 c [np] [advp] 不/d a y 
+211	 [np] 不一/v u [np] 
+24	 p [vp] 不同/a u [np] 
+12	 c t [advp] 不/d a 
+12	 不觉/d l 
+12	 u [vp] c 不/d [vp] 
+12	 [np] [advp] 不菲/a 
+23	 g g [advp] 不/d [vp] 
+27	 [advp] 不/d [vp] a u g 
+12	 [vp] g 不如/v a a 
+12	 [advp] [vp] 不息/v 
+121	 不过/c [np] [advp] [vp] y 
+12	 c r [advp] 不在乎/v 
+115	 [np] [advp] [vp] 不衰/v 
+12	 [vp] 不久前/t 
+54	 [advp] 不用说/v [vp] y 
+17	 m [vp] c 不/d [vp] 
+41	 [advp] [vp] s 不/d a 
+59	 不过/c [vp] [advp] [vp] 
+41	 r [advp] 不予/v [vp] 
+12	 不育症/n 
+20	 r [advp] [vp] 不同/a [np] 
+17	 p [vp] f 不久/m 
+1679	 [advp] [vp] p 不同/a [np] 
+12	 c 不/d [vp] a y 
+12	 u 不同/a k 
+12	 [np] 不/d [vp] m g 
+12	 g f 不/d [vp] 
+12	 [qp] [advp] [vp] 不/d [vp] y 
+1266	 c r [advp] [vp] 不/d y 
+12	 不/d p [advp] [vp] 
+12	 [pp] [np] f [vp] 不同/a [np] 
+33	 [vp] [advp] 不要/d [vp] 
+702	 [np] [advp] [vp] 不可/v [vp] 
+78	 u [np] [advp] 不复存在/v 
+258	 r 不妨/d [vp] [qp] 
+12	 r 不怕/v y 
+12	 a a 不/d a 
+12	 p r 不要/d [vp] 
+17	 [np] 不轨/a 
+61	 [np] 不/d r a y 
+28	 不得/v g [vp] 
+33	 r m [vp] 不要紧/v 
+1120	 [advp] 不/d [vp] m t [np] 
+12	 r u t 不/d [vp] 
+25	 [advp] 不/d [advp] [vp] p r 
+12	 s 不再/d a 
+33	 [np] [advp] 不/d p [vp] 
+12	 [advp] 不衰/v 
+18	 [pp] 不同/a [np] 
+22	 [advp] 不懈/z u [vp] 
+12	 不图/v [np] 
+12	 不/d [vp] [qp] 不/d [vp] 
+12	 [qp] f 不/d a [qp] u [qp] 
+12	 [pp] 不足/a u [np] f 
+35	 不/d [vp] p g g 
+520	 [np] c 不/d [vp] y 
+12	 不/d p r g 
+12	 r 不在乎/v r 
+40	 [vp] a u 不/d [vp] 
+38	 r 不禁/d [vp] m [vp] 
+12	 [pp] 不/d [advp] a 
+12	 不知/v [vp] 不/d [vp] 
+12	 [np] 不/d [vp] a a 
+33	 r [advp] 不对/a 
+20	 s [advp] [vp] 不少/m [np] 
+26	 不再/d [pp] [vp] 
+54	 r p f 不/d [vp] 
+12	 f c 不/d [vp] 
+12	 c [advp] 不/d a u 
+36	 不久前/t u m t t 
+53	 [np] [advp] 不/d [vp] p [vp] 
+24	 [vp] 不禁/d [vp] 
+132	 [np] k [advp] 不/d [vp] y 
+17	 不仅/c [vp] [pp] [vp] 
+54	 [np] [advp] 不可收拾/l 
+2414	 r [advp] [vp] [advp] 不/d a u 
+18	 [advp] r [advp] 不/d [advp] [vp] 
+222	 r 不好意思/v u [vp] y 
+12	 不久/m [advp] [pp] [vp] 
+21	 [qp] 不含糊/a 
+19	 r [qp] [advp] [vp] 不/d y 
+72	 r [advp] [vp] 不/d p 
+20	 c [advp] r [advp] 不/d [vp] 
+12	 p f 不足/v 
+229	 [advp] [pp] [vp] 不/d [vp] 
+428	 c r 不能不/d [vp] 
+113	 [np] [advp] 不再/d [vp] y 
+12	 不觉/d a 
+28	 r 不住/d u [vp] 
+228	 r 不由得/d [vp] m [vp] 
+12	 p f [advp] 不/d [vp] 
+18	 c r [advp] [vp] 不/d u r 
+47	 不可一世/v u [np] 
+64	 r [advp] 不/d [vp] g [np] 
+12	 r t r 不/d [vp] 
+25	 不过/c c [vp] 
+12	 r [advp] 不/d [vp] p [vp] [qp] r 
+67	 r [advp] [vp] 不好意思/v 
+36	 r [advp] 不够/a y 
+12	 r 不怕/v r 
+12	 s 不禁/d [advp] [vp] 
+95	 r 不要/d p [vp] 
+12	 [vp] t 不/d g 
+20	 r a u u 不/d [vp] 
+12	 m [vp] 不/d o 
+36	 t r [advp] [vp] 不/d [vp] y 
+24	 c [np] r [advp] 不/d [vp] 
+11	 [np] [qp] [vp] 不/d [vp] 
+11	 不管/c [np] 不/d [vp] 
+23	 c p r 不/d [vp] 
+11	 不过/c p s 
+11	 s [vp] 不/d [vp] g 
+35	 不过/c [vp] [advp] a 
+231	 g [np] c 不/d [np] 
+488	 c r [advp] 不/d [vp] b u [np] 
+82	 [np] 不但/c [vp] 
+16	 [advp] g 不怕/v [np] [vp] 
+42	 [advp] 不用/d [np] 
+11	 r 不/d [vp] a [qp] 
+147	 r l 不/d [vp] 
+17	 r 不准/v [vp] 
+11	 g 不如/v g 
+211	 不仅/c [pp] [np] f 
+11	 不/d g [np] [vp] 
+28	 [vp] g 不/d p 
+11	 [np] 不便/a u [np] 
+11	 [advp] p 不同/a u [np] 
+11	 [np] c [vp] 不同/a 
+165	 c [pp] [np] 不同/a 
+11	 [advp] r 不/d [advp] [vp] 
+11	 [np] 不够/a [vp] 
+196	 r 不/d [vp] z [np] 
+16	 [np] 不足/v [vp] 
+27	 [vp] [advp] 不可/v [vp] 
+31	 [np] t [advp] 不/d a 
+11	 m 不/d g r 
+34	 不断/d [vp] [pp] [np] 
+11	 [advp] p 不同/a [np] 
+34	 c [advp] 不/d [vp] m t 
+27	 [vp] [qp] a 不同/a u [np] 
+11	 [vp] m [vp] 不久/m 
+28	 t [np] 不/d g 
+33	 r [advp] [vp] 不可/v [vp] 
+30	 r [advp] [vp] 不/d [pp] 
+164	 [vp] p 不/d a u t 
+11	 不过/c r u 
+11	 [np] [advp] 不再/d a 
+164	 r g 不/d [vp] g 
+40	 [np] 不得人心/v 
+11	 t [pp] 不/d a 
+11	 c 不宜/v [vp] 
+24	 [np] p 不同/a [np] 
+26	 不仅/c p s [np] [vp] 
+11	 [advp] 不合时宜/l 
+20	 不经意/a f 
+18	 [vp] g 不绝于耳/v 
+222	 [vp] s [vp] s [np] 不可分割/v u m m 
+21	 c m [np] 不/d [vp] 
+27	 c [advp] 不/d [np] 
+23	 [advp] p 不久/m f 
+58	 r 不仅/c p s a 
+11	 [vp] [advp] p 不断/d [vp] 
+16	 不/d [vp] g c [vp] 不/d [advp] 
+182	 r 不/d p s [vp] 
+39	 [np] 不宜/v [vp] 
+18	 [pp] [np] f 不/d [vp] 
+151	 r [advp] [vp] 不/d [vp] s u [np] 
+17	 [advp] [vp] [pp] [np] 不/d a 
+18	 不论是/c [pp] 
+28	 f [advp] 不/d [vp] y 
+16	 不过/c [pp] u [np] 
+11	 f 不/d y 
+11	 不断/d [vp] [pp] u [np] 
+16	 [vp] [advp] a u 不同/a 
+21	 r u [vp] 不/d a 
+11	 不过/c p t 
+16	 p [vp] [qp] 不/d [vp] 
+44	 r 不仅/c [vp] [pp] u [np] 
+11	 r [advp] 不在乎/v r 
+11	 p r 不同/a u [vp] 
+11	 r 不/d g g 
+11	 c [np] [vp] [advp] 不/d a 
+93	 c t 不/d [vp] y 
+16	 [advp] a 不/d [advp] a 
+16	 [np] [pp] [np] 不/d a 
+36	 [vp] [advp] 不能/v [vp] 
+17	 不仅/c [vp] 不/d [vp] 
+16	 不足/a [np] [pp] [vp] 
+240	 [vp] 不/d [pp] [np] [vp] 
+11	 不准/v [vp] p [advp] [vp] 
+20	 [vp] 不法分子/n 
+38	 [advp] [vp] 不休/v 
+20	 t [vp] 不/d u [vp] 
+11	 不过/c [vp] l 
+114	 c 不久以后/l 
+16	 不/d [pp] u [np] [vp] 
+37	 [np] g [vp] 不/d a 
+49	 [advp] 不致/d [vp] 
+55	 [advp] [vp] 不/d g u [np] 
+17	 [vp] 不/d [vp] [pp] u [np] 
+19	 r [pp] 不同/a 
+17	 [np] c 不足/v 
+256	 [np] [vp] 不言而喻/v u 
+127	 u [np] [advp] [vp] 不/d y 
+17	 c [advp] [vp] 不同/a u [np] 
+11	 [pp] 不良/a 
+21	 t [np] 不景气/a 
+16	 [vp] 不够/a u [np] 
+37	 r [advp] 不要紧/v 
+87	 t [np] [advp] 不/d a y 
+11	 c [advp] 不幸/a 
+11	 c 不要紧/v 
+11	 [np] u 不/d g 
+11	 r [advp] 不够/a a 
+11	 g 不/d g [vp] 
+33	 r [advp] 不/d c [vp] 
+72	 [np] [vp] 不够/a u 
+47	 r t [np] 不好/a 
+17	 r g [np] 不/d [vp] 
+186	 r g g 不/d [vp] 
+11	 c [np] 不/d [vp] y 
+16	 f u 不/d [vp] 
+19	 m 不/d [vp] y 
+11	 a [advp] 不/d [vp] g 
+37	 c [advp] a 不得/v [vp] m t 
+11	 [advp] a c 不必/d 
+11	 [advp] 不/d [vp] [qp] l u [np] 
+18	 不论/c [pp] [vp] 
+11	 r c [advp] 不/d a 
+11	 r s [np] 不/d a 
+11	 不幸/a u [np] [vp] y 
+17	 g r 不幸/n 
+11	 [pp] 不/d u [np] 
+11	 r [advp] 不尽然/v 
+66	 [advp] [vp] m [np] 不/d [vp] 
+80	 r 不怕/v [vp] y 
+11	 c 不必/d [advp] [vp] 
+11	 不得/v a 
+90	 [advp] [vp] [advp] 不/d [np] 
+11	 不对/a u [advp] [vp] 
+11	 m [vp] 不行/a m [vp] 
+11	 不禁/d z 
+42	 [advp] [vp] 不/d u [qp] 
+11	 不绝如缕/v 
+11	 不/d [advp] a [vp] 
+11	 g 不/d [vp] g g 
+22	 [np] [advp] 不/d [vp] b u 
+20	 [np] 不/d [vp] g [vp] 
+60	 [vp] 不/d u m t [np] 
+22	 p r 不/d [vp] g 
+18	 [np] f u [np] 不/d a 
+257	 c r s [advp] 不/d a 
+17	 p 不/d p [vp] 
+35	 [advp] [vp] 不/d [advp] a u 
+56	 [np] 不准/v [vp] f 
+25	 [np] c 不幸/n 
+76	 c r [advp] 不然/v 
+93	 [advp] [vp] [pp] 不/d [vp] 
+180	 c [np] r 不/d a 
+11	 [np] 不怕/v [np] 
+11	 [vp] 不过/c m t 
+11	 [advp] 不足/v [vp] 
+166	 r [advp] 不怕/v [vp] 
+19	 [advp] [vp] [advp] 不行/a 
+26	 c [advp] 不/d [vp] s [np] 
+44	 r [advp] 不知/v [np] 
+49	 r [qp] [advp] 不/d [vp] a 
+11	 c [vp] 不/d [vp] [qp] 
+398	 r [advp] [vp] 不到/v [np] 
+11	 b 不能/v [advp] 
+24	 r [advp] f 不/d u [np] 
+48	 [vp] [advp] 不/d [vp] g 
+31	 不久/m [np] [vp] y 
+120	 r [advp] 不像话/a y 
+73	 [np] r [advp] [vp] 不/d [vp] y 
+35	 c [vp] 不/d [vp] g 
+17	 r [advp] 不好/a y 
+119	 [advp] 不见/v [np] [vp] 
+11	 不容/v t [vp] 
+22	 [vp] y 不/d [vp] 
+11	 不管/c r y 
+19	 [np] r 不/d [advp] [vp] 
+142	 r 不/d [vp] [advp] 不行/a 
+11	 t [vp] 不足/v 
+97	 r 不动声色/v u [vp] 
+11	 不/d g p g 
+37	 t 不/d p t 
+11	 不/d a t 
+26	 [vp] 不在乎/v 
+11	 不/d [vp] m 不得已/a 
+274	 c r b [vp] 不可/v 
+92	 a u 不能/v [advp] a y 
+231	 不一会/l [np] 
+38	 r [advp] 不/d [vp] p r [advp] [vp] 
+11	 c [advp] 不/d p 
+11	 r 不等/v [vp] 
+11	 不过/c g 
+21	 r c 不/d [vp] y 
+455	 [advp] [vp] 不/d p [vp] 
+11	 r 不见/v y 
+22	 r 不/d [vp] [pp] y 
+11	 r 不要脸/a 
+18	 r [advp] 不管/c r 
+10	 [np] u 不得了/l 
+10	 t [vp] [advp] [vp] 不/d [vp] 
+328	 m [np] 不/d [vp] m [np] 
+89	 [np] [advp] 不/d [vp] [advp] a u 
+10	 g [np] c 不/d [vp] 
+15	 r [advp] 不动声色/v 
+10	 [np] [pp] 不同/a 
+46	 [advp] [vp] 不可思议/l u [vp] 
+433	 r [advp] [vp] 不够/a u 
+17	 c s [np] 不/d a 
+27	 [np] 不/d [vp] t u [np] 
+10	 [advp] 不欢而散/l 
+41	 不/d [vp] m t [advp] [vp] y 
+15	 c 不/d [vp] t [np] 
+23	 不少/m [np] [advp] a 
+19	 不人道/a c [vp] g [np] c [vp] 
+10	 [vp] a u [advp] 不行/a 
+10	 不管/c [vp] [qp] 
+39	 c 不/d [vp] p s [vp] 
+17	 [np] [vp] 不当/a 
+749	 c [np] [vp] 不久/m 
+10	 [np] p [qp] [vp] [qp] 不等/v 
+16	 [np] c [advp] 不/d [vp] 
+78	 m [np] 不同/a [np] [vp] 
+15	 [vp] 不得人心/v u 
+17	 [np] [advp] 不予/v [vp] 
+10	 t [np] [advp] 不/d [vp] y 
+65	 [advp] [vp] 不/d [vp] s [np] 
+10	 [advp] a 不/d [vp] m [np] 
+23	 a s [vp] f 不久/m 
+10	 m 不/d [vp] l 
+165	 c m [np] [advp] 不/d [vp] 
+10	 不知/v [vp] m [vp] 
+98	 c t 不同/a y 
+10	 c a [advp] 不/d a 
+10	 c [np] [advp] 不/d [vp] [advp] [vp] 
+10	 [vp] 不/d a u l 
+62	 c 不要/d [vp] y 
+23	 c 不/d [advp] [vp] m [np] 
+39	 [advp] 不用说/v [np] y 
+68	 r l [vp] 不/d [vp] 
+10	 不得/v [vp] g 
+23	 [vp] [advp] 不/d [vp] [advp] a 
+10	 c [np] 不一/v 
+16	 [np] f u [np] [advp] 不/d a 
+48	 r m [advp] 不/d [vp] 
+417	 c r p r [advp] 不/d [vp] 
+10	 [vp] g g 不/d [vp] 
+10	 [np] a 不已/v 
+411	 t [np] 不/d a y 
+10	 t [vp] 不久/m 
+22	 c [np] 不/d [np] 
+10	 [advp] p g a c 不/d [vp] 
+77	 c [advp] 不够/a a 
+218	 c s [np] [advp] 不/d [vp] 
+121	 s b g b 不/d [vp] 
+17	 [pp] [np] [vp] 不/d a 
+10	 [np] 不见/v [np] 
+41	 r [advp] 不惜/v [np] 
+113	 c [vp] 不少/m [np] [vp] 
+61	 不过/c t [vp] 
+722	 c [np] [advp] 不断/d [vp] 
+64	 [advp] 不时/d u [vp] 
+10	 c r g 不/d [vp] 
+104	 [np] 不要/d [vp] s [vp] 
+15	 [np] [vp] 不/d p 
+32	 [np] 不得/v [vp] m [np] 
+10	 [np] [advp] 不堪重负/v 
+83	 c [np] [vp] 不/d a u 
+10	 g p 不/d g f 
+15	 [vp] f 不/d a 
+39	 r 不仅/c [vp] f u [np] 
+114	 [advp] 不断/d [vp] c [vp] 
+10	 [np] 不/d [vp] g g 
+26	 不容/v [np] [vp] 
+42	 不断/d [vp] [advp] [vp] 
+17	 [np] f 不/d [vp] a 
+10	 [vp] 不绝于耳/v 
+35	 r [advp] 不/d [vp] s [vp] 
+41	 r [advp] [pp] 不/d [vp] 
+28	 不动产/n [np] 
+280	 [np] 不断/d [vp] c [np] 
+48	 s [advp] 不甘落后/v 
+10	 [np] 不宜/v u a 
+10	 不朽/z y 
+23	 [np] 不/d [np] [vp] 
+10	 [np] [vp] [pp] 不/d a 
+10	 [np] 不要/d [advp] [vp] 
+33	 [np] g [advp] 不/d a 
+29	 不/d [advp] p r 
+127	 c r c 不/d a 
+44	 不/d [advp] [pp] [vp] 
+10	 a c 不/d [advp] 
+10	 [vp] 不乏/v [np] 
+20	 b 不/d b 
+15	 p [advp] 不/d [vp] 
+10	 不/d [vp] [advp] 不/d a 
+10	 不/d [vp] a c a 
+95	 [advp] [vp] 不可磨灭/v u [np] 
+10	 c 不/d a g 
+45	 c [np] [advp] 不然/v 
+40	 [vp] g r 不/d [vp] 
+10	 不/d [pp] u [vp] 
+10	 [np] 不要/d [advp] a 
+10	 p g 不/d a 
+101	 r [pp] [advp] 不/d a 
+10	 [qp] [advp] 不要/d [vp] 
+10	 r 不/d [vp] [advp] u [vp] 
+15	 [vp] [qp] 不/d a u 
+15	 c 不至于/d [vp] 
+16	 不/d [vp] 不行/a u 
+117	 [np] 不/d a [vp] [advp] [vp] 
+10	 不要/d a 不/d [vp] 
+21	 c 不/d [vp] k 
+30	 [advp] [vp] 不/d [vp] g [np] 
+90	 [advp] 不可/v [np] 
+15	 [vp] c 不/d [vp] y 
+137	 c r 不/d [vp] b u [np] 
+10	 不可/v g g 
+16	 m [vp] 不好/a u 
+10	 [pp] 不/d [vp] [advp] [vp] 
+15	 [vp] 不敢当/v 
+10	 不知/v r f 
+94	 [vp] 不/d [vp] l u [np] 
+10	 [np] [vp] 不通/a 
+22	 不要/d g [vp] 
+10	 [np] g g 不/d [vp] 
+10	 [advp] 不足/v k 
+15	 [advp] [np] 不/d g 
+10	 g g [np] 不/d a 
+10	 [vp] a [advp] 不/d a 
+33	 [np] u [vp] 不/d [vp] 
+10	 g g 不觉/d g 
+227	 [vp] f 不/d [vp] y 
+61	 r 不/d [vp] [pp] [np] [vp] 
+36	 r 不辞劳苦/v 
+27	 r [advp] a 不已/v 
+493	 r [advp] 不/d [vp] m [np] 
+59	 m [np] [advp] [vp] 不/d [vp] y 
+16	 [np] 不得/v [np] 
+16	 [np] 不动声色/v 
+10	 不劳而获/v 
+10	 c 不无/v [np] 
+10	 [vp] 不/d [np] m 
+10	 m u 不/d [vp] 
+10	 r 不同/a y 
+10	 m t [np] 不/d [vp] 
+27	 [vp] 不仅仅/d [vp] 
+10	 不管/c [vp] l 
+10	 r [advp] a 不堪/v 
+105	 r [advp] [vp] 不断/d u [vp] 
+15	 不禁/d [np] [vp] 
+10	 c [advp] [vp] 不足/v 
+172	 c [np] [vp] 不好/a 
+31	 [np] [vp] t [np] c 不/d a 
+44	 r 不辞辛劳/v 
+16	 [qp] 不法分子/n [vp] 
+17	 [vp] 不惜/v [np] 
+60	 不/d [np] [advp] [vp] m 
+616	 r [advp] [vp] 不行/a u 
+10	 不禁/d g p f [vp] 
+10	 s [np] 不/d [vp] a 
+10	 b [advp] [vp] 不可/v 
+10	 m [np] [advp] 不/d [vp] y 
+32	 [advp] [vp] 不义之财/l 
+30	 c [advp] 不/d [vp] [pp] [vp] 
+73	 [advp] [vp] [advp] a 不过/u y 
+68	 c 不久/m r [advp] [vp] y 
+21	 [np] 不解/v [np] 
+10	 [np] 不通/a [vp] 
+20	 不免/d [advp] [vp] 
+95	 [advp] [vp] [qp] 不可/v [vp] 
+42	 r [advp] [qp] 不/d [vp] 
+10	 [np] 不无/v [vp] 
+95	 [advp] [vp] 不可避免/v u 
+16	 [np] [vp] 不断/d u [vp] 
+73	 [advp] [vp] [advp] 不/d [advp] [vp] 
+17	 [advp] [vp] c [vp] f u 不正之风/l 
+30	 [np] [vp] 不到/v [np] 
+10	 r m 不要/d [vp] 
+10	 [np] 不拘一格/v 
+10	 [np] [advp] [vp] 不够/a 
+10	 t 不可/v [vp] 
+10	 m [vp] 不得/v 
+18	 r [advp] 不/d [vp] x 
+18	 [advp] u r [advp] 不/d [vp] 
+165	 [np] 不免/d [vp] 
+10	 不管/c [vp] [advp] a 
+15	 [vp] 不/d [vp] m t [np] 
+50	 [vp] c [vp] 不足/v 
+10	 不知/v [np] p r 
+67	 [np] [advp] 不/d [vp] m t 
+142	 r 不由/d [vp] 
+24	 r 不/d [vp] [pp] [vp] y 
+18	 t g 不/d [vp] 
+38	 r 不再/d [vp] g 
+10	 [np] 不耐烦/a y 
+16	 [advp] 不能/v p [vp] [pp] [vp] t [vp] 
+1752	 r 不/d [advp] [vp] y y 
+103	 不管/c [vp] [advp] [vp] a 
+72	 r 不仅/c p [vp] 
+10	 [np] 不再/d [vp] s [np] 
+10	 不惜工本/v 
+18	 r [advp] 不/d a m t 
+50	 r [advp] a 不/d y 
+16	 [vp] 不/d u u [np] 
+77	 r m t [advp] 不/d [vp] 
+32	 [advp] [vp] 不/d g u g 
+10	 [np] t [vp] 不/d [vp] 
+10	 [np] 不/d [advp] [pp] 
+35	 [advp] p 不/d [vp] y 
+158	 r [advp] 不/d u 不/d [vp] 
+17	 不幸/a u [np] [vp] 不幸/n 
+10	 [advp] g [np] 不/d [vp] 
+10	 [np] 不幸/n 
+31	 [advp] [vp] 不到/v [vp] 
+20	 [vp] 不/d [vp] [qp] [vp] 
+24	 r [advp] 不/d [vp] p f [vp] 
+15	 r 不好意思/a 
+107	 r [advp] [vp] 不/d a a 
+10	 s u [np] g 不/d [vp] 
+10	 [np] [advp] 不/d [vp] m [vp] 
+10	 r 不甘示弱/v 
+10	 不谙/v [np] 
+10	 不管/c [vp] c 不/d [vp] 
+10	 不过/c [vp] p [vp] 
+29	 r [advp] 不/d a [advp] [vp] 
+34	 不/d [vp] [advp] r y 
+10	 r g 不再/d [vp] 
+18	 r [advp] 不已/v 
+514	 [vp] t [vp] 不/d [vp] y 
+15	 r 不/d [vp] s y 
+10	 不禁/d a g 
+60	 [vp] 不要/d [advp] [vp] y 
+35	 r s c 不/d a 
+15	 [vp] 不过/c r 
+34	 [advp] 不知所云/v 
+43	 r [advp] 不要/d a 
+10	 r 不/d [vp] p s y 
+10	 不过/c [vp] m t 
+34	 r [advp] 不大/d [vp] 
+10	 不必/d a g 
+77	 r z 不/d [vp] 
+1343	 r c [np] 不同/a 
+10	 a 不要脸/a 
+44	 不/d [vp] [advp] 不好/a 
+16	 r f [advp] 不/d [vp] 
+16	 r 不/d [vp] [advp] [vp] p r 
+137	 r 不/d [vp] p f [vp] y 
+66	 r [advp] 不愧/d [vp] 
+10	 c r [advp] [vp] 不到/v 
+18	 r [advp] [vp] a 不好/a 
+550	 r 不要/d a y 
+10	 c [vp] 不/d a a 
+15	 r [advp] 不屑/v u [vp] 
+7352	 r 不/d [vp] [advp] [vp] y y 
+10	 不然/c r [advp] 不/d [vp] y 
+73	 c [vp] c 不/d [advp] a 
+143	 [np] c 不/d [vp] b u [np] 
+9	 r c 不/d [advp] a 
+9	 o u [vp] [qp] 不/d [vp] 
+84	 [advp] 不/d [vp] c [advp] [vp] 
+16	 [np] 不规则/a 
+25	 [np] 不怕/v a 
+9	 c [np] [advp] 不/d r 
+21	 [advp] [vp] m 不同/a u [np] 
+9	 c [np] 不/d [vp] g 
+17	 t 不断/d [vp] 
+9	 s [vp] [qp] 不/d [vp] 
+47	 [np] [vp] 不到/v m t 
+16	 g 不知/v g 
+9	 r t [vp] 不/d a 
+9	 [vp] p 不断/d [vp] 
+277	 c r 不/d [pp] [vp] 
+28	 [vp] 不同寻常/v u [np] 
+68	 [advp] 不/d [vp] t [vp] 
+9	 f [vp] f 不/d [vp] 
+24	 [np] p r [advp] 不满/a 
+9	 [np] 不易/a 
+20	 m t 不/d [vp] a 
+134	 [advp] [vp] 不懈/z u [np] 
+9	 [pp] u 不懈努力/v 
+45	 p 不/d [vp] m t u [np] f 
+284	 s u [np] p 不断/d [vp] 
+9	 c 不少/m [np] [advp] [vp] 
+9	 s [np] 不再/d [vp] 
+14	 c t r 不/d [vp] 
+29	 r [advp] 不/d [vp] k u [np] 
+14	 不良/a [np] [vp] m 
+41	 不骄不躁/v u [np] 
+9	 g 不/d [vp] [qp] s [np] 
+9	 [advp] 不/d g r 
+9	 t 不/d [vp] [qp] 
+9	 不仅/c [pp] a 
+21	 [pp] u [np] [advp] 不利/a 
+22	 m t f 不/d [vp] 
+9	 b b m [np] 不断/d [vp] 
+9	 不/d g c g 
+9	 不断/d [advp] [vp] 
+25	 [np] 不仅/c [vp] [advp] [np] 
+17	 r [advp] m [vp] 不/d [vp] 
+800	 c [pp] [np] u 不断/d [vp] 
+14	 s [vp] 不/d p s [vp] 
+90	 r [advp] [vp] 不可开交/l 
+76	 c 不知/v p r f 
+9	 [advp] a [advp] 不行/a 
+35	 c [np] 不济/a 
+9	 [np] 不成/v [np] 
+9	 s 不/d [vp] f [vp] 
+14	 f [np] [advp] 不/d [vp] 
+31	 不断/d [pp] [np] [vp] 
+9	 p t 不/d a 
+14	 u [np] 不妥/a 
+73	 [np] 不明/v [np] 
+175	 [advp] 不容/v [vp] 
+46	 c r 不为所动/v 
+9	 g [vp] 不止/v 
+9	 c 不择手段/l 
+28	 [vp] m [vp] 不/d [np] 
+56	 不然/c [advp] [vp] y 
+9	 [advp] 不得人心/v 
+9	 r [advp] 不复存在/v 
+195	 c t 不久/m 
+30	 [advp] [vp] 不可估量/v u [np] 
+96	 p s [np] 不景气/a 
+18	 [vp] [advp] 不够/a a 
+22	 p [vp] 不/d [vp] f 
+28	 c [np] 不菲/a 
+103	 r [advp] [vp] 不必/d [vp] 
+25	 r [pp] 不符/v 
+104	 [np] 不同/a [pp] [np] 
+9	 [np] u [advp] 不/d [vp] 
+9	 [np] 不断/d u [np] 
+14	 r [pp] [np] 不/d [vp] 
+17	 b b m [np] 不同/a 
+14	 [vp] 不再/d a 
+9	 [pp] [vp] 不够/a 
+149	 c [vp] c 不/d g 
+14	 c r 不/d [vp] z 
+9	 r p t [vp] 不可/v [vp] 
+20	 r [advp] a 不/d u y 
+9	 [np] [advp] 不甘示弱/v 
+9	 不久/m [advp] p s [vp] 
+15	 p f 不/d [advp] [vp] 
+53	 p r 不远处/s 
+357	 u [np] [vp] [advp] 不/d [vp] 
+14	 [np] 不可避免/v 
+43	 r 不仅/c [vp] c [np] 
+9	 g [advp] 不宜/v a 
+9	 不顾/v [np] [advp] [vp] 
+25	 a u c 不/d a u 
+9	 [np] r [advp] [vp] 不/d a 
+9	 p [vp] g 不/d [vp] 
+9	 不/d [advp] [pp] [np] 
+9	 m g 不/d a 
+1497	 r 不但/c [vp] y 
+63	 不/d [vp] 不切实际/v u [np] 
+9	 [vp] 不良/a [np] u 
+47	 [np] 不堪回首/v [np] g f 
+16	 z [np] 不/d a 
+19	 [np] 不/d [vp] [qp] [vp] 
+18	 不要/d [vp] m [np] 
+27	 r 不/d [advp] 不/d a 
+55	 r [pp] 不好/a 
+9	 [pp] [vp] [advp] 不/d a 
+15	 不/d u a [vp] c [vp] 
+15	 不得/v [vp] [pp] u [np] p [vp] 
+9	 不得/v [vp] s u [np] 
+9	 p s [advp] 不/d [vp] 
+131	 c t [np] 不同/a y 
+16	 c [np] [advp] 不/d [advp] [vp] 
+9	 t [vp] 不/d f [vp] 
+146	 [np] k 不/d [vp] y 
+282	 c [np] 不可/v [vp] 
+9	 c s p m [np] f 不/d p s [vp] 
+19	 不要/d [vp] [qp] 
+15	 [np] [vp] 不/d [vp] t [vp] 
+26	 u [np] [vp] 不对/a u 
+9	 [np] 不够/a u [np] 
+79	 c [np] 不/d m 
+9	 [np] 不/d b 
+229	 r [advp] 不/d [vp] t u [np] 
+417	 [pp] [np] [vp] 不足/v 
+17	 r 不/d [vp] f [vp] 
+25	 [pp] [vp] 不同/a u [np] 
+9	 c [pp] [vp] 不/d [vp] 
+9	 c p 不断/d [vp] 
+349	 p 不同/a u [np] [vp] 不同/a u [np] 
+35	 [vp] 不/d [vp] m u [np] 
+19	 [np] p [vp] 不服/v u 
+54	 [advp] 不宜/v [advp] [vp] 
+9	 不等式/n 
+21	 c 不/d [vp] f [vp] 
+107	 r [advp] [vp] 不/d u a 
+20	 r 不由得/d [vp] y 
+47	 r [advp] 不幸/a y 
+56	 r [advp] p r 不/d [vp] 
+9	 a g [vp] 不/d [vp] 
+34	 g 不/d [vp] c [np] 不/d [vp] 
+26	 [np] 不/d g r g 
+9	 c m [vp] 不/d [vp] 
+9	 [advp] 不/d p a 
+9	 [vp] k [advp] 不/d a 
+9	 不/d a [advp] a 
+15	 c p [vp] 不/d [vp] 
+1889	 r [advp] [vp] [advp] [vp] 不/d [vp] y 
+21	 [vp] 不/d [vp] g g 
+9	 不必/d [vp] g 
+52	 不道德/a u [np] 
+144	 c [np] [advp] u 不/d [vp] 
+9	 r p 不/d p 
+9	 r 不予/v [vp] 
+9	 c 不/d [vp] a g 
+9	 c 不宜/v [advp] [vp] 
+9	 [np] [vp] 不好/a u 
+15	 p [vp] 不/d a u 
+24	 r 不/d [vp] k 
+14	 不/d [vp] [pp] c [vp] 
+9	 不管/c [np] a a 
+230	 [advp] [vp] 不/d a g 
+9	 [np] b [vp] 不可/v 
+14	 c 不致/d [vp] 
+9	 [vp] 不/d [np] [advp] [vp] 
+15	 不/d a u [advp] [vp] 
+64	 [vp] 不合时宜/l u [np] 
+60	 r t [pp] u [np] 不/d [vp] [advp] a u 
+9	 b [advp] 不可/v 
+9	 c 不/d a [advp] [vp] 
+9	 不知/v u g 
+167	 r c 不/d [vp] s [np] 
+9	 g g 不同/a 
+21	 [np] [vp] [advp] 不/d [vp] y 
+22	 [np] f 不/d [advp] [vp] 
+32	 [advp] 不得要领/v 
+9	 c [advp] [vp] 不同/a [np] 
+9	 m [vp] 不/d a u 
+15	 p 不/d [vp] c [vp] 
+9	 m [np] 不/d g 
+17	 g g 不安/a 
+9	 c a c 不/d a 
+9	 b r 不可/v 
+9	 [vp] 不/d g g 
+9	 不妨/v [advp] [vp] 
+17	 [pp] [vp] 不良/a [np] 
+100	 r [advp] [vp] 不/d y y 
+23	 [vp] [qp] 不祥/z u [np] 
+9	 m [vp] 不/d [vp] y 
+21	 [advp] 不/d [advp] [vp] [pp] 
+15	 不断/d [vp] f [vp] 
+14	 不/d [vp] [advp] 不行/a y 
+9	 [np] [advp] a 不/d y 
+9	 c p 不少/m [np] 
+36	 不/d [vp] s [np] 不/d [vp] 
+9	 c t [np] [advp] 不/d a 
+144	 [np] [vp] 不/d u [np] [vp] 
+9	 u [np] 不少/m 
+9	 不/d [vp] 下不为例/v 
+9	 不少/m [np] [vp] a 
+96	 不管/c [pp] [vp] 
+19	 c [advp] [vp] 不够/a u 
+9	 不为人知/v 
+195	 不/d [vp] 不/d [vp] 不/d [vp] 
+9	 [vp] 不/d [vp] [advp] [vp] g 
+701	 不管/c [np] [vp] 不/d [vp] 
+9	 g 不出所料/v 
+9	 m 不/d p 
+9	 不仅/c 不/d a 
+77	 r c [vp] 不/d g 
+15	 r [advp] [vp] 不断/d [vp] 
+28	 m [np] 不谋而合/v 
+19	 p [qp] [advp] 不能/v [vp] 
+385	 r c 不/d [vp] [advp] 不/d [vp] 
+17	 [advp] [vp] 不/d u m t 
+40	 c m [np] c 不/d [vp] 
+9	 c f 不/d u [np] 
+493	 c [np] [advp] 不同/a y 
+46	 r [advp] 不/d [vp] a [vp] 
+14	 [np] 不如/v g [vp] 
+19	 c [advp] 不/d g [vp] 
+9	 [np] m [vp] 不/d [vp] 
+9	 g [advp] 不/d [vp] g 
+9	 不幸/n [pp] [vp] 
+9	 [np] [advp] [np] 不/d [vp] 
+9	 不禁/d [vp] a 
+9	 g p 不/d [vp] 
+16	 [vp] p r [advp] 不/d [vp] 
+9	 [pp] u 不/d [advp] [vp] 
+40	 c t [advp] 不同/a y 
+154	 c 不/d [vp] m t [np] 
+9	 [np] [advp] 不怕/v 
+42	 [np] [advp] a 不少/m 
+9	 不免/d [vp] t a 
+87	 [vp] 不/d [vp] t [np] m u 
+33	 c [advp] p 不断/d u [vp] 
+25	 a 不足/a [qp] 
+26	 r 不知/v r u 
+9	 [np] 不/d [np] [advp] [vp] 
+9	 a [qp] 不/d [vp] 
+9	 r u s [advp] 不/d a 
+14	 [vp] 不/d u [advp] [vp] 
+9	 不管/c [np] [vp] m a 
+21	 [vp] [advp] [vp] 不/d a u 
+20	 c 不顾/v [np] 
+9	 m t m t 不/d [vp] 
+9	 [np] 不可/v [np] 
+9	 不便/a [np] 
+29	 r [advp] 不能/v [advp] a 
+18	 r p r 不/d p 
+37	 c [vp] [advp] [vp] 不/d [vp] 
+134	 a g [vp] 不/d a [qp] 
+9	 [np] 不/d [vp] t [np] 
+39	 [vp] t t 不/d [vp] 
+9	 [advp] 不屈/v 
+9	 [np] 不/d p g 
+36	 p r 不无/v [np] 
+9	 g 不/d [advp] g 
+9	 不见/v u [np] 
+50	 r 不/d [vp] 不/d a y 
+186	 r 不/d [advp] a y y 
+9	 r 不/d [vp] m u [np] 
+9	 c r 不以为然/v 
+15	 r 不必/d [vp] a 
+15	 [np] u c 不/d [vp] a u 
+9	 [vp] s [advp] 不/d a 
+9	 [vp] 不/d [np] b 
+316	 [advp] r 不/d [vp] a y 
+9	 不仅/c [np] z 
+33	 r 不/d [advp] p [vp] 
+9	 r 不足为奇/v 
+28	 [np] [advp] 不够/a [np] 
+9	 c 不屑一顾/v 
+15	 r [advp] b [vp] 不/d [vp] 
+68	 r [advp] [vp] s 不久/m 
+9	 不管/c t [np] 
+14	 c p r [advp] 不/d [vp] 
+9	 g 不/d g g 
+9	 m [np] f 不/d [vp] 
+32	 不声不响/v u [np] 
+9	 [advp] r [advp] [vp] 不/d u r 
+23	 r 不/d [np] y 
+18	 [vp] 不管/c [vp] 
+9	 a u [advp] 不/d [vp] 
+14	 c [np] [advp] [vp] 不/d a 
+84	 r c 不/d [vp] l 
+32	 [np] 不/d u m t 
+41	 [vp] p 不/d [vp] a 
+9	 r [advp] a 不过/u y 
+9	 [np] 不过/c m t 
+69	 c [np] f [advp] 不/d a 
+34	 [vp] 不准/v [np] 
+3022	 [advp] u [np] [advp] [vp] 不/d [vp] y 
+9	 [advp] 不/d [vp] [advp] u [vp] 
+14	 c r [advp] 不/d [vp] g 
+9	 [advp] r 不/d p 
+9	 不一会儿/l [np] 
+21	 m t 不见/v 
+38	 r 不/d [vp] [advp] a u y 
+20	 [np] [vp] 不妙/a 
+9	 不/d u 不/d r 
+94	 r [advp] [vp] 不/d [vp] [advp] [vp] 
+42	 r [advp] [vp] 不/d u [np] y 
+9	 不知凡几/v 
+93	 不过/c [np] [advp] a y 
+9	 m [np] r [advp] 不/d [vp] 
+14	 r 不理/v r 
+9	 c [np] 不/d a y 
+27	 r 不由得/d [advp] [vp] 
+52	 r [advp] 不/d a r 
+84	 r 不要/d [vp] a 
+34	 [np] [vp] 不定/d 
+14	 [advp] r 不/d [vp] [advp] [vp] 
+158	 r [advp] r [advp] [vp] 不/d [vp] y 
+9	 t [advp] 不/d [vp] t 
+45	 不然/c r [advp] [vp] y 
+9	 c [advp] 不/d a a 
+17	 r 不/d [vp] [advp] p r 
+24	 r 不/d [vp] p r y 
+9	 不论/c r [advp] a 
+9	 r 不行/a u 
+34	 u r [advp] [vp] 不/d [vp] y 
+9	 r c r 不/d p 
+21	 c [advp] 不知/v p r 
+31	 r [advp] [vp] 不见/v 
+108	 r [advp] u [vp] [advp] 不/d [vp] 
+9	 不至于/d y 
+9	 c [np] r [advp] [vp] 不/d [vp] 
+15	 r [advp] 不再/d [vp] g 
+27	 [np] 不仅/c a a c l 
+9	 [np] [advp] a 不翼而飞/v 
+25	 [vp] p r [advp] 不/d g y 
+15	 [vp] p [vp] 不足/v 
+8	 c 不/d [vp] [pp] [advp] [vp] 
+8	 c [vp] 不断/d u [vp] 
+8	 [np] [advp] [vp] 不/d [vp] g 
+8	 [advp] 不/d [advp] [pp] 
+150	 c 不/d [vp] [qp] [vp] 
+18	 不管/c [vp] a u 
+14	 [np] 不仅/c p [vp] 
+14	 [pp] [vp] 不利/a 
+8	 不过/c [vp] t u 
+13	 [np] 不仅/c [vp] [pp] 
+36	 [vp] 不同/a [np] f u [np] 
+36	 r 不仅/c [advp] a 
+8	 不/d [vp] p [advp] [vp] 
+8	 不避艰险/v 
+8	 不理/v [np] 
+57	 [advp] g 不成/v [np] 
+25	 不断/d [vp] s [np] 
+373	 c 不久/m [advp] [vp] y 
+27	 s [np] 不仅/c [vp] 
+27	 r [qp] [vp] 不/d [vp] 
+8	 c [np] [vp] [advp] 不/d [vp] 
+13	 不论/c [advp] [np] 
+8	 不/d [pp] [vp] g 
+21	 t [np] 不断/d [vp] 
+16	 s [np] [vp] 不/d a 
+8	 r 不得/v [advp] [vp] 
+23	 [np] 不公/a u [np] 
+8	 [advp] [vp] 不同/a u [vp] 
+13	 c [advp] 不/d [pp] [vp] 
+14	 [np] 不可逆转/v 
+21	 c 不管/c [np] r 
+8	 [vp] 不断/d [vp] c [np] 
+83	 m [np] 不良/a 
+8	 [vp] 不/d [vp] f [np] 
+8	 c 不同/a u [vp] 
+8	 p [vp] [pp] 不/d [vp] 
+22	 l [np] 不断/d [vp] 
+13	 r c 不/d [vp] g 
+8	 不要/d [advp] [vp] c [np] 
+13	 r 不/d [vp] l u [vp] 
+8	 [np] 不仅/c [vp] y 
+8	 s [np] [advp] 不断/d [vp] 
+27	 r 不/d [vp] [advp] [vp] [advp] [vp] 
+8	 p p 不同/a [np] 
+14	 [np] 不难/d [vp] 
+13	 [pp] 不再/d [vp] 
+8	 t [np] 不明/v 
+8	 [advp] 不容忽视/v 
+89	 c r [advp] 不/d [vp] [advp] a u 
+8	 [pp] [np] f [vp] 不利/a [np] 
+8	 r a [advp] 不/d [vp] 
+8	 不要/d [pp] [np] 
+8	 不/d t [advp] [vp] 
+8	 p 不/d [vp] s [np] 
+14	 不少/m s [np] [advp] [vp] 
+15	 不/d [vp] 不/d l 
+19	 [np] [advp] [vp] 不到/v [np] 
+8	 c [vp] 不利/a 
+30	 [advp] 不虚此行/v 
+23	 [np] [advp] 不知/v [np] 
+13	 [advp] 不/d [vp] f [np] 
+18	 [np] [advp] 不得/v [np] 
+8	 [np] 不/d a [advp] 不/d a 
+8	 p m t 不懈努力/v 
+16	 c [advp] 不/d [vp] [qp] 
+19	 [pp] [np] 不同/a u [vp] 
+8	 [advp] [pp] [vp] 不解之缘/l 
+8	 不管/c b 
+15	 s [advp] 不再/d [vp] 
+13	 [vp] [advp] 不尽/d a 
+20	 [np] 不假思索/l u [vp] 
+8	 p 不/d [vp] [pp] 
+16	 r [qp] r 不/d [vp] 
+61	 [pp] [np] 不利/a 
+8	 p s [np] u 不/d [advp] [vp] 
+8	 s 不/d [vp] [pp] 
+763	 [np] 不仅/c [vp] s [np] 
+22	 [vp] [advp] 不/d [pp] 
+13	 r 不得不/d p [vp] 
+8	 r 不能/v [advp] a 
+28	 c [np] [advp] [vp] c 不/d [vp] [advp] [vp] 
+8	 s [np] [advp] 不/d [vp] [advp] [vp] 
+18	 r a u 不知所措/v 
+8	 r 不能/v a 
+29	 [vp] 不/d [pp] u [np] p [vp] 
+8	 c [pp] [advp] 不/d a 
+13	 [pp] [np] [advp] 不利/a 
+64	 r 不但/c [vp] a 
+309	 c r [qp] 不/d [vp] 
+8	 不要/d [vp] c [np] 
+8	 r 不/d p r a 
+26	 [np] 不仅/c 不/d [vp] 
+8	 s [np] [vp] 不久/m 
+115	 r [advp] 不乏/v [np] 
+8	 p 不到/v m [np] f 
+8	 不/d [advp] p s 
+111	 s [np] 不得不/d [vp] 
+8	 [vp] 不成/v g 
+62	 s [np] 不仅/c [np] a 
+105	 r m [np] 不/d a 
+33	 p 不/d u r [advp] [vp] 
+33	 [np] 不/d [np] [advp] a 
+20	 c r t [advp] 不/d [vp] 
+8	 [pp] [np] c 不/d a 
+40	 m [vp] 不断/d [vp] 
+23	 [np] f [np] 不断/d [vp] 
+18	 t [advp] 不行/a y 
+199	 [np] f [advp] 不/d [vp] a 
+8	 不少/m [np] g 
+8	 不尽/b [np] 
+8	 p 不得已/a u [np] f 
+8	 [np] [advp] 不见/v [np] 
+8	 不得/v [advp] [vp] c [advp] [vp] 
+179	 [vp] g 不/d [vp] g u 
+8	 [advp] 不/d p s [vp] 
+8	 m a 不得/v 
+136	 r c 不/d p [vp] 
+49	 c [np] 不止/v 
+37	 [np] 不以为然/v u [vp] 
+13	 r 不得不/d [vp] s 
+8	 [advp] [vp] 不到/v r 
+14	 r [advp] 不慌不忙/v u [vp] 
+8	 [np] [pp] [vp] 不/d [vp] 
+16	 [vp] 不/d [advp] a y 
+8	 a k 不/d a 
+8	 不/d g [pp] 
+8	 不/d [vp] a g [np] 
+8	 [advp] 不可/v p [vp] 
+8	 g g 不/d [vp] g 
+8	 [advp] g 不/d g 
+40	 r [advp] 不大/d a y 
+8	 c m g 不/d [vp] 
+8	 不幸/a [np] [vp] 
+19	 c 不/d [vp] [advp] [vp] c [vp] 
+8	 c 不/d [vp] g u 
+8	 [vp] 不能/v [pp] 
+8	 b u [np] 不/d a 
+49	 c [advp] 不/d [vp] [advp] a u 
+8	 [np] 不妨/d [advp] [vp] 
+47	 r 不妨/d [advp] [vp] [qp] 
+13	 [vp] 不同/a p [vp] 
+8	 r 不断/d u p [vp] 
+8	 不管/c [vp] [advp] [np] 
+14	 不过/c [vp] m [vp] 
+8	 不但/c p r 
+19	 c 不/d [vp] [pp] u [vp] 
+123	 [vp] [advp] 不/d [vp] a u 
+8	 c 不/d [vp] [advp] p [vp] 
+256	 c [vp] [advp] 不/d a u 
+21	 不但/c [pp] [np] 
+20	 [np] [vp] 不可/v u 
+8	 r c r 不同/a 
+8	 [np] [vp] 不/d [pp] 
+8	 不/d [vp] a u [advp] [vp] 
+8	 [np] r [advp] [vp] 不/d y 
+24	 [advp] [vp] 不过/d 
+8	 c r 不/d [advp] a 
+8	 b u [np] [advp] 不/d [vp] 
+32	 t [advp] 不/d [advp] [vp] y 
+8	 r t 不/d [vp] [advp] [vp] 
+738	 c c [vp] 不好/a 
+46	 c m [np] [vp] 不行/a u 
+22	 r 不/d [vp] l [vp] 
+8	 不/d [advp] [vp] s u [np] 
+55	 [vp] 不可逆转/v u [np] 
+8	 [np] 不见/v [vp] 
+8	 c [advp] 不同/a 
+8	 c [advp] [vp] 不/d [advp] 
+31	 [advp] [vp] 不/d [advp] [vp] y 
+8	 不能/v [advp] p f [vp] y 
+29	 [np] 不胜/d [vp] 
+124	 p t [advp] 不/d a y 
+8	 r 不/d a r 
+8	 不足/v [vp] p 
+8	 不宜/v [np] 
+52	 c r 不/d p y 
+18	 [advp] 不同/a [pp] [np] 
+8	 不白之冤/l 
+14	 r 不/d [np] [vp] 
+74	 [advp] 不/d [advp] [vp] a u 
+8	 c 不妨/d [vp] 
+44	 [vp] 不安/a u [np] 
+8	 c g 不/d a 
+8	 [vp] g 不/d [pp] 
+8	 [np] u 不可/v [vp] 
+27	 [vp] g 不/d [vp] y 
+8	 [np] 不/d [vp] f [vp] 
+31	 不知/v [advp] [vp] 
+8	 c [np] g 不/d [vp] 
+8	 [np] g 不已/v 
+8	 a g 不/d a 
+8	 不可不/d [vp] 
+48	 [vp] g 不/d [vp] a 
+8	 s 不/d a y 
+8	 [advp] [pp] [np] 不/d a 
+8	 [vp] [qp] 不久/m 
+85	 [vp] 不公/a u [np] 
+53	 [vp] [advp] 不堪/v 
+21	 [np] [advp] 不要/d [vp] 
+8	 不须/v [vp] 
+8	 f r [advp] [vp] 不/d [vp] 
+8	 不仅/c [np] 不/d [vp] 
+8	 g [vp] 不/d [vp] y 
+15	 [vp] [advp] a 不过/u u [np] y 
+8	 [advp] [vp] f u 不正之风/l 
+88	 t [advp] [vp] 不见/v [np] 
+8	 c [vp] 不/d [pp] 
+55	 r 不/d [vp] [advp] [pp] [vp] 
+13	 [vp] m [vp] [advp] 不/d a 
+8	 [advp] 不公/a 
+8	 g r 不/d a 
+13	 [vp] 不正之风/l u [np] 
+29	 [np] [advp] 不必/d [vp] y 
+8	 不由/d u [vp] m [vp] 
+8	 c 不/d p y 
+14	 不管/c [vp] m a 
+8	 m 不/d [vp] [advp] [vp] 
+8	 不得不/d [pp] [vp] 
+110	 p 不同/a [np] [vp] 不同/a [np] 
+19	 [np] [vp] f 不能/v [vp] 
+57	 [np] [advp] [vp] 不错/a u 
+8	 c [advp] [vp] c 不足/v 
+8	 不准/v [vp] [pp] 
+8	 s [np] r 不/d [vp] 
+32	 不断/d [vp] l [np] 
+8	 a b 不/d [vp] 
+8	 [vp] 不要/d r 
+8	 [np] [vp] 不/d [vp] c 不/d p l [vp] [advp] 不/d [vp] 
+8	 不管/c t t 
+80	 m [vp] 不/d [vp] m [vp] 
+8	 不免/d [np] 
+13	 [advp] 不/d r u 
+13	 [np] 不知/v [vp] 
+8	 a u a 不/d y 
+57	 [vp] 不折不扣/v u [vp] 
+8	 [np] f [qp] 不/d [vp] 
+13	 [np] 不/d [vp] k [np] 
+8	 [np] 不惜/v [np] 
+8	 p [vp] 不/d y 
+8	 不/d g [np] g 
+8	 [vp] g 不成/v [np] 
+8	 [vp] [advp] 不可避免/v 
+24	 [np] c 不/d a a 
+8	 不/d [vp] m [qp] 
+8	 [np] 不予/v [np] 
+13	 r c r 不/d [vp] 
+14	 [qp] [vp] 不/d a 
+15	 r 不再/d [np] 
+33	 c r 不/d r 
+13	 c [vp] [advp] 不错/a 
+8	 [vp] 不/d g s 
+8	 [np] [advp] 不/d [vp] l 
+186	 [np] a 不/d a y 
+8	 c [vp] 不要/d [vp] 
+8	 [pp] u [np] u 不断/d [vp] 
+31	 [advp] [vp] 不/d [np] [vp] 
+13	 [advp] m 不/d [vp] 
+8	 [np] 不满/a m 
+21	 [np] 不问/v [np] 
+57	 [np] 不必/d [vp] y 
+8	 [vp] [advp] 不/d [vp] p [vp] [advp] [vp] 
+8	 m t 不行/a m t 
+8	 c [advp] 不/d g [np] 
+17	 [np] [advp] 不少/m 
+8	 [advp] 不管/c [np] 
+15	 [np] 不足/v u a 
+30	 不知/v a u [advp] [vp] 
+8	 [vp] 不畏/v [np] 
+14	 [np] [advp] p 不/d [vp] 
+22	 [vp] c 不/d [vp] a 
+703	 c r 不/d g [np] 
+147	 r [advp] [vp] [advp] [vp] 不/d a 
+8	 r 不怕/v a 
+713	 c 不仅如此/l 
+8	 [vp] [qp] 不/d [advp] [np] 
+8	 [np] g 不/d [vp] y 
+8	 不料/d m t f 
+47	 m t u [np] 不/d [vp] a 
+17	 [advp] [vp] c [np] 不正之风/l 
+8	 [advp] u 不久/m 
+8	 r [qp] [advp] 不在乎/v 
+8	 不免/d l 
+8	 [np] k [vp] 不已/v 
+8	 [qp] m [np] [vp] 不/d u [np] 
+8	 s a 不/d [vp] 
+51	 [vp] [advp] 不易/a 
+8	 不/d a c [vp] 
+8	 [np] [vp] m t 不/d [vp] 
+8	 p a 不/d a 
+30	 r [pp] u [np] [advp] 不/d [vp] 
+8	 r 不敢当/v 
+8	 a m t 不/d [vp] 
+8	 m 不怕/v 
+25	 r c 不/d [vp] [advp] [vp] 
+42	 p r 不同/a [np] 
+14	 g 不/d p [vp] 
+31	 r p r 不/d [advp] [vp] 
+8	 [advp] 不管/c [vp] 
+8	 r t [np] 不/d [vp] 
+8	 [np] [advp] a 不过/u y 
+15	 c [advp] 不/d [vp] [advp] [np] 
+32	 不断/d [vp] a u 
+22	 [advp] 不/d [vp] a a u 
+15	 r 不期而遇/v 
+85	 c [advp] 不无/v [np] 
+8	 不/d [advp] [vp] 不/d [vp] 
+8	 [np] [vp] 不衰/v 
+18	 [np] [vp] a 不/d [vp] 
+8	 c 不/d [vp] [advp] a u 
+13	 r 不/d [vp] s [np] y 
+8	 不仅/c p t 
+8	 [np] [vp] [advp] 不够/a 
+8	 f [np] [advp] [vp] 不/d [vp] 
+8	 [advp] [vp] c [vp] [qp] 不同/a [np] 
+30	 r b [vp] 不可/v y 
+8	 a c [advp] 不/d a 
+8	 [qp] [vp] 不/d [vp] f 
+219	 c [np] 不/d [vp] 不/d [vp] 
+46	 u [np] m t 不/d [vp] 
+121	 r m [np] [vp] 不/d [vp] 
+8	 不过尔尔/v 
+42	 [advp] [vp] 不可多得/v u [np] 
+25	 a u 不可胜数/l 
+150	 c [np] u 不/d a 
+19	 c 不/d u 不/d [vp] 
+15	 [advp] [vp] 不能/v [vp] 
+8	 r [advp] 不/d [vp] p r s 
+8	 [pp] [np] f [advp] 不/d [vp] 
+8	 不知/v r y 
+22	 f r [advp] 不/d [vp] y 
+22	 [advp] 不知/v [vp] p r 
+8	 不/d c [np] g 
+59	 c 不/d [vp] z u [np] 
+8	 r 不/d [vp] a g 
+8	 c g g 不/d [vp] 
+8	 不过/c [pp] [np] 
+27	 [vp] 不/d [vp] f u [np] 
+29	 r 不止/v m [vp] 
+20	 r s 不安/a 
+13	 [vp] 不足为怪/v u 
+29	 [vp] 不/d [vp] [advp] [vp] [qp] 
+8	 不甚了了/v 
+30	 r [advp] 不闻不问/v 
+8	 [np] 不知/v c 不/d [np] 
+22	 [advp] 不可/v [vp] y 
+24	 p [qp] 不/d [vp] 
+8	 r 不/d g u [np] 
+8	 t [advp] 不再/d [vp] 
+22	 r [advp] 不/d [vp] p r u 
+8	 不论是/c p s 
+77	 r 不要/d [np] y 
+14	 r 不过/d [vp] [qp] 
+8	 r 不过/d [vp] [advp] [vp] 
+14	 r 不/d [vp] a y y 
+8	 [advp] 不过/d m [np] 
+106	 [np] c 不/d a [vp] 
+13	 [np] 不/d g y 
+26	 r [qp] r [advp] 不/d [vp] 
+14	 c r 不/d [vp] [qp] 
+8	 b [vp] 不行/a 
+8	 [advp] 不见/v r 
+274	 r c 不/d [vp] p [vp] 
+13	 [advp] [vp] 不行/a y 
+3288	 c r [advp] 不/d [vp] a u 
+13	 [advp] [vp] 不/d u s [vp] s [np] m [np] 
+20	 [vp] 不/d [vp] z 
+8	 r [advp] [vp] 不安/a 
+15	 r 不/d r a y 
+8	 [np] [vp] 不朽/z u 
+8	 不管/c [vp] a [vp] a 
+8	 r 不怕/v [np] 
+14	 [advp] 不/d [pp] a 
+8	 [np] 不孝/a 
+8	 [np] s 不/d a 
+29	 [vp] 不/d [vp] m t f 
+8	 不由/d a [vp] 
+8	 [vp] 不动声色/v 
+8	 c r 不/d p s 
+8	 a b 不/d [pp] 
+273	 不过/c [np] [vp] y 
+8	 不由/d [vp] m [vp] 
+8	 [np] a u 不能/v [advp] a 
+8	 [pp] 不/d a y 
+37	 [advp] 不过如此/v y 
+15	 p r [qp] 不/d [np] 
+63	 r l [advp] 不/d [vp] 
+8	 m 不得已/a g 
+16	 r 不/d p r y 
+13	 r [advp] m g 不/d [vp] 
+15	 不要/d c [vp] 
+78	 不过/c [advp] a y 
+8	 t u [np] 不/d [vp] y 
+19	 [np] 不过/c [vp] 
+8	 不但/c [vp] a u 
+8	 [np] r 不要/d [vp] 
+8	 不过/c r s [vp] 
+18	 [vp] 不/d c [vp] 
+8	 [advp] r [advp] 不/d [advp] a 
+114	 r [advp] [vp] 不少/m u [np] 
+15	 r [advp] 不/d [vp] p r a 
+45	 r 不久/d [advp] [vp] y 
+8	 c 不/d [advp] [vp] y 
+29	 r [advp] 不/d [vp] a u y 
+27	 [advp] 不/d [vp] [advp] p [vp] 
+8	 不消/v r 
+8	 不/d g a y 
+8	 p [vp] 不/d u 
+18	 [advp] 不在少数/v 
+1906	 c r 不/d [vp] g r 
+13	 r [advp] 不寒而栗/v 
+504	 r 不/d [vp] [advp] 不/d [vp] y 
+8	 [np] [advp] 不/d g y 
+8	 o [vp] [qp] 不/d [vp] 
+8	 [vp] [advp] 不幸/a 
+8	 [advp] [vp] 不理/v r 
+20	 [vp] 不要/d [vp] y 
+8	 [advp] [vp] 不/d u u 
+8	 r [advp] [vp] [qp] 不安/a 
+8	 r 不/d [vp] a u y 
+8	 不过/c r [advp] [vp] p [vp] 
+8	 不错/a 不错/a 
+48	 u [vp] [advp] 不/d [vp] [qp] 
+31	 u [vp] [advp] [vp] 不/d [vp] y 
+77	 p r [advp] 不错/a 
+13	 r 不/d [np] r 
+8	 不过/c r c [vp] 
+8	 不由得/d [advp] a 
+216	 c r 不/d a [vp] 
+77	 r a 不/d [vp] y 
+92	 r t [vp] 不/d [vp] y 
+18	 [vp] 不/d r [advp] [vp] y 
+8	 不过/c r y 
+8	 [vp] 不好意思/a u 
+38	 r 不/d [vp] c r [advp] [vp] 
+22	 不甘寂寞/v u s 
+8	 [qp] 不/d [vp] f [advp] [vp] 
+8	 [vp] p [qp] r [advp] [vp] 不/d [vp] 
+8	 [np] f [vp] 不/d [advp] l [vp] a u 
+23	 不/d a [vp] g [vp] 
+8	 [advp] 不然/c [advp] [vp] 
+565	 c r [advp] 不/d [vp] l 
+27	 s p s 不同/a 
+7	 [advp] [qp] [advp] [vp] 不/d [vp] 
+25	 不光/c [np] a 
+13	 [vp] 不/d [vp] [advp] a u 
+7	 p r [advp] 不好/a 
+7	 p a 不利/a 
+67	 c [np] f [np] 不/d a 
+19	 p [qp] 不/d [np] f 
+7	 t [np] [vp] 不/d a 
+128	 [np] [vp] 不/d g [np] 
+7	 [np] t [np] 不/d [vp] 
+7	 [np] f 不仅/c [vp] 
+544	 c r m [np] 不/d [vp] 
+7	 m 不/d [vp] [pp] 
+12	 不必/d [pp] [vp] 
+7	 不仅/c p s [advp] [vp] 
+7	 [advp] 不/d [vp] [pp] u [vp] 
+7	 [pp] 不/d a g 
+7	 [np] 不得/v [vp] c 不/d [vp] 
+20	 [vp] 不/d [vp] b [vp] 
+7	 b 不/d u a p [qp] 
+7	 [vp] [advp] [vp] 不同/a u [np] 
+13	 [vp] g 不意/d 
+31	 [vp] 不复/d [vp] 
+7	 [vp] 不幸/a [np] 
+7	 [advp] [vp] 不便/a 
+7	 [vp] [advp] 不在乎/v 
+12	 [pp] c [np] 不同/a 
+20	 [advp] [vp] 不必要/a u [np] 
+7	 c 不/d [vp] [advp] [vp] g 
+7	 t g 不/d g 
+7	 g 不畏/v [vp] 
+7	 [advp] 不可思议/l u [vp] 
+370	 [np] 不/d p a a 
+13	 r 不/d p m [vp] 
+7	 [np] 不周/a 
+31	 [np] 不足/v u [np] 
+12	 [np] r 不/d [vp] 不/d [vp] 
+7	 不违农时/v 
+7	 c [advp] 不/d a [advp] [vp] 
+7	 p t [np] 不/d a 
+7	 a 不/d [vp] [advp] 
+13	 s u [np] [advp] 不同/a 
+54	 s u [np] [advp] 不/d [vp] p r c [np] [vp] 
+7	 [vp] s 不容/v [vp] c [vp] 
+7	 s [np] 不一/v 
+37	 s 不/d [vp] s [vp] 
+86	 r [advp] 不至于/d [vp] 
+7	 不良/a [np] k [vp] p m 
+7	 [pp] [vp] f 不久/m 
+52	 r 不/d [vp] g g [vp] 
+22	 s [np] [advp] 不容/v a 
+7	 s m [np] [advp] [vp] 不一/v 
+7	 c [advp] [vp] [qp] 不/d [np] 
+7	 [vp] [advp] 不/d [vp] m t 
+25	 [vp] 不足/v m t 
+7	 [advp] [pp] 不符/v 
+15	 不必/d [np] [vp] 
+32	 c [pp] [np] [advp] 不/d a 
+7	 c [vp] [qp] 不同/a u [np] 
+13	 [np] 不外/v [vp] 
+86	 [vp] s 不/d [vp] p s [vp] 
+116	 [pp] [np] [advp] 不/d [np] f 
+15	 [np] f u [np] [advp] 不/d [vp] 
+7	 不/d [vp] s [np] [vp] a s 
+34	 r [advp] [vp] c 不可/v [vp] 
+14	 [vp] p [vp] 不/d [vp] 
+7	 [np] u [advp] [vp] 不同/a [np] 
+730	 c r [advp] a 不/d [vp] 
+12	 [np] [advp] p 不断/d u [vp] 
+12	 p [vp] 不足/a [np] 
+7	 r [advp] 不/d [vp] m 不/d [vp] 
+7	 p m t u 不断/d [vp] 
+7	 c 不/d [advp] [np] 
+7	 [np] u 不同/a c [np] 
+132	 s [np] 不容/v a 
+7	 不时/d [vp] [pp] 
+175	 s [np] [vp] 不/d y 
+7	 [np] 不好/a [np] 
+85	 [advp] [vp] 不/d [vp] m [np] 
+7	 [np] 不容/v [vp] 
+7	 [np] 不/d [pp] r 
+7	 t s [np] 不景气/a 
+12	 [pp] [np] [vp] 不够/a 
+7	 不要/d [vp] s [np] 
+7	 m 不/d g s z [np] 
+7	 m [vp] [advp] 不足/v 
+28	 c 不/d [pp] [advp] [vp] 
+12	 [vp] [advp] [vp] c 不/d [vp] 
+7	 [pp] [np] 不/d [vp] [advp] [vp] 
+13	 [vp] s f 不久/m 
+7	 c [advp] [np] 不/d [vp] 
+7	 b b m [np] 不/d [vp] 
+42	 s [advp] 不/d [vp] p s [vp] 
+7	 [np] f 不时/d [vp] 
+25	 不/d [vp] [pp] c [np] [vp] 
+7	 c s c 不/d a 
+14	 r 不乏/v l 
+14	 [np] g [np] 不/d a 
+23	 [np] t [advp] 不/d [vp] 
+7	 [advp] 不予/v [np] 
+33	 [vp] p 不/d [vp] g 
+32	 s [np] 不顾/v [np] 
+7	 不/d [vp] p r g 
+12	 r [advp] 不/d [vp] [qp] r 
+7	 s [vp] 不/d [vp] p s [vp] 
+7	 c [np] 不再/d [vp] 
+24	 不少/m [advp] [vp] 
+56	 [np] [vp] [advp] 不安/a 
+137	 [advp] [vp] 不/d [pp] [vp] 
+13	 s u [np] [advp] 不断/d [vp] 
+13	 p s [np] 不/d [advp] [vp] 
+7	 b u 不/d [vp] 
+7	 不禁/d [qp] a 
+56	 r 不单/c [vp] 
+7	 c r 不/d [vp] c [np] 
+7	 [pp] [vp] 不同/a [np] 
+7	 不/d [vp] [advp] [vp] g [np] 
+7	 s f [np] 不断/d 
+7	 c c [vp] 不/d [vp] 
+7	 [vp] c [vp] 不/d a 
+42	 [vp] g 不/d [np] [vp] 
+14	 [vp] 不少/m s [np] 
+12	 不论是/c [np] [vp] 
+7	 不许/d [pp] [vp] 
+7	 a 不/d a u 
+7	 [vp] 不/d u t 
+7	 不/d [vp] [advp] [vp] p [vp] 
+23	 c 不/d [vp] p s [np] 
+20	 [vp] 不当/a [np] 
+7	 p a m t u 不懈努力/v 
+56	 c [vp] 不/d g [vp] 
+12	 c [advp] 不断/d [vp] 
+7	 t [vp] 不好/a 
+7	 c [advp] 不能/v [advp] a 
+19	 p s [vp] 不断/d [vp] 
+7	 [vp] k 不/d u [vp] 
+7	 t [advp] 不会/v [vp] 
+7	 t r 不/d p s 
+7	 [vp] f 不同寻常/v u [np] 
+7	 [vp] [advp] 不便/a 
+14	 [np] 不复存在/v 
+7	 [vp] 不怕/v [np] [vp] 
+7	 m 不足/a 
+7	 [np] c g c 不/d [advp] [vp] 
+7	 p [qp] 不同/a [np] 
+19	 不可或缺/l u [np] 
+19	 [np] 不/d [vp] [advp] [np] 
+7	 [pp] [vp] 不/d [advp] [vp] 
+7	 不仅/c [vp] s [vp] 
+59	 r 不服/v [np] 
+19	 [np] 不可估量/v 
+7	 c [np] [vp] 不/d [advp] 
+7	 [advp] 不/d p s a 
+7	 [vp] t 不满/a m 
+7	 m 不/d g [vp] 
+7	 [np] u 不/d [vp] [qp] 
+7	 不/d [vp] c [pp] [advp] [vp] 
+7	 不管/c [vp] p s 
+116	 [np] 不灵/a [advp] 
+7	 c [vp] 不/d [vp] s 
+7	 [advp] [np] 不/d p 
+7	 r a u 不/d a 
+7	 [np] 不时/d u [vp] 
+34	 [advp] 不/d a [pp] [vp] 
+13	 [vp] [advp] u 不/d a 
+7	 不要/d p s [vp] 
+25	 r 不好/a [vp] 
+7	 p m [np] u 不断/d [vp] 
+7	 l 不行/a 
+43	 [np] [advp] 不用/d [vp] y 
+44	 [np] [vp] 不得/v [vp] m 
+7	 l u 不同/a 
+12	 r 不愧/d [vp] 
+7	 g [np] 不/d [advp] 
+7	 [vp] [qp] 不必要/a u [np] 
+12	 [advp] [vp] 不错/a u [np] 
+7	 a [vp] 不/d u [np] 
+7	 不/d [pp] [np] f 
+7	 p 不同/a [np] u 不同/a [np] 
+541	 不论/c [vp] c [np] 
+7	 不幸/a u r 
+7	 [vp] c r 不/d [vp] 
+7	 不/d [vp] [advp] p s [vp] 
+7	 [np] c 不/d [vp] p 
+7	 不仅/c [np] 不/d a 
+14	 p t u [np] 不同/a 
+7	 r 不/d [vp] t [vp] 
+7	 [np] [advp] 不甘寂寞/v 
+14	 r m [np] [advp] 不/d [vp] 
+7	 不/d [vp] s c s 
+7	 l u [np] [advp] 不/d a 
+24	 r 不仅/c p r 
+7	 p s c 不/d a 
+52	 [np] [vp] k 不/d [vp] 
+7	 不过/c m t u [np] 
+12	 [vp] 不/d [vp] s [vp] 
+7	 不过/c [advp] r 
+14	 [vp] 不/d a u r 
+18	 [np] [vp] 不过/c [np] 
+35	 r [pp] [advp] 不/d [advp] [vp] 
+7	 不时/d [advp] [vp] 
+7	 不论/c [vp] c [vp] 
+39	 r [advp] [vp] 不得已而为之/v 
+19	 不仅/c [vp] b u [np] 
+7	 不得/v [vp] p [vp] 
+21	 m t [advp] 不/d [vp] a 
+7	 不/d [vp] p r u [vp] 
+7	 不/d [vp] b g 
+12	 p [vp] c [advp] [vp] 不/d [vp] g 
+7	 不/d [vp] [pp] c [np] f [vp] 
+7	 [np] 不/d [vp] [qp] u 
+7	 [vp] 不得/v [vp] m [np] 
+7	 [vp] 不/d g [vp] c [vp] [pp] [np] [vp] 
+28	 p 不同/a [np] [advp] [vp] 
+7	 [np] 不足/v g 
+62	 c r [advp] [qp] [advp] 不/d [vp] 
+7	 不仅/c s r 
+7	 [np] [vp] 不/d y y 
+13	 [np] 不慌不忙/v u [vp] 
+7	 b p [vp] 不可/v 
+28	 不禁/d [advp] a [vp] 
+12	 [vp] 不少/m l 
+52	 r [advp] [vp] t [vp] 不/d [vp] 
+7	 c b [vp] 不/d [vp] 
+7	 t [np] [advp] 不错/a 
+12	 不择手段/l u [vp] 
+7	 r p r [advp] 不满/a 
+7	 [vp] f 不/d [np] 
+26	 p r 不/d p u [np] 
+7	 [vp] c 不/d [vp] g 
+17	 c r p 不/d a 
+7	 [vp] b 不/d [vp] 
+7	 不妨/v [np] 
+12	 不论/c g g 
+321	 c [advp] 不/d [vp] g [vp] 
+7	 m [advp] 不/d a 
+7	 不/d [vp] [pp] [vp] p s 
+7	 [advp] [vp] 不/d [vp] 不/d [vp] 
+17	 [vp] 不胜枚举/v 
+72	 c [pp] [np] [advp] 不/d [vp] 
+16	 [np] 不宜/v [advp] a 
+7	 c 不行/a 
+12	 [vp] 不如/v [np] 
+14	 b b 不/d [vp] 
+12	 c [vp] 不可/v [vp] 
+20	 r [advp] 不惜/v [vp] 
+16	 不可不/d g [advp] 
+7	 r [advp] r 不/d a 
+13	 不外乎/v [vp] 
+7	 [vp] 不足/v g 
+7	 不管/c r p r 
+13	 [advp] 不免/d [vp] 
+18	 [np] [vp] 不景气/a 
+873	 c r [advp] 不/d [vp] [pp] [vp] 
+29	 [np] p r 不利/a 
+7	 不但/c [vp] l 
+7	 不/d b u [np] 
+46	 c [vp] 不够/a a 
+14	 [advp] 不可/v [advp] a 
+7	 不能/v [advp] [vp] [pp] 
+14	 不/d [vp] [advp] 不要紧/v 
+7	 r c [np] 不/d [vp] 
+7	 不/d [vp] 不得/v 
+7	 不管/c r [qp] 
+578	 c 不管怎样/l [vp] 
+7	 [pp] 不同/a y 
+7	 不/d [vp] 不/d f 
+7	 c 不/d [vp] p r u 
+7	 c 不/d g r 
+63	 不知/v [np] [vp] y 
+7	 c 不/d [vp] p g 
+53	 [np] 不合/v [np] 
+7	 [np] 不比/p [np] 
+12	 p t [advp] 不/d [vp] 
+7	 不知/v [vp] p [vp] 
+7	 c 不/d [vp] [advp] g 
+17	 不/d [pp] g g 
+7	 c [advp] 不/d a r 
+7	 不外/v [np] 
+101	 g 不/d [advp] [vp] g 
+7	 g [np] 不/d [vp] g 
+35	 [np] 不/d g c [vp] 
+7	 t t 不/d a 
+13	 [vp] 不够/a [np] 
+7	 [vp] [qp] 不/d y 
+7	 z c 不/d a 
+12	 t [np] 不/d [vp] [qp] 
+25	 [np] 不相上下/v 
+59	 [vp] 不/d [vp] [advp] [vp] a 
+7	 [np] [vp] p 不同/a [np] 
+7	 t 不/d [vp] b 
+35	 r [advp] [vp] g 不/d [vp] 
+7	 g 不足/v k 
+7	 g 不安/a g 
+7	 f f 不/d [vp] 
+7	 [vp] g [advp] 不/d a 
+7	 g u 不/d g 
+7	 f 不/d u [vp] 
+7	 c g [np] 不/d [vp] 
+7	 c [vp] f 不/d [vp] 
+7	 不容置疑/v u [vp] 
+7	 [np] 不/d [vp] a [vp] 
+7	 [np] [vp] 不可/v g 
+7	 [np] f [vp] 不善/a 
+9035	 s u [np] [advp] 不/d [vp] y 
+38	 [advp] [vp] 不/d f [advp] [vp] 
+7	 r 不仅/c [np] [vp] 
+7	 c [advp] [vp] 不/d u r 
+7	 t 不/d y 
+7	 t 不/d g [np] 
+7	 [np] 不/d u [qp] 
+7	 z [vp] 不/d [vp] 
+7	 g [vp] a 不/d [vp] 
+7	 不顾/v [np] a 
+7	 p r u 不懈努力/v 
+7	 [np] f 不/d u [np] 
+7	 不论/c [vp] a 
+15	 a u 不行/a y 
+14	 [advp] 不/d u [qp] 
+28	 [np] [advp] 不见/v [vp] 
+144	 c [np] [advp] 不够/a a 
+7	 c 不/d [vp] [advp] a y 
+19	 [vp] [advp] 不好意思/a 
+112	 r 不仅/c [pp] [vp] 
+293	 [vp] p 不/d [vp] f 
+7	 g g 不/d [np] 
+7	 [advp] 不当/a [np] 
+48	 r [advp] 不/d u [np] 
+7	 不断/d [vp] c [vp] [qp] c [np] [vp] 
+7	 m [vp] 不/d [vp] m t 
+7	 [np] [vp] 不住/d u p f [vp] 
+146	 [pp] [np] c 不断/d [vp] 
+7	 t 不足/v [qp] 
+7	 不论/c [vp] c 不/d [vp] 
+12	 [vp] l [vp] 不/d [vp] 
+7	 g [vp] 不/d [np] 
+13	 [np] [advp] a [advp] 不/d [vp] 
+18	 不厌其烦/l u [vp] 
+7	 c [vp] 不/d u a 
+135	 c [np] [advp] [vp] 不/d [vp] y 
+37	 [np] g [np] [advp] 不/d [vp] 
+37	 [np] 不/d [vp] [pp] [np] [vp] 
+7	 [vp] m [np] [vp] 不/d [vp] 
+7	 [np] t [vp] 不/d a 
+40	 [vp] 不/d [vp] [advp] [vp] 不/d [vp] 
+66	 r [advp] u [np] [advp] 不/d [vp] 
+20	 不甘/v [np] f 
+20	 [np] [advp] 不息/v 
+7	 [np] u 不/d [vp] y 
+90	 不久/m [vp] s 
+55	 [np] g [advp] 不/d [vp] y 
+7	 不过/c [advp] [vp] m t 
+7	 r [advp] 不堪/v 
+7	 不动产/n [vp] 
+7	 t [advp] 不/d [advp] a 
+7	 p r c 不/d a 
+34	 不/d [vp] k [vp] m 
+7	 c [np] a 不/d a 
+184	 c r [advp] [vp] 不通/a 
+7	 [pp] [vp] 不严/a 
+39	 r c 不能/v [advp] [vp] 
+7	 不/d [vp] [pp] u [np] 不/d [vp] 
+7	 不由得/d [np] [vp] 
+20	 t 不知/v [vp] a 
+7	 s u 不少/m [np] 
+7	 m [vp] 不/d [vp] [advp] [vp] 
+12	 c [vp] 不/d a y 
+12	 [pp] c [np] u 不断/d [vp] 
+333	 [vp] 不/d [vp] p [vp] y 
+7	 不行/a u [np] 
+53	 m [np] g u 不/d [vp] g 
+7	 s 不行/a 
+19	 c [np] r 不/d [vp] 
+7	 c 不能/v p 
+7	 r [qp] 不/d g u g 
+7	 [np] [advp] [vp] 不止/v 
+7	 c a u 不/d a 
+7	 不由得/d s m [vp] 
+7	 m 不/d [pp] 
+7	 g [vp] c 不可/v g 
+55	 [np] 不能/v [advp] [vp] y 
+77	 r [advp] 不/d [vp] p s [vp] 
+7	 s [advp] 不/d a y 
+17	 不/d p r u [vp] 不同/a c [vp] 
+7	 不但/c [vp] m 
+267	 c [np] c 不/d r a 
+7	 [advp] 不/d [vp] m u [np] 
+12	 r 不免/d [vp] 
+32	 r 不/d [vp] [advp] [vp] [pp] 
+7	 [pp] [np] 不足/v 
+7	 c r 不必/d [vp] 
+29	 r 不畏强暴/v 
+7	 r g u 不/d [vp] 
+7	 c [vp] 不到/v [vp] 
+7	 c a 不堪/v 
+7	 不/d [vp] [qp] m g 
+7	 不/d [vp] p [vp] f [vp] 
+7	 不过/c r [advp] [vp] a 
+7	 t a u a 不/d [vp] a 
+13	 不/d [vp] [pp] g g 
+7	 s r 不/d [vp] 
+456	 r [advp] [vp] 不要/d [vp] 
+12	 c [qp] [advp] [vp] 不/d [vp] 
+7	 a u 不/d [advp] a 
+137	 [vp] p 不/d [advp] [np] f 
+7	 [pp] [np] 不/d g 
+7	 c m [vp] c 不/d g 
+7	 [np] c 不/d a u 
+7	 [pp] [np] u 不/d a 
+7	 [vp] [advp] 不已/v 
+7	 [pp] [vp] 不断/d [vp] 
+23	 s [np] 不畏/v [np] 
+7	 p 不断/d [vp] c [vp] 
+7	 不/d a [vp] a u 
+12	 s [np] [advp] 不甘落后/v 
+7	 不止/v [vp] 
+7	 不/d [vp] [pp] [np] r 
+7	 [np] [vp] 不息/v 
+7	 [advp] 不见/v a 
+28	 c r [advp] 不/d p [vp] 
+7	 [advp] p [vp] 不少/m [np] 
+33	 r t [vp] 不少/m [np] 
+12	 p 不同/a f 
+808	 u [np] 不/d [vp] a u 
+7	 [np] 不/d u a 
+12	 p [vp] 不正之风/l 
+7	 [vp] 不/d [vp] a [vp] 
+7	 p 不/d l 
+7	 t [advp] [vp] 不/d y 
+12	 [np] f 不/d [vp] y 
+12	 不少/m [np] [advp] p [vp] 
+1662	 r [advp] 不知/v [vp] a y 
+7	 r s 不/d [advp] a 
+12	 m [np] 不/d [vp] [advp] [vp] 
+7	 不/d p t r 
+7	 r 不/d [vp] g u [np] 
+7	 [np] u [vp] 不/d a 
+13	 c [np] k [advp] 不/d [vp] 
+7	 不/d [vp] [pp] s [vp] 
+66	 [advp] 不过/d [vp] l 
+7	 不一会儿/l [advp] [vp] y 
+7	 不/d [vp] m t m t 
+7	 [vp] 不一会/l 
+7	 c p r 不/d a 
+45	 r s c 不/d [vp] 
+7	 r 不/d p [vp] g 
+22	 c 不/d [vp] p t [vp] 
+7	 r [advp] 不无/v [np] 
+7	 s [vp] 不能/v [vp] 
+55	 r [advp] 不/d [vp] [pp] u [np] 
+7	 g [vp] 不久/m 
+7	 c [advp] 不乏/v [np] 
+17	 [np] [vp] [pp] [np] [pp] 不/d [vp] 
+7	 [advp] 不/d [advp] [vp] [advp] [np] 
+7	 不啻/d l 
+7	 [np] 不少/m [np] 
+13	 [np] [advp] 不好过/a 
+7	 不顾一切/l [np] 
+7	 [np] 不管/c [np] 
+7	 [vp] 不/d u [advp] [np] 
+7	 a 不/d g g 
+23	 r 不时/d u [vp] 
+7	 t u [np] [advp] [vp] 不/d [vp] y 
+33	 [np] [advp] 不/d [pp] y 
+7	 不懂装懂/v 
+7	 [advp] t [advp] 不/d [vp] 
+7	 r 不朽/z u [np] 
+7	 r 不会/v [vp] 
+7	 c r a 不/d [vp] 
+7	 [vp] 不用/d [np] 
+7	 r [advp] 不如/v r 
+77	 c r p r [advp] 不/d a 
+7	 r [advp] 不/d [vp] a a 
+7	 [pp] u 不断/d [vp] c [np] 
+48	 [np] [advp] 不错/a y 
+7	 [advp] 不妙/a y 
+7	 r 不解/v [np] 
+13	 c [np] [advp] 不足/v 
+12	 t [advp] [vp] 不/d u [np] 
+22	 r 不仅/c [vp] p r 
+12	 不要/d a [vp] 
+19	 r [advp] 不妨/d [vp] 
+7	 不要/d [vp] s u [np] 
+22	 [advp] 不近人情/v 
+7	 c [vp] 不/d u [vp] 
+7	 不/d [vp] t r 
+7	 b u [np] [advp] 不/d a 
+19	 t r [advp] 不/d a y 
+7	 不要/d [vp] m [vp] 
+7	 不许/d a 
+7	 [vp] [advp] a 不/d u y 
+7	 不过/c [np] [advp] u [vp] 
+7	 不畏/v l 
+29	 [np] f 不/d [vp] g [vp] g 
+7	 不但/c [vp] 不/d [vp] 
+22	 t [np] [advp] [vp] 不/d [vp] y 
+140	 c r 不/d [advp] [vp] y 
+7	 [advp] 不要/d [advp] a 
+17	 [np] [vp] 不/d f [vp] 
+7	 t [vp] 不/d a y 
+35	 r [advp] [np] [advp] [vp] 不/d [vp] 
+31	 [advp] [vp] t [advp] 不/d [vp] 
+12	 r 不/d [vp] [advp] [vp] t 
+16	 r [advp] 不过/d m t 
+7	 c r m [vp] 不/d [vp] 
+7	 r t [np] [advp] 不好/a 
+90	 r 不禁/d a [vp] 
+7	 [np] [advp] 不俗/a 
+7	 u [vp] [advp] [vp] 不/d a 
+7	 不/d [vp] s a 
+42	 c [np] 不对/a 
+7	 g [pp] 不/d [vp] 
+20	 c b [vp] 不可/v u [np] 
+12	 [np] [vp] [qp] 不同/a u [np] 
+27	 [advp] 不知/v [vp] m [np] 
+7	 [vp] m [np] 不/d a 
+25	 m a 不/d [np] 
+18	 [vp] 不/d [np] u 
+7	 s 不仅/c [advp] [vp] 
+78	 r [advp] [np] [advp] 不/d [vp] 
+7	 [vp] 不/d g u r 
+14	 r [qp] [advp] 不/d a y 
+7	 p 不同/a [np] [pp] u [vp] 
+7	 不/d [vp] [advp] g [vp] 
+7	 g b 不知/v [vp] 
+7	 r 不大/d [vp] 
+51	 c 不巧/d 
+7	 不管怎样/l a 
+52	 [advp] 不/d a g [vp] 
+7	 c [advp] [vp] [advp] [vp] 不/d [vp] 
+267	 r [advp] [vp] [qp] 不同/a u [np] 
+7	 r u [vp] [advp] 不/d [vp] 
+7	 c 不/d [advp] [vp] g 
+7	 f 不愧/d g 
+7	 c 不/d [pp] u [np] 
+7	 c s [np] m t 不/d [vp] 
+12	 s [advp] 不/d [vp] g 
+7	 不管/c a g 
+12	 r 不/d [vp] g g [np] 
+7	 不必/d 不必/d 
+37	 不苟言笑/v u [np] 
+7	 r t [advp] [vp] 不/d a 
+15	 [advp] 不/d [advp] p [vp] 
+7	 [advp] r 不在乎/v 
+7	 不过/c [advp] [vp] [advp] [vp] 
+7	 [vp] 不大/d a 
+35	 m [vp] 不/d [vp] m a 
+144	 r m 不/d [vp] p [vp] 
+14	 [vp] [advp] [vp] 不过/u y 
+30	 [advp] 不/d c r 
+19	 r 不/d u 不/d [vp] 
+7	 [vp] 不一会儿/l 
+7	 r g u 不少/m [np] 
+7	 不过/c r [advp] 不/d a 
+12	 [np] z 不/d [vp] 
+18	 r 不/d [vp] [advp] [vp] m [vp] 
+7	 不要/d m t 
+7	 g g 不/d [vp] y 
+24	 r 不在乎/v [np] 
+12	 c r [advp] 不再/d [vp] 
+7	 [vp] [advp] 不巧/d 
+7	 不如意事常八九/v 
+37	 r [advp] u 不/d [vp] y 
+191	 r t r [advp] 不/d [vp] y 
+7	 不禁/d a y 
+7	 [vp] 不/d [vp] p [vp] [qp] r 
+30	 r [advp] 不好意思/a y 
+13	 r 不禁/d [vp] [qp] g [vp] 
+13	 [vp] [advp] [vp] 不/d a y 
+25	 r [advp] p [vp] 不/d [vp] 
+7	 s [np] 不/d [vp] m 
+7	 [np] 不算/v [np] 
+12	 不论/c [vp] 不/d [vp] 
+7	 不过/c [advp] 不/d a 
+15	 s 不肖/b [vp] 
+53	 r 不/d [vp] [advp] p [vp] y 
+21	 r p r u [advp] 不/d a 
+7	 不论/c t c t 
+67	 [np] 不久/m [advp] [vp] y 
+7	 [advp] 不足/v g 
+7	 c r [advp] 不/d r 
+7	 不过/c [np] u [vp] 
+7	 不说/c [vp] 
+7	 不/d g 不孝/a 
+3103	 r [advp] [vp] 不少/m [np] y 
+7	 [qp] [advp] 不/d g 
+7	 c [advp] [vp] 不/d a y 
+7	 [vp] 不/d [np] y 
+21	 c [advp] a 不/d u r 
+233	 r [advp] [vp] [advp] 不/d a y 
+7	 [vp] 不住/d [np] 
+7	 [vp] [advp] 不同/a y 
+13	 r [advp] 不觉/d 
+19	 r 不再/d p [vp] 
+12	 c r [advp] 不要/d [vp] 
+7	 [vp] [advp] a 不/d u u y 
+20	 f r 不/d [vp] y 
+7	 不禁/d s m a 
+151	 [vp] 不/d [vp] p r [advp] [vp] 
+13	 r [advp] 不/d [vp] g [vp] 
+18	 r [advp] [vp] 不/d [vp] p [vp] 
+7	 r [advp] 不知/v r 
+17	 r c 不/d p r 
+7	 r 不/d [vp] [advp] r 
+7	 r b 不/d [vp] 
+7	 不/d a 不好/a 
+7	 [advp] 不理/v r 
+7	 [np] a u 不行/a 
+13	 r t t 不/d [vp] 
+1348	 不/d [vp] p 不/d p 
+7	 c r [advp] r [advp] 不/d [vp] 
+43	 r [advp] [vp] t 不/d a 
+19	 r p r [advp] 不/d [vp] a 
+12	 r p r [advp] 不/d a y 
+21	 r 不/d [vp] 不/d a u 
+18	 p t f p s [vp] p 不同/a [np] [vp] [advp] g [qp] 
+7	 不拘/v [vp] 
+7	 [vp] p r [advp] [vp] [advp] 不/d [vp] 
+6	 [advp] 不/d [vp] g r 
+11	 [advp] 不/d f [vp] 
+11	 [vp] 不/d [vp] 不/d [vp] y 
+6	 [np] u 不错/a 
+6	 c [np] 不景气/a 
+12	 r [pp] 不错/a 
+6	 [advp] g g 不/d [vp] 
+6	 r 不/d [vp] [advp] [vp] s 
+6	 [advp] 不/d [vp] [advp] p r 
+6	 [vp] 不/d a a u 
+6	 s u [np] 不/d [advp] a 
+16	 [vp] c 不/d [advp] [vp] 
+6	 [vp] t [np] 不/d a 
+17	 r u 不朽/z [np] 
+6	 c [vp] 不已/v 
+6	 不肖子孙/l 
+6	 f 不得不/d [vp] 
+6	 不断/d p f [vp] 
+6	 不然/c [advp] [vp] [advp] [vp] 
+230	 t r [advp] 不/d [vp] m t 
+227	 c r 不畏/v [np] 
+13	 [np] 不/d f [vp] 
+6	 [np] [vp] p 不同/a u [np] 
+32	 [pp] [np] u 不足/a 
+11	 [vp] f 不再/d [vp] 
+6	 不断/d p s [vp] 
+6	 [np] [advp] 不得不/d [vp] 
+6	 不久/m [advp] p [vp] 
+6	 不可/v [vp] k 
+6	 不但/c [np] 不/d [vp] 
+86	 c [np] 不/d p [vp] 
+38	 [vp] m [vp] 不/d g 
+6	 c g 不见/v [np] p 
+6	 不少/m [np] [vp] [pp] 
+6	 不再/d [pp] [np] 
+11	 [np] 不但/c [np] a 
+11	 [advp] [vp] [advp] a 不过/u u y 
+22	 [advp] a 不/d [vp] [qp] 
+6	 不但/c [vp] [advp] a 
+6	 t f [vp] 不/d [vp] 
+6	 u [np] [advp] 不/d [advp] [vp] 
+6	 c 不久前/t 
+6	 不免/d [vp] m [vp] 
+6	 不要/d [qp] 
+6	 [vp] 不/d [vp] t u [np] 
+12	 [advp] 不足/v m [np] 
+6	 不知/v g p r 
+48	 不仅/c [vp] g [np] 
+17	 r 不可/v g [advp] 
+6	 c t f [advp] 不/d a 
+13	 p r [advp] 不得/v [vp] 
+119	 不仅/c [vp] [pp] [np] f 
+6	 b [vp] [advp] u 不/d [advp] [vp] 
+6	 [vp] 不同/a [np] [advp] [vp] 
+6	 s [advp] [vp] s [np] 不可分割/v u m m 
+11	 r l [np] [advp] [vp] s 不可/v [vp] 
+6	 不断/d [vp] c [vp] c [np] 
+6	 s [vp] [advp] 不/d [vp] 
+6	 s 不仅/c [pp] [np] 
+6	 r 不同/a p 
+6	 不良/a [np] k p m 
+6	 [np] 不/d a m 
+6	 c [np] [advp] 不/d [vp] [advp] a 
+151	 c p t 不同/a u [vp] 
+6	 m t f 不断/d [vp] s f [np] 
+6	 z [vp] m 不见/v g 
+6	 s u 不同/a [np] 
+28	 [np] [advp] [vp] 不明/v [np] 
+20	 [advp] 不/d [vp] [pp] [np] f [vp] 
+6	 不过/c [pp] [advp] a 
+6	 不再/d [vp] [pp] [np] 
+6	 不/d [vp] t m 
+1019	 r m [np] c 不/d [advp] [vp] 
+18	 不但/c p s [vp] 
+6	 t [vp] 不/d [vp] [qp] 
+6	 [np] 不休/v 
+6	 [np] [vp] 不足/v u [np] 
+114	 c [pp] u [np] 不/d a 
+6	 s [advp] 不满/a 
+377	 c [np] u 不/d [vp] [advp] [vp] 
+6	 s [vp] s 不可/v [vp] 
+11	 [vp] s [vp] 不/d [vp] 
+6	 [vp] t [advp] 不/d a 
+11	 t [advp] 不/d [np] 
+6	 不粘锅/n 
+12	 [np] [advp] 不如/v [np] 
+6	 [np] r 不服/v 
+6	 c [vp] 不公/a 
+12	 不少/m [np] [vp] s 
+6	 c [np] 不/d [vp] s 
+65	 p [advp] [vp] 不/d [vp] f 
+11	 s [advp] 不/d [vp] [advp] [vp] 
+6	 [vp] [advp] 不/d p [vp] 
+31	 [vp] 不/d [vp] [qp] u [np] 
+6	 [vp] 不得不/d [advp] [vp] 
+6	 [vp] 不严/a u [np] 
+18	 不过/c t [advp] [vp] 
+53	 [np] m t 不/d g 
+6	 f 不/d [vp] t 
+6	 [pp] t 不/d [vp] 
+6	 t f [advp] 不/d [vp] 
+6	 [np] c [vp] 不好/a 
+214	 r [advp] [vp] 不可思议/l u [np] 
+6	 不要/d a a 
+6	 [np] [vp] [advp] 不/d a y 
+6	 [pp] [advp] 不足/v 
+13	 [np] [vp] 不说/v 
+316	 [vp] [advp] m t f [np] [vp] 不/d [vp] m t 
+16	 m [np] f u [np] 不断/d [vp] 
+6	 [np] p f [np] 不/d [vp] 
+6	 [vp] 不到/v [np] u 
+11	 不管/c s [vp] 
+6	 不/d [advp] [vp] [advp] a 
+45	 [np] f u [np] 不/d [vp] 
+6	 不公/a 不/d g 
+29	 [np] a u [advp] 不/d a 
+11	 s [np] p 不断/d [vp] 
+6	 c [vp] 不少/m u [np] 
+6	 [np] a 不/d [vp] f 
+40	 c s [np] 不/d p s [vp] 
+88	 [pp] [np] 不力/a 
+13	 不知不觉/l [vp] y 
+12	 [pp] c [np] 不/d [vp] 
+6	 不/d [vp] [advp] [vp] l 
+28	 r m [np] [vp] 不/d a u 
+80	 p s [np] [advp] 不/d a 
+6	 s 不/d [vp] p [vp] 
+6	 t [advp] a 不/d a y 
+6	 [vp] 不停/v 
+28	 c 不/d [advp] [vp] [advp] [vp] 
+6	 p r 不仅/c [vp] 
+214	 c 不/d [vp] [pp] u [np] [vp] 
+18	 c [advp] [vp] [advp] 不/d [vp] 
+6	 [np] f [vp] [qp] 不/d [np] 
+6	 [vp] 不/d [advp] 不/d a 
+6	 [np] [advp] [vp] [advp] [vp] 不/d [vp] 
+6	 s [np] [advp] 不足/v 
+12	 [np] 不仅/c [vp] a 
+6	 [vp] 不如/v b 
+6	 [pp] [vp] [advp] [vp] 不/d [vp] 
+6	 c 不/d u [np] 
+166	 p r 不断/d [vp] 
+12	 c [advp] 不断/d u [vp] 
+98	 u [np] [advp] [vp] 不/d a u 
+62	 c [np] 不/d [vp] l 
+6	 p s [np] [vp] 不/d [vp] 
+36	 r [pp] c 不/d a 
+25	 [np] [advp] [vp] a 不/d a 
+6	 不断/d [vp] s u [np] 
+27	 [pp] [np] [vp] 不良/a [np] 
+37	 [pp] [np] 不严/a 
+21	 r [advp] [vp] [qp] [vp] 不/d [vp] 
+6	 p m t 不懈/z u [np] 
+6	 s 不仅/c p s 
+14	 s [np] p s [np] 不同/a 
+6	 [vp] m [np] [advp] 不/d [vp] 
+6	 t 不/d r 
+6	 [advp] [np] 不同/a y 
+6	 b 不/d [vp] [advp] 
+11	 [vp] s [np] 不/d a 
+6	 c 不/d c [vp] 
+22	 c [pp] [vp] 不足/v 
+6	 [pp] 不济/a 
+6	 s s [np] 不断/d [vp] 
+86	 c 不论/c [np] r 
+6	 p [advp] 不/d a 
+6	 u [vp] [advp] 不/d a 
+483	 c r 不/d [vp] c [vp] 
+48	 r [advp] [vp] [qp] 不错/a u [np] 
+6	 m [np] 不足/v [qp] 
+6	 [qp] 不容忽视/v u [np] [vp] 
+6	 [advp] 不同寻常/v 
+6	 [pp] [np] f u [np] 不断/d [vp] 
+29	 c [advp] [vp] 不足/a u [np] 
+6	 p [qp] 不同/a u [np] 
+18	 c [advp] [vp] [advp] 不/d a 
+142	 r [advp] 不/d [vp] l u [np] 
+6	 [np] p [qp] [vp] [qp] 不/d [vp] 
+6	 [np] a [advp] 不/d [vp] 
+19	 c [advp] [vp] m 不/d [vp] 
+6	 [np] 不必/d [advp] [vp] 
+6	 r [advp] 不怕/v r 
+11	 p m [np] 不同/a u [vp] 
+25	 [advp] [vp] t 不再/d [vp] 
+63	 p 不久前/t [vp] f 
+6	 c c [vp] 不/d a 
+6	 [np] 不禁/d [advp] [vp] 
+267	 c [advp] 不时/d [vp] 
+11	 c r [advp] 不/d [vp] s 
+6	 [np] 不/d [pp] [np] 
+6	 m [np] 不明/v 
+6	 [vp] [advp] [vp] 不懈/z 
+6	 不管/c r [pp] 
+37	 c r [advp] 不可/v [vp] 
+11	 r m [np] c 不/d [vp] 
+6	 c [np] 不详/v 
+13	 p m [vp] [advp] [vp] 不同/a [np] 
+55	 [np] 不用/d [vp] y 
+6	 [vp] 不/d p t a 
+6	 [vp] f [np] 不/d [vp] 
+6	 不/d g c f 
+26	 [np] [advp] 不同/a [np] [vp] 
+6	 g g c 不/d [vp] 
+25	 r t u [np] 不/d a 
+6	 不论是/c t 
+6	 [np] [vp] 不利/a [np] 
+6	 r c [np] [advp] 不/d [vp] 
+24	 r 不少/m [np] [vp] 
+6	 [np] [advp] 不济/a 
+6	 r 不/d [vp] s [np] [vp] 
+12	 c [vp] 不/d [vp] [advp] a 
+6	 [qp] 不够/a 
+6	 c [np] 不明/v 
+6	 不/d p 不/d [vp] 
+6	 [pp] [np] 不/d [vp] a 
+31	 c [advp] [vp] c 不/d a 
+11	 [np] [vp] 不得了/l 
+32	 [np] 不同凡响/v 
+11	 u [vp] 不得/v [vp] m 
+6	 [np] 不/d p f [np] [vp] 
+6	 不/d [vp] f [np] m 
+6	 [pp] [vp] g [vp] m t f 不得/v [vp] 
+12	 [vp] 不规则/a u [np] 
+29	 [advp] 不/d [vp] [advp] [vp] c [np] 
+6	 [pp] [advp] [vp] 不久/m 
+11	 s 不/d [vp] s [np] 
+6	 [pp] u [np] c 不/d a 
+38	 [np] l 不断/d [vp] 
+398	 c 不/d [vp] g g g 
+6	 [np] [vp] 不够/a a 
+11	 [pp] [np] [advp] [vp] 不/d [vp] 
+11	 不少/m l [vp] 
+140	 [np] r 不无/v [advp] [vp] 
+6	 [vp] 不屈/v 
+6	 c [pp] [np] 不断/d [vp] 
+6	 p b 不懈/z u [np] 
+6	 不/d [vp] t [np] [vp] 
+11	 c c 不/d [advp] [vp] 
+19	 r a u 不/d [vp] a 
+76	 c [np] 不/d g a 
+6	 [np] [vp] 不容忽视/v 
+11	 s [np] 不久前/t [vp] 
+92	 r [advp] 不/d p r a r 
+11	 c [advp] 不/d [vp] m [vp] 
+6	 [np] f 不/d [vp] [advp] [vp] 
+6	 c [np] p 不断/d [vp] 
+6	 [advp] [vp] [pp] [vp] 不/d [vp] 
+17	 [np] 不/d [vp] p f [vp] 
+11	 不可避免/v u [vp] 
+27	 r 不慎/d [vp] 
+51	 r [pp] 不/d [advp] [vp] 
+12	 [vp] 不要/d [vp] p r s [vp] 
+12	 [np] f 不再/d [vp] 
+87	 r [advp] [vp] 不妥/a 
+46	 c [advp] a 不/d [vp] m t 
+159	 r p r 不同/a u [np] 
+31	 c r [advp] 不为所动/v 
+6	 a 不/d [pp] 
+6	 不过/c [np] 不/d a 
+11	 c r 不顾/v [np] 
+44	 [advp] 不同/a [np] u [vp] 
+6	 r [advp] 不甘落后/v 
+1281	 u [np] 不/d g [vp] 
+6	 不论/c [vp] [pp] 
+6	 [np] f [np] [vp] 不断/d [vp] 
+6	 [advp] [pp] u [np] 不/d [vp] 
+6	 [advp] 不知/v a 
+6	 c [advp] [vp] 不/d [vp] a 
+6	 r 不法/b [np] 
+76	 r [advp] 不省人事/l 
+17	 c 不/d [vp] [pp] [pp] 
+40	 m [np] 不/d u [np] 
+6	 m t 不等/v 
+29	 [advp] 不值一提/v 
+29	 [np] 不/d [qp] 
+13	 r [advp] g 不/d a 
+87	 r [advp] [vp] [qp] 不/d a 
+12	 c m 不/d [vp] 
+35	 [np] [vp] 不予/v [vp] 
+6	 不得/v [vp] c [vp] [qp] 
+25	 r [qp] 不得/v [advp] [vp] c [vp] 
+6	 p [vp] f p [vp] 不/d [vp] 
+16	 [np] 不得/v [vp] s [np] 
+58	 不得/v [pp] [np] [vp] 
+6	 p [advp] 不得/v [vp] [qp] m [np] 
+13	 [np] 不得/v [vp] c [advp] [vp] 
+6	 r 不/d [advp] [np] 
+6	 [np] [advp] [vp] 不/d [vp] [advp] [vp] 
+6	 [advp] 不可/v g 
+6	 [advp] r [advp] [vp] 不/d y 
+6	 [advp] 不/d a u p [vp] 
+6	 [advp] 不好/a [np] 
+12	 r [advp] 不/d p r s 
+6	 [np] 不复/d [vp] 
+6	 r 不然/v 
+20	 c [advp] 不/d [vp] b u [np] 
+12	 g g 不明/v 
+6	 g 不/d p g 
+6	 [vp] m g 不/d [vp] 
+11	 不/d [vp] a [vp] g 
+6	 p m [np] 不/d [vp] 
+6	 [vp] 不灵/a 
+6	 [advp] [vp] 不/d m 
+18	 [advp] [vp] m [vp] 不/d [vp] 
+6	 c z 不/d [vp] 
+6	 不但/c p [vp] 
+6	 [advp] [vp] 不/d [vp] k 
+6	 不可/v [np] [vp] 
+6	 [vp] [pp] 不同/a 
+6	 r [advp] 不/d [vp] [advp] p f [vp] 
+11	 [np] f [advp] [vp] 不/d a 
+11	 [np] [vp] 不可避免/v u 
+6	 r p 不断/d u [vp] 
+6	 p [qp] 不/d g u g 
+6	 m c 不/d [vp] 
+35	 [pp] [np] 不/d a g 
+6	 不/d [pp] c [vp] 
+55	 c [np] [qp] [advp] 不/d [vp] 
+6	 [advp] [vp] [advp] [vp] 不够/a u 
+6	 [vp] g 不如/v r k 
+6	 不要/d [advp] p [vp] 
+6	 [np] [pp] [np] u 不同/a 
+27	 p 不/d [vp] [advp] [vp] 
+6	 a u c 不/d [vp] a u 
+11	 m [np] 不得不/d [vp] 
+16	 [advp] [pp] 不/d [pp] 
+80	 c [pp] u [np] 不同/a 
+11	 [advp] [vp] 不了了之/v 
+22	 p r 不/d p g 
+6	 不论/c [np] r a 
+6	 不过/c 不管怎样/l 
+12	 [vp] 不/d a u y 
+6	 [advp] 不/d [vp] y y 
+6	 不管/c g 
+57	 c r 不/d g [vp] 
+6	 [np] f [advp] 不/d [np] 
+6	 不可/v [vp] a 
+6	 r 不对/a 
+52	 [vp] [pp] [vp] 不/d a 
+6	 [np] f [vp] 不/d [np] 
+6	 c [advp] [vp] 不少/m u [np] 
+12	 c 不/d [vp] b u [np] [advp] [vp] 
+11	 m u [np] 不/d [vp] 
+6	 [np] [advp] [vp] 不/d u a 
+6	 [np] 不/d [vp] [advp] [vp] 不/d [vp] 
+6	 p g [vp] 不/d [vp] 
+6	 不要/d f [vp] 
+6	 t 不/d u [np] 
+21	 [vp] c 不/d [vp] [qp] g 
+6	 [np] u 不正之风/l 
+6	 [np] [vp] p 不/d [vp] 
+6	 p t u [np] 不/d [vp] 
+6	 [advp] a [vp] [advp] 不行/a 
+6	 不/d m [vp] 
+6	 不过/c r [pp] 
+6	 l [np] 不/d a 
+6	 g 不/d g y 
+31	 c 不/d [pp] [np] [vp] 
+6	 p b [vp] 不/d [vp] 
+6	 不/d b r 
+6	 不/d p t [np] 
+6	 c 不/d [pp] x 
+6	 不无/v a 
+6	 [np] [vp] 不同/a u [np] c [vp] c [vp] g 
+6	 [vp] 不平/a u [np] 
+6	 不痛不痒/l 
+16	 [np] 不大不小/l 
+6	 不讳/v 
+11	 不论/c a u 
+6	 g [np] r 不/d [vp] 
+15	 不要/d t [vp] 
+31	 [vp] 不以为然/v u [np] 
+137	 [np] 不凡/z u [np] 
+756	 r [advp] [vp] 不/d [vp] g [vp] 
+6	 [vp] [advp] 不知所措/v 
+6	 [np] [vp] 不可/v t u 
+6	 [pp] u [np] [advp] 不同/a 
+6	 不拘/v g [vp] 
+6	 g 不通/a 
+6	 [np] [advp] [vp] 不/d [advp] 
+6	 p f 不/d a 
+6	 a a 不足/a 
+6	 [np] 不/d [vp] f g 
+6	 c [np] 不利/a 
+16	 [advp] [vp] g 不/d a 
+18	 r [advp] 不/d [vp] p g 
+6	 不易/a y 
+6	 不容/v [advp] [vp] 
+6	 不/d g k 
+38	 [np] a a 不/d [vp] 
+60	 [np] [vp] g 不/d [vp] g 
+6	 g u 不/d a 
+6	 [np] z 不/d g 
+21	 [np] g c 不/d a 
+115	 m [np] a c 不/d [vp] 
+6	 c 不/d g y 
+53	 [advp] a g 不/d [vp] 
+6	 不/d [vp] [pp] g [vp] 
+59	 [vp] 不/d [vp] [advp] 不/d [vp] y 
+6	 [vp] a 不/d y 
+6	 t [vp] 不行/a y 
+91	 [np] [vp] 不/d [vp] [advp] 不/d p l [vp] [advp] 不/d [vp] 
+116	 [advp] g [np] 不/d g [np] 
+44	 不仅/c r [advp] [vp] 
+44	 [np] 不要/d [vp] [advp] a 
+6	 g g 不宜/v [vp] 
+6	 p 不/d [vp] t 
+6	 [advp] 不同凡响/v 
+21	 [advp] [vp] 不可告人/l u [np] 
+6	 不仅/c [pp] u [vp] 
+6	 [pp] 不同/a u [np] 
+6	 不/d [vp] a g [vp] 
+25	 r [advp] a 不/d [vp] y 
+81	 r 不要/d [advp] a y 
+6	 [pp] [advp] 不/d [vp] f 
+13	 u [np] [advp] 不胫而走/v 
+6	 p r [advp] 不可/v [vp] 
+6	 m [vp] 不足/v 
+11	 t [vp] [advp] 不/d [vp] 
+6	 c [advp] [vp] [advp] 不够/a 
+55	 c t [advp] 不/d [vp] y 
+6	 [np] [advp] 不/d [vp] [qp] [vp] 
+11	 [vp] a 不/d [np] 
+6	 t [vp] 不到/v [np] 
+6	 不攻自破/v 
+6	 g 不可/v a 
+11	 [np] 不/d [vp] [advp] 不/d [vp] 
+6	 s [advp] 不然/v 
+6	 c s [vp] 不/d [vp] 
+6	 c a 不少/m 
+6	 r u s [advp] 不/d [vp] 
+11	 不仅/c [vp] z 
+11	 [qp] 不法分子/n [advp] [vp] 
+6	 p [vp] f 不断/d [vp] 
+6	 p 不法分子/n p l 
+6	 [np] [advp] 不断/d u [vp] 
+6	 [advp] [np] [advp] 不/d [vp] y 
+6	 [advp] 不过/d [qp] 
+6	 不少/m y 
+349	 r [advp] 不/d [vp] [pp] [np] [vp] 
+6	 不道德/a [np] 
+11	 [vp] 不到/v u 
+6	 不落窠臼/v 
+47	 [np] [advp] [vp] 不/d u r y 
+6	 r u [advp] [vp] 不/d [vp] 
+21	 p 不断/d [vp] f 
+39	 t [advp] [vp] 不/d a u m t 
+6	 l [vp] 不得/v 
+6	 g g 不已/v 
+13	 r [advp] 不/d [vp] [advp] [vp] a 
+6	 [vp] 不/d [vp] [advp] r 
+11	 [advp] a r 不/d [vp] 
+6	 [np] p c 不/d c 
+6	 c 不光/c [np] l 
+12	 r g [vp] [qp] p [qp] 不等/v 
+79	 m [np] [advp] a 不堪/v 
+49	 s [np] c 不/d [vp] f u r a 
+99	 [advp] [vp] m 不/d [np] [advp] [vp] 
+16	 r [advp] a u 不过/c m t 
+6	 s u t 不/d a 
+11	 [np] [vp] [qp] 不/d [np] 
+6	 不少/m [np] [pp] [np] 
+11	 不过/c [vp] g 
+6	 [np] a [vp] 不/d [vp] 
+6	 m [qp] 不/d [vp] 
+17	 不愧为/v [np] 
+75	 r 不仅/c [pp] [np] [vp] 
+20	 c [vp] 不少/m [np] [advp] [vp] 
+6	 [np] [advp] [vp] 不/d [vp] a 
+6	 [np] c [vp] 不足/v 
+6	 不怕/v l 
+11	 [vp] 不好/a [vp] 
+19	 不准/v [advp] [vp] y 
+6	 g g 不符/v 
+6	 [vp] a u [advp] 不/d a 
+6	 不/d [vp] 不/d a [vp] 
+11	 [np] s 不/d [vp] 
+23	 r 不但/c 不/d a 
+6	 不过/c m [qp] 
+21	 r [advp] 不/d [vp] m g 
+6	 [advp] [vp] 不/d g [np] 
+26	 [advp] 不/d p f [vp] 
+131	 [np] 不/d [vp] p r [advp] [vp] 
+6	 [np] [vp] f 不/d [vp] 
+6	 m [np] [vp] 不可思议/l 
+66	 [np] [advp] 不/d u [vp] 
+11	 c [vp] [qp] 不/d [np] 
+124	 c c [vp] 不善/a 
+11	 [np] 不断/d [vp] c [vp] 
+78	 c [np] f 不/d a 
+6	 r 不愧为/v 
+6	 [np] 不/d a [vp] y 
+11	 [advp] 不顾/v [np] 
+58	 r 不/d [vp] g [vp] y 
+6	 f [np] 不仅/c [advp] a 
+27	 [advp] 不/d [vp] [pp] [np] [vp] 不/d [vp] 
+11	 g 不/d f g 
+6	 [np] p [pp] [vp] 不/d [vp] 
+11	 r [advp] 不屑一顾/v 
+6	 c r 不/d [vp] [advp] a 
+6	 a 不/d [vp] t [np] 
+6	 [pp] u [advp] 不/d a 
+6	 [vp] 不能不/d [vp] 
+6	 不图/v [vp] 
+6	 [np] [advp] 不/d [vp] f 
+6	 不/d p [vp] c [vp] 
+6	 [np] [vp] c 不可/v g 
+6	 [pp] 不同/a g 
+6	 m 不/d m [advp] 
+32	 [advp] 不伦不类/l 
+144	 [np] 不堪/v u [np] 
+6	 r g 不理/v r 
+6	 r 不/d a [vp] y 
+6	 不/d f 不/d [vp] 
+14	 不要/d [vp] t [np] [advp] [vp] 
+6	 不由/d r 不/d [vp] 
+21	 [advp] 不/d [vp] g a 
+6	 l 不/d [vp] l 
+6	 l [vp] 不/d a 
+6	 c [advp] 不好/a [vp] 
+311	 [np] c 不/d g [vp] 
+21	 c 不容忽视/v u [vp] 
+6	 不要/d [vp] p s 
+6	 不/d [vp] [advp] a [qp] 
+6	 不/d [advp] u [vp] 
+24	 [advp] 不堪一击/v 
+6	 g [vp] g 不/d [vp] 
+129	 c [np] [advp] 不能/v [vp] 
+51	 [advp] 不可/v a [vp] 
+6	 [advp] [vp] 不/d [vp] l 
+6	 [advp] 不/d [vp] f m [vp] 
+58	 [advp] 不用/d [advp] [vp] y 
+17	 [advp] 不够意思/v 
+19	 [advp] [vp] [pp] [np] 不/d [vp] 
+6	 r 不停/v u [vp] 
+6	 不/d a g [np] 
+27	 c [np] [advp] 不/d g [vp] 
+6	 m [np] 不/d [vp] y 
+30	 [advp] [np] 不衰/v 
+46	 [np] [advp] 不止/v r 
+6	 [np] 不/d [vp] p t [vp] 
+6	 不再/d [vp] c [np] 
+6	 m u [np] 不足/v [qp] 
+6	 c 不/d [vp] a u g 
+6	 不论是/c [np] f 
+16	 [np] 不理/v a g 
+12	 p 不法/b [np] [vp] 
+6	 [np] 不由/d [vp] 
+14	 不仅/c g [vp] 
+12	 g 不/d [vp] l 
+6	 不可逾越/v u [np] 
+6	 [vp] a c 不必/d 
+6	 r [pp] u [np] 不/d a 
+40	 r 不卑不亢/v 
+6	 [vp] 不/d a [vp] y 
+6	 [advp] a u 不/d a 
+6	 a 不够/a 
+6	 不要/d t [np] 
+137	 [vp] 不光/c [vp] 
+57	 r [advp] [vp] 不/d [vp] [qp] 
+6	 不知/v s r c a 
+11	 [np] 不得/v [pp] [np] 
+6	 不/d [vp] t a 
+6	 [vp] t [np] 不/d [vp] 
+12	 r [advp] 不/d u [vp] 
+6	 r [advp] 不够/a [np] 
+6	 [np] 不置可否/v 
+6	 [np] 不屑一顾/v 
+6	 a u 不可思议/l 
+6	 [vp] [advp] 不景气/a 
+6	 r f 不/d a 
+6	 不知/v [vp] a r [qp] 
+6	 r [advp] 不论/c 
+16	 t [vp] a 不/d a y 
+6	 a 不平/a u [np] 
+26	 [np] c 不/d g a 
+24	 r [qp] 不/d [vp] a 
+2677	 c r [advp] 不/d [vp] [advp] [vp] y 
+6	 r m [np] 不胫而走/v 
+6	 不过/c t u [np] 
+6	 s 不禁/d a 
+6	 [np] 不要/d [vp] y 
+6	 r a 不堪/v 
+6	 [np] u [vp] [advp] 不/d [vp] 
+6	 r g 不/d [vp] y 
+6	 [np] [vp] 不/d u [vp] 
+6	 [advp] [vp] [advp] 不/d [vp] a 
+22	 c 不畏/v a [pp] [vp] 
+6	 r u t [vp] 不幸/a u 
+6	 u [np] [advp] 不/d a y 
+6	 [pp] 不/d [vp] [pp] 
+398	 [np] 不得/v [advp] [vp] c [vp] 
+6	 s [advp] 不同/a 
+6	 [vp] 不知所云/v 
+116	 c [vp] s [vp] s 不可分割/v u m m 
+6	 g 不/d [vp] t 
+6	 c [vp] [advp] 不行/a 
+6	 [advp] [vp] [qp] [vp] 不/d [vp] y 
+6	 [np] 不灵/a y 
+97	 [np] [advp] 不/d [vp] g [vp] 
+6	 p f [vp] 不/d a 
+6	 c r 不/d [vp] l 
+11	 c [advp] 不/d [vp] t u [np] 
+23	 c r 不/d [pp] [np] 
+6	 [np] [pp] 不断/d [vp] 
+6	 g 不敢当/v 
+15	 [np] [advp] 不凡/z 
+6	 p [vp] m t 不/d [vp] 
+11	 p 不/d [vp] c [np] 
+6	 z 不可/v [vp] 
+6	 [advp] g 不利/a 
+6	 [vp] g [vp] 不/d a 
+6	 c [vp] [pp] [np] [advp] 不/d [vp] 
+6	 [vp] k 不宜/v [advp] a 
+6	 [vp] 不可/v [vp] c [vp] 
+6	 r 不便/a 
+19	 [advp] 不用/d a 
+101	 r s u [np] [advp] 不/d a 
+6	 p t f 不/d [advp] [vp] 
+11	 r 不/d [vp] a u p [vp] 
+6	 m [np] 不解/v 
+6	 [np] [advp] 不/d [vp] m [np] 
+15	 r [advp] p 不/d y 
+28	 [np] 不可/v [vp] [advp] 
+6	 [np] 不/d [vp] f u [np] 
+114	 [pp] [np] [advp] [vp] 不少/m [np] 
+6	 [np] [vp] 不必要/a u 
+6	 不/d a r y 
+6	 [vp] [advp] [vp] [advp] 不/d a 
+6	 [np] [vp] 不甘/v 
+6	 不幸/n g f 
+6	 不免/d a [vp] 
+278	 r [advp] 不/d [vp] [advp] [np] y 
+6	 [advp] 不胜枚举/v 
+6	 不/d p s u [np] 
+6	 r [advp] a u 不行/a 
+6	 [np] 不用/d g 
+6	 c [advp] 不容/v a 
+26	 [advp] 不知/v [vp] [qp] r 
+6	 l 不尽/d a 
+11	 r 不/d [vp] 见死不救/v 
+6	 p 不含糊/a 
+6	 [vp] 不/d [np] p s 
+6	 p s [np] [vp] 不可磨灭/v u [np] 
+6	 [advp] g [vp] 不/d [vp] 
+13	 c [advp] a [advp] [vp] 不/d [vp] 
+375	 u [np] [advp] [vp] 不/d a y 
+74	 u r t [np] [advp] 不/d [vp] 
+6	 c 不/d a [vp] y 
+6	 [np] [advp] r 不/d [vp] 
+6	 r [advp] 不足为怪/v 
+14	 [vp] [qp] a 不/d [vp] 
+12	 [vp] 不足/v [np] 
+6	 a 不/d [vp] c [advp] a [vp] 
+6	 不仅仅/d [vp] [pp] u [np] 
+132	 [np] f [np] u [advp] [vp] 不仅/c [vp] 
+6	 [np] f [np] u 不/d a 
+6	 [np] 不得/v [vp] a [qp] 
+6	 不/d [np] [advp] p [qp] f 
+40	 r 不妨/v [vp] [qp] g 
+6	 c [vp] 不断/d [pp] 
+64	 m [np] 不断/d u [vp] 
+12	 r [advp] 不/d [advp] [vp] a [vp] 居高不下/v u [np] y 
+6	 [np] [advp] m g 不/d [vp] 
+40	 c [vp] f [advp] 不/d [vp] 
+6	 [advp] 不怕/v a 
+20	 [vp] b u [np] 不/d [vp] 
+6	 [np] [advp] 不/d [vp] p s 
+24	 p r u 不/d a 
+19	 r 不/d [vp] [qp] y 
+6	 b 不/d [vp] g 
+77	 不但/c [np] [vp] 不/d [vp] 
+6	 [vp] 不堪重负/v 
+21	 r 不/d [vp] [qp] [advp] [np] y 
+6	 a g [np] 不/d [vp] 
+6	 [np] f [np] [advp] 不/d a 
+15	 [vp] [pp] 不断/d [vp] c [vp] 
+6	 [np] f 不乏/v [np] 
+11	 [vp] 不能/v [np] 
+16	 不足/v [pp] [vp] 
+183	 [advp] r [advp] 不/d [vp] a y 
+6	 [np] k [advp] 不/d [advp] [vp] 
+21	 [np] 不符/v u 
+6	 [qp] [advp] [vp] 不得/v 
+6	 r c [advp] [vp] 不/d [vp] 
+6	 c p 不/d a 
+6	 [advp] [vp] 不过/c [np] 
+6	 不仅/c [vp] [pp] [np] p t [np] 
+6	 m 不祥/z 
+6	 不/d [vp] a 不/d a 
+6	 [np] 不曾/d [vp] 
+88	 [np] [advp] a [vp] 不/d [vp] 
+6	 不幸/a [np] [advp] [vp] 
+6	 [advp] 不/d [vp] g g [np] 
+6	 不/d a f [vp] 
+6	 不足/v p [vp] 
+11	 不管/c f [vp] 
+6	 c s 不/d a 
+12	 不消/v [np] 
+6	 [vp] 不赖/a 
+6	 不光/c a 
+6	 c 不/d l 
+6	 r f 不/d [advp] [vp] 
+6	 a [qp] [advp] 不行/a 
+38	 s [np] [advp] 不景气/a 
+38	 [vp] 不用/d [vp] y 
+6	 c p 不/d [np] 
+19	 c 不/d a p [vp] 
+6	 a 不堪/v u [np] 
+11	 [np] 不妨/d a [qp] 
+656	 不料/d [vp] m t 
+31	 a [vp] 不/d a [vp] 
+6	 r g 不绝于耳/v 
+6	 [advp] 不/d u g 
+12	 [np] 不吝/v [vp] 
+6	 p k 不/d [vp] g 
+6	 c t [vp] 不/d a 
+11	 r [qp] [advp] [vp] 不/d a 
+19	 r [advp] [vp] p c 不/d [vp] 
+6	 [np] 不/d [vp] s u [np] 
+6	 m u [np] [vp] 不/d [vp] 
+6	 t t [advp] 不/d [vp] 
+6	 r [advp] u [np] [advp] [vp] 不/d [vp] 
+201	 r 不仅/c [vp] a u 
+6	 g g [np] 不/d [vp] 
+24	 r [advp] 不/d [vp] [pp] y 
+11	 [advp] 不乏/v [vp] 
+703	 c r s 不/d [vp] 
+79	 r [advp] 不/d [vp] g u [np] 
+11	 c [vp] g 不久/m 
+205	 r [advp] 不好意思/a [vp] y 
+14	 [pp] [np] 不景气/a u [np] f 
+6	 [advp] [np] 不/d [np] 
+26	 r m t [advp] [vp] 不/d [vp] 
+27	 不知/v [vp] [advp] [vp] a 
+578	 [vp] c 不/d [vp] c [np] 
+12	 不但/c [vp] [pp] [vp] [pp] [advp] [vp] 
+6	 c [vp] 不/d f 
+84	 [vp] 不屈不挠/v u [np] 
+6	 [np] 不如/c [vp] 
+6	 [vp] 不得/v u [np] 
+6	 [advp] 不/d [advp] [vp] g 
+6	 [vp] g 不易/a 
+6	 [advp] [vp] [advp] a 不过/u u [np] 
+6	 [np] [vp] 不足/a u [np] 
+6	 p r 不/d [vp] f 
+6	 p 不/d u r 不/d [vp] 
+6	 r 不知不觉/l 
+5194	 c r 不要/d [vp] y 
+6	 [np] 不知所措/v 
+6	 不利/a [np] [vp] 
+42	 r p s [vp] 不少/m [np] 
+6	 [vp] a u [advp] [vp] 不/d [vp] y 
+11	 [advp] a g 不然/v 
+24	 不/d p 不/d p 不/d p 
+39	 [np] [vp] 不尽/d a 
+6	 r [qp] [advp] [vp] 不/d u r 
+6	 不由/d l 
+6	 [advp] 不/d p t 
+11	 不知/v [vp] [pp] 
+25	 r 不免/d r a 
+6	 [vp] f 不/d [vp] f 
+6	 不过/c 不/d a 
+6	 [advp] [vp] [qp] 不可思议/l u [np] 
+32	 b b 不/d a 
+6	 [np] 不够/a y 
+15	 r [advp] 不/d [vp] a g 
+6	 [np] [advp] 不好意思/a 
+35	 p g 不/d [vp] g 
+45	 r 不/d a a y 
+6	 c 不管/c [np] [vp] 
+6	 [pp] 不和/a 
+33	 r 不/d [vp] m t u [np] 
+16	 c [advp] [vp] 不到/v [np] 
+6	 不过/c a 
+35	 r 不屈/v u [np] 
+6	 [pp] u [np] [vp] 不/d [vp] 
+6	 不再/d r a 
+15	 [vp] 不/d [vp] t [advp] [vp] 
+6	 a u 不少/m 
+54	 [advp] [vp] 不/d p y 
+11	 [np] 不要/d a 
+6	 u r [advp] 不/d a 
+6	 r [advp] [vp] 不/d [vp] m 
+118	 r p 不到/v m t u [np] f 
+6	 [advp] p s [vp] 不/d [vp] 
+6	 [vp] 不可/v c [vp] 
+11	 [np] [vp] a 不堪/v 
+6	 [advp] [vp] f 不/d [vp] 
+6	 不/d [np] u [vp] 
+220	 r m 不/d a y 
+6	 [np] 不/d u m [np] 
+6	 m t [advp] [vp] 不/d [vp] y 
+44	 r [advp] 不知所措/v y 
+6	 [np] [vp] 不/d a a 
+6	 [advp] [vp] a u 不同/a 
+6	 m 不要/d [advp] [vp] 
+6	 c [advp] 不要/d [vp] 
+12	 [advp] 不/d [vp] s g 
+6	 c [np] k 不/d [vp] 
+6	 c a 不/d a 
+6	 [np] 不好意思/v u [vp] 
+6	 不/d [vp] 不/d [vp] p r 
+29	 [advp] 不忍/v [vp] 
+6	 [vp] 不知/v [vp] a 
+12	 [vp] 不竭/a [np] 
+21	 [advp] 不用说/v r 
+26	 [advp] [vp] 不知所措/v 
+265	 r 不/d [vp] m [vp] y 
+6	 不/d [vp] s [vp] t 
+6	 [vp] m 不/d g 
+6	 s [advp] [vp] [qp] [vp] 不/d [vp] 
+6	 不但/c 不/d [advp] [vp] 
+209	 r s [vp] [qp] [vp] 不/d [vp] 
+6	 g [np] 不/d m 
+6	 r [qp] 不/d [vp] y 
+6	 不管/c p [vp] 
+6	 f 不见/v [np] 
+6	 不幸/a u [np] y 
+6	 不三不四/l 
+6	 [advp] 不/d [pp] [np] [vp] 
+6	 [np] [vp] 不必/d [vp] 
+6	 r [advp] 不错/a u 
+6	 [advp] [np] 不/d [vp] y 
+6	 [np] b 不/d a 
+52	 r [advp] 不/d [vp] t [np] 
+6	 [np] 不/d [advp] a y 
+6	 [advp] [vp] 不朽/z 
+17	 r s [advp] [vp] 不/d a 
+64	 [vp] p s 不/d [vp] y 
+6	 不禁/d [vp] g [vp] 
+13	 r [advp] 不依不饶/v 
+32	 r s [vp] 不/d a 
+6	 [advp] 不妨/v [vp] 
+6	 [qp] a 不安/a u [np] 
+6	 m g 不再/d [vp] 
+27	 r 不/d [vp] [advp] y 
+6	 r 不/d [vp] a a 
+6	 [advp] 不知/v [advp] 
+33	 r m [vp] [advp] [vp] 不/d [vp] y 
+6	 a [qp] [vp] 不/d [vp] 
+278	 r 不/d [vp] g [np] y 
+6	 [advp] 不一会/l 
+47	 r [advp] 不再/d a y 
+6	 不禁/d r g [np] r 
+907	 r p r 不/d [vp] y 
+53	 r p s [vp] 不/d [vp] y 
+35	 r 不由/d u [advp] [vp] 
+6	 s [vp] t 不/d a 
+6	 不过/c [vp] f 
+19	 [np] f u [np] [advp] [vp] 不/d [vp] y 
+15	 [np] 不怎么/v a 
+6	 r [advp] 不/d [vp] [pp] [vp] y 
+6	 不禁/d [np] z 
+6	 m t [advp] 不行/a 
+18	 [advp] 不复/d [vp] y 
+30	 r [advp] [vp] 不耐烦/a y 
+6	 r 不知/v p [vp] 
+37	 [advp] r [advp] 不/d a y 
+6	 r p s [vp] 不久/m 
+26	 [np] [advp] a 不过/c 
+6	 [advp] [vp] c 不/d g 
+32	 r [advp] 不必/d a y 
+6	 c [vp] 不好意思/v 
+13	 r 不/d z [vp] 
+6	 [vp] 不耐烦/a u [vp] 
+6	 不过/c [np] f 
+6	 r 不/d [vp] c [vp] y 
+6	 a 不易/a 
+6	 r 不要/d r y 
+6	 t f 不久/m 
+158	 r [advp] [vp] 不再/d [vp] y 
+6	 [advp] r [qp] [advp] 不/d [vp] 
+6	 [advp] p r [advp] 不/d [vp] 
+6	 r u 不/d [np] 
+11	 [np] [vp] 不知所措/v 
+678	 r p [vp] 不/d [vp] y 
+15	 r [advp] m [np] 不/d [vp] 
+22	 c [np] c 不/d p r 
+86	 r 不得已/v 
+14	 r [advp] 不/d [vp] [advp] [vp] g 
+6	 [vp] 不尽/b u r 
+6	 不/d [advp] [vp] a y 
+6	 p r 不/d [vp] p [vp] 
+6	 s 不/d [vp] m [vp] 
+239	 r c [vp] [advp] 不/d [vp] 
+6	 [np] u g 不/d [vp] g 
+6	 [np] 不由得/d [vp] 
+22	 不过/c r p [vp] 
+6	 m 不好意思/a 
+6	 r 不/d [vp] [qp] u [np] 
+6	 不可捉摸/v 
+21	 r [advp] 不/d [advp] y 
+11	 [advp] 不过/d [vp] y 
+22	 [vp] a 不好/a [vp] 
+6	 [vp] 不然/v 
+11	 [advp] 不/d [vp] g y 
+6	 [advp] [np] [advp] [vp] 不/d [vp] y 
+91	 c [vp] [advp] 不同/a u [np] 
+108	 r [advp] [vp] [qp] [advp] 不/d [np] 
+34	 [vp] c 不知/v [vp] 
+6	 r 不/d [advp] [vp] a 
+16	 不必/d p [vp] 
+6	 c [advp] 不如/v 
+6	 c 不曾/d [vp] 
+6	 不要/d [vp] 不要/d [vp] 
+6	 r 不/d [vp] s g 
+19	 [np] r 不善/a [vp] 
+43	 r m 不/d [vp] a 
+6	 不屈/v [np] 
+63	 r 不置可否/v u [vp] 
+6	 t 不/d [vp] p [vp] 
+16	 r a 不安/a u [vp] 
+6	 r 不耐烦/a u [advp] [vp] 
+6	 [np] [advp] 不在乎/v 
+6	 [vp] 不要脸/a 
+6	 r 不得不/d r 
+6	 [np] [qp] [advp] [vp] 不/d [vp] 
+6	 r [advp] 不/d [vp] p r y 
+6	 不过/c 不用/d [vp] 
+6	 [advp] r [advp] 不/d [vp] p [vp] 
+136	 r [advp] [vp] 不/d a [vp] 
+6	 不准/v [np] [vp] 
+6	 [advp] [qp] [vp] 不/d [vp] 
+6	 t r c 不/d [vp] 
+88	 r [advp] [vp] 不幸/n 
+6	 [np] c r [advp] 不/d [vp] 
+6	 [np] r 不/d a y 
+83	 r [advp] [vp] 不得了/l 
+92	 c [np] [qp] 不/d [vp] 
+158	 c t 不/d a y 
+100	 r p r [advp] 不/d g [np] 
+6	 不知/v k 不/d [np] 
+11	 u [vp] [advp] 不/d [vp] y 
+104	 r [advp] [vp] p 不/d [vp] 
+27	 [advp] [vp] 不见/v y 
+6	 c r [advp] 不同/a 
+6	 不/d [vp] a a y 
+6	 r 不/d [vp] [advp] g y 
+6	 s [np] [advp] 不/d [vp] y 
+11	 u [qp] [advp] 不/d [vp] 
+6	 [np] [advp] 不对/a 
+6	 [vp] 不/d [vp] [advp] 不行/a 
+6	 c r [advp] 不/d a [vp] 
+6	 t 不见/v y 
+6	 不禁/d [advp] [vp] m [vp] 
+6	 [vp] 不能/v [vp] [qp] 
+14	 p r 不/d [vp] a u 
+6	 [np] 不要紧/v 
+11	 r p [vp] [advp] 不/d a 
+11	 [np] [advp] 不耐烦/a y 
+6	 不论/c r [advp] [vp] 
+46	 r p [vp] [advp] 不/d [vp] 
+6	 不许/d p [vp] 
+6	 r 不/d u [np] 
+6	 [np] u u 不/d [vp] 
+11	 r 不管/c [np] 
+16	 s u [np] [advp] [vp] 不/d [vp] y 
+66	 r 不要/d [pp] [vp] 
+6	 [np] 不住/d [vp] 
+6	 不免/d [advp] a 
+11	 t r 不/d [vp] [advp] [vp] y 
+6	 不/d [vp] m [np] y 
+6	 s 不平/a 
+6	 r 不/d p t 
+128	 r u r [advp] 不/d [vp] y 
+54	 不过/c r 不/d [vp] a 
+6	 c [advp] 不/d u 不/d [vp] 
+6	 c r t [vp] 不/d [vp] 
+88	 [advp] m 不见/v y 
+6	 p r 不/d [vp] p r 
+6	 [np] x 不/d [vp] 
+6	 不知/v r a 
+119	 c [np] 不/d [vp] p [vp] 
+6	 r [qp] [advp] 不错/a 
+6	 [np] x [advp] 不/d [vp] 
+6	 不/d [vp] a g a k u [np] [vp] 
+6	 [vp] [advp] [np] [advp] [vp] 不/d [vp] 
+6	 c [np] [advp] a 不/d u [np] 
+6	 p 不幸/a u [np] 
+6	 r 不/d [vp] c p [vp] 
+6	 不要/d [vp] a u 
+46	 c [vp] 不错/a u [np] 
+12	 r p r 不/d g [np] 
+16	 r 不利/a m [vp] 
+6	 c r [advp] 不/d p r 
+6	 g [np] g [vp] x 不/d 
+6	 f b [vp] 不/d 
+6	 r g a 不/d [advp] [vp] 
+6	 b s 不耐烦/a u [vp] 
+5	 不/d p t u [np] 
+5	 不久/m f u m t 
+34	 r 不错/a y 
+51	 c [advp] 不/d u a 
+67	 [np] [advp] 不知/v [vp] y 
+5	 [np] [advp] [vp] [qp] 不/d [np] 
+5	 p p 不/d p 
+5	 r u 不少/m [np] 
+5	 s u [np] [advp] 不/d [vp] [advp] a 
+5	 [advp] u [vp] [advp] [vp] 不/d [vp] 
+5	 [np] p r 不同/a 
+5	 c t u [np] 不同/a y 
+24	 [np] 不断/d [pp] [vp] 
+10	 不能/v [advp] [vp] 不/d [vp] 
+5	 r t [np] [advp] 不/d a 
+12	 m [vp] 不同/a [np] 
+11	 [vp] p s [advp] 不/d a 
+5	 不要/d p [vp] [advp] a 
+5	 不仅仅/d [vp] p [vp] 
+1393	 t [vp] 不/d [vp] [advp] [vp] y 
+5	 [np] 不会/v [vp] 
+15	 r 不同/a [pp] [np] 
+5	 [vp] 不便/a u [np] 
+15	 [np] f [advp] [vp] 不少/m [np] 
+5	 [np] g 不见/v y 
+10	 u [np] [advp] [vp] 不到/v 
+5	 [np] p [vp] 不少/m [np] 
+5	 [vp] f 不可/v [vp] 
+35	 [np] 不断/d p [vp] 
+5	 不/d [vp] a u r 
+5	 m t 不/d [advp] 
+5	 r u r [advp] [vp] 不/d [vp] 
+10	 c r [advp] 不/d [vp] m t 
+5	 不/d [vp] p m [np] 
+294	 r p 不同/a u [np] f 
+5	 r 不/d [pp] u [np] 
+77	 [np] [advp] [vp] 不得/v [vp] [qp] 
+5	 不得/v [np] c 不/d 
+106	 c [np] 不/d a u 
+5	 不法/b [advp] [vp] 
+5	 u g [advp] 不/d [vp] 
+25	 [vp] l [advp] [vp] 不/d [vp] 
+5	 [np] u 不法/b [np] 
+5	 [advp] [vp] 不忍/v 
+15	 [advp] 不/d [vp] 一成不变/v u 
+10	 [np] 不/d [vp] p s 
+5	 c 不能/v [np] 
+5	 [pp] r 不/d [vp] 
+11	 不声不响/v u [vp] y 
+5	 l c [np] 不同/a 
+5	 [vp] [qp] 不同寻常/v u [np] 
+21	 [vp] 不久/m [advp] [vp] y 
+5	 [pp] [vp] 不久/m 
+5	 不能/v [advp] [vp] m [np] 
+5	 r [advp] [vp] a 不/d a 
+5	 r 不如/v [np] 
+5	 a t 不/d [vp] 
+58	 g g 不可/v [vp] 
+25	 c 不/d [vp] 不/d [np] 
+5	 s [np] c l [advp] 不惜/v [np] 
+5	 [advp] a m t 不满/a m t u [np] 
+826	 c [pp] 不/d [vp] a 
+11	 不论/c [vp] s [np] [advp] [vp] 
+5	 l u 不断/d [vp] 
+5	 [vp] 不断/d [vp] f 
+5	 [pp] [vp] 不可/v [vp] 
+5	 s [np] 不/d [vp] [advp] [vp] 
+5	 [np] t 不详/v 
+5	 s [np] 不/d a u m t 
+5	 [pp] [np] [advp] 不景气/a u [np] f 
+5	 [pp] c [np] 不断/d [vp] 
+11	 s [np] r 不久前/t [vp] 
+39	 不仅/c [vp] l u [np] 
+48	 s [np] [vp] 不一/v 
+5	 不论/c [pp] [advp] [vp] 
+5	 t [advp] 不/d [vp] m t 
+5	 不管/c [vp] t 
+59	 r 不顾一切/l u [vp] 
+60	 [advp] [vp] [advp] 不/d l 
+5	 [qp] [advp] a 不得/v 
+5	 [np] u 不/d [vp] p [vp] 
+17	 s [np] [vp] 不凡/z 
+50	 [vp] 不同/a [np] c 不同/a [np] c [vp] 
+5	 c [advp] 不予/v [vp] 
+5	 不仅/c [vp] m u [np] 
+5	 不论/c t [advp] [vp] t 
+15	 c 不/d p s [vp] 
+5	 不断/d p s [np] [vp] 
+11	 c r 不/d [vp] [advp] u [np] 
+5	 s [np] 不/d [vp] [pp] [np] 
+5	 s [np] c [pp] c [np] [advp] 不/d [vp] 
+17	 c [vp] k 不/d a 
+5	 不孕/v 
+41	 r m [np] [advp] 不会/v [vp] 
+5	 [np] 得不到/v [vp] 不/d [vp] 
+36	 [pp] [np] [vp] 不力/a 
+5	 c [advp] 不可收拾/l 
+39	 [vp] p 不/d u a 
+14	 [np] p t t t [pp] [vp] p [qp] p [vp] c 不/d [vp] s [np] 
+17	 p [pp] 不力/a 
+17	 s [np] [vp] 不俗/a 
+72	 [np] p 不少/m [np] [vp] 
+5	 z [advp] [vp] 不/d [vp] 
+5	 c r 不动声色/v 
+14	 s [np] t 不/d a 
+5	 不顾/v [np] r u [advp] [vp] 
+5	 不少/m [np] f [vp] 
+5	 不久/m [advp] [vp] [advp] [vp] 
+5	 c [advp] [vp] c 不/d [vp] 
+5	 r u 不同/a [np] 
+171	 [np] 不仅/c p s [vp] 
+12	 [advp] 不/d [vp] [pp] [vp] a 
+5	 [vp] a u 不/d [np] 
+10	 [np] 不能/v [advp] [pp] [vp] 
+5	 [advp] [vp] 不同/a u [np] [vp] 
+5	 t u [np] 不错/a 
+46	 s [np] 不/d [pp] [vp] 
+5	 c 不必/d a 
+31	 [advp] [vp] 不/d g [advp] [vp] 
+45	 r 不得/v [vp] c [np] 
+42	 c [np] [advp] a 不/d [vp] 
+366	 s [np] [vp] f 不久/m 
+31	 r m [np] [advp] 不/d a 
+37	 [vp] m t c 不/d [vp] 
+5	 r [advp] p 不断/d [vp] 
+27	 s [vp] s 不可分割/v u [np] 
+5	 [vp] k 不/d [vp] m 
+5	 c [np] c 不/d [advp] [vp] 
+5	 r 不仅/c p m 
+66	 p s [np] c 不/d a 
+5	 c 不/d [vp] [advp] [vp] s 
+23	 c 不/d [vp] p [vp] c [vp] 
+5	 不仅/c [vp] [qp] 
+5	 [np] [vp] [qp] 不可/v [vp] 
+12	 [qp] 不法/b [np] [vp] 
+18	 [advp] [vp] 不/d u r a y 
+11	 [np] s [np] 不/d g s [np] 
+11	 r 不/d [vp] p s [np] [vp] 
+12	 不仅/c [vp] t u [np] 
+74	 c s 不/d [vp] p s [vp] 
+5	 s [np] [vp] [advp] 不/d a 
+5	 [np] u 不/d [vp] m t 
+5	 s [qp] 不/d [vp] 
+89	 p [vp] 不/d [np] f 
+251	 [np] [advp] 不好/a [vp] y 
+26	 [np] 不仅/c [pp] [np] 
+14	 不/d [pp] c [np] [vp] 
+5	 [np] 不/d g [vp] c [np] 
+5	 [np] 不仅/c p r 
+20	 r 不但/c [vp] s [np] 
+5	 c [vp] 不通/a 
+42	 s 不仅/c [vp] s [np] 
+135	 s u [np] [vp] 不/d [vp] s 
+5	 [vp] t [advp] 不/d [vp] y 
+5	 不/d [vp] m [np] f 
+5	 t s [np] 不/d a 
+19	 [advp] 不/d [vp] a r 
+5	 不/d [vp] p s [vp] y 
+5	 f 不了了之/v 
+5	 r 不/d g c 
+5	 [vp] [advp] a 不/d a 
+5	 不仅/c [pp] [np] u [vp] 
+5	 不惜/v [np] [advp] [vp] 
+5	 m 不同/a [np] 
+5	 不光/c [vp] [pp] 
+45	 [vp] 不可/v [vp] g 
+5	 c s [np] c 不/d a 
+10	 不仅/c [vp] s [np] [vp] 
+5	 不能不/d [vp] m [np] 
+10	 c s [np] [advp] 不/d a 
+5	 不人道/a u [np] 
+5	 c 不到/v m t 
+15	 c [np] k [advp] [vp] 不/d [vp] 
+5	 c 不可/v [advp] a 
+5	 [np] 不足/v m u [np] 
+5	 c c 不/d a 
+5	 [pp] u 不齿/v 
+5	 不/d a c 不/d a 
+48	 c r [pp] c 不/d [vp] 
+5	 不同/a u l 
+5	 不仅/c [vp] [advp] a 
+5	 不过/c t f 
+5	 [np] [advp] 不能/v [advp] [vp] 
+45	 r [advp] 不辱使命/v 
+12	 [advp] [vp] 不少/m [np] u u [advp] [np] 
+10	 c [np] f [advp] 不/d [vp] 
+5	 r p r [advp] 不以为然/v 
+5	 [advp] u 不/d [vp] [advp] [vp] 
+5	 c [advp] 不错/a 
+153	 r [advp] 不/d [vp] c [np] [vp] 
+5	 不仅/c [np] [vp] y 
+176	 [np] 不明/v u [np] [vp] t m [vp] b [advp] g [np] [qp] 
+5	 c m [np] 不同/a 
+5	 c c [np] 不/d a 
+5	 [np] [advp] [vp] [qp] 不/d a 
+5	 p m [np] 不断/d [vp] 
+5	 [pp] [np] 不断/d [vp] t 
+13	 r [advp] 不要/d [np] 
+86	 p s [vp] 不/d [np] 
+5	 p t [vp] 不/d a 
+5	 [vp] 不/d u f 
+5	 r p s [advp] [vp] 不/d [vp] 
+5	 [np] [vp] k 不/d a 
+352	 p r [advp] 不/d g [vp] 
+5	 [vp] 不当/a u [np] 
+5	 不/d c s u m 
+5	 c t 不/d [vp] a u l 
+10	 不断/d [vp] m [np] [pp] u [np] 
+5	 b m 不得已/a 
+5	 c r [advp] [vp] 不足/v 
+10	 不知/v r [qp] [advp] 
+5	 s 不无/v [np] 
+5	 [np] 不再/d [np] 
+5	 [pp] [qp] [advp] 不/d l f 
+5	 r m [np] 不断/d [vp] 
+5	 [advp] 不能/v p r 
+5	 [pp] [advp] 不/d [np] 
+5	 p 不/d [vp] k u [np] 
+5	 不少/m [np] [vp] g [vp] 
+10	 c [np] 不/d [vp] m 
+32	 [advp] 不/d [advp] [vp] s [np] 
+14	 [np] c [advp] u 不/d [vp] 
+5	 不/d u r [advp] a 
+45	 c s u [np] 不/d a 
+5	 [np] 不外/v g 
+10	 [np] p r 不/d a 
+88	 [pp] [np] [vp] 不/d [np] 
+10	 [advp] 不怕/v [np] 
+22	 [vp] a c 不/d [vp] a 
+53	 r [qp] 不/d [vp] s [np] [vp] 
+15	 [np] 不久前/t [advp] [vp] 
+12	 s [np] 不/d [np] r 
+5	 s [np] [advp] [vp] t f 不/d [vp] s [vp] 
+5	 t [advp] [vp] [advp] 不/d a 
+5	 [vp] 不慎/d 
+18	 r t u [np] [advp] 不/d a 
+205	 c [pp] 不同/a u [vp] 
+5	 [vp] 不善/a u [np] 
+5	 t r 不/d [advp] [vp] 
+18	 [advp] [vp] 不适/a 
+5	 不干不净/v 
+15	 [np] 不时/d [vp] 
+5	 不久/m [np] [advp] [vp] 
+10	 [np] u 不利/a [np] 
+5	 不/d [vp] m u a 
+5	 [pp] [vp] [advp] 不利/a 
+5	 t [advp] [vp] 不/d u y 
+5	 [np] [advp] [vp] t 不/d a 
+5	 [vp] 不仅/c [vp] f u [np] 
+5	 c [np] 不足/v 
+5	 不断/d u [pp] [np] [vp] 
+14	 g g [advp] [vp] 不/d [vp] 
+10	 r 不仅/c [vp] [pp] [np] 
+5	 [np] [advp] 不/d [pp] [np] 
+5	 r t [vp] [advp] 不错/a 
+5	 不能/v [advp] g 
+5	 不可/v a u 
+5	 p t u [np] [vp] 不同/a 
+10	 [np] [vp] 不朽/z [np] 
+5	 g 不尽/b u [np] 
+5	 [pp] g 不/d [vp] 
+5	 不/d [vp] [pp] [vp] p r 
+5	 c [pp] c 不/d a 
+5	 s r [advp] [vp] 不/d [vp] 
+20	 [np] [advp] [vp] 不/d f [vp] 
+5	 r [advp] [vp] p s [vp] 不解之缘/l 
+5	 r 不/d [vp] t y 
+5	 [np] r 不/d [np] 
+5	 不错/a [np] 
+5	 不过/c r [advp] [vp] [advp] a 
+5	 m [vp] 不妙/a 
+5	 不得/v [vp] [pp] [np] 
+5	 [vp] 不/d [vp] p f 
+5	 [np] 不得/v [vp] c [pp] [np] [vp] p r 
+5	 [np] 不得/v [pp] [advp] [vp] 
+12	 [vp] 不可抗力/l c [vp] [advp] [vp] 
+47	 [np] [advp] [vp] c [vp] 不/d [vp] f 
+5	 不得/v [advp] [vp] c [pp] [np] 
+73	 [np] [vp] f 不得/v [pp] [vp] 
+5	 不得/v [vp] f [np] 
+5	 [vp] [qp] f u [np] 不/d [vp] m [np] 
+5	 [np] [vp] 不再/d [vp] 
+10	 [np] 不足以/v [vp] m [np] u 
+17	 r p s s [vp] 不/d [vp] s [np] 
+5	 [np] 不/d [advp] [vp] g 
+67	 [advp] 不/d [vp] [advp] g [np] 
+5	 c [pp] 不断/d [vp] 
+144	 p [vp] m [np] 不断/d [vp] 
+38	 c [advp] [vp] 不堪/v 
+5	 p [qp] 不懈努力/v 
+5	 不过/c [np] [advp] 不/d a 
+5	 [vp] 不顾/v [np] 
+61	 p t 不/d [vp] m t u [np] f 
+16	 c [vp] 不详/v 
+10	 r [advp] 不过/d [vp] 
+271	 [vp] s u [np] 不/d [vp] 
+5	 不/d [pp] [np] c [vp] 
+5	 s 不顾/v s c s u [advp] [vp] 
+5	 c [vp] 不衰/v 
+5	 [np] 不/d [pp] g 
+53	 [vp] s [np] [vp] 不已/v 
+5	 c 不断/d a 
+94	 c r u 不/d [vp] 
+5	 [pp] [np] u 不懈努力/v 
+5	 [vp] p 不/d [vp] m 
+10	 m 不/d a [vp] 
+17	 r 不仅/c l 
+5	 a [pp] 不/d a 
+5	 c 不/d [vp] p [vp] [pp] 
+5	 不知/v g 不/d [vp] 
+5	 r t 不/d [pp] 
+5	 [np] m 不/d a 
+5	 不必/d [vp] [advp] [np] 
+10	 r [qp] c 不/d a 
+5	 [vp] 不景气/a u [np] 
+5	 [np] t 不/d g s [np] 
+5	 不过/c r t [vp] 
+5	 a 不足/a m 
+5	 t [np] 不/d [advp] [vp] 
+5	 c [vp] 不/d [vp] [advp] [np] 
+5	 r [advp] 不/d p r [pp] 
+5	 c 不/d [vp] [advp] r 
+5	 [advp] [vp] 不幸/n f u m g 
+5	 s a 不堪/v 
+5	 c 不/d [vp] t [vp] 
+5	 [vp] 不得/v [vp] m t 
+5	 不足/a u [np] [advp] [vp] 
+5	 不论/c r p r 
+5	 [advp] 不/d [vp] p r m 
+5	 p f [np] 不同/a 
+5	 [vp] 不省人事/l 
+5	 c [vp] 不幸/n 
+5	 [advp] 不/d c [np] 
+5	 a 不断/d 
+94	 [advp] [vp] 不/d [vp] m t u [np] 
+5	 不久前/t [vp] s 
+10	 [advp] 不/d [advp] [np] 
+5	 [advp] 不/d [vp] [pp] c [np] 
+10	 [np] [advp] [qp] [advp] 不/d a 
+18	 [advp] 不必/d [advp] a 
+5	 p [vp] 不可/v [vp] 
+43	 [vp] 不/d p s [np] [vp] t [vp] 
+5	 [qp] [vp] 不久/m 
+5	 不/d a u a 
+5	 p [vp] 不良/a [np] 
+5	 不利/a u [np] [vp] 
+5	 不/d p m [vp] m g m [np] [vp] m g 
+5	 [vp] 不久/d [advp] [vp] 
+5	 [np] c 不/d [vp] s 
+5	 [vp] f r 不/d [vp] 
+16	 [vp] a 不可/v [vp] 
+19	 [vp] f 不/d [vp] m t 
+94	 c [np] 不尽/d a 
+5	 不过/c r [qp] 
+10	 [advp] 不/d [vp] [pp] [vp] g 
+5	 r [pp] [np] 不/d a 
+5	 不/d [pp] [np] u 
+5	 p 不可抗力/l c [np] 不/d [vp] 
+37	 [np] 不得/v p [vp] 
+5	 不/d [pp] [vp] c [vp] 
+16	 [np] [pp] [np] 不/d [np] g 
+5	 [np] [pp] [np] [vp] 不/d [vp] 
+10	 不/d [vp] [advp] 不/d [vp] [pp] [np] [advp] [vp] 
+79	 a r 不得/v [vp] m [np] 
+44	 p [vp] c [np] [advp] 不/d a u 
+10	 不/d a [vp] [pp] [vp] 
+5	 c 不/d u [advp] [vp] 
+5	 r [advp] 不足/v 
+5	 [np] [advp] 不知去向/v 
+5	 不过/c t 不/d [vp] 
+5	 c 不一会/l 
+15	 [advp] [vp] 不孝/a 
+5	 [np] [advp] 不/d [vp] a [vp] 
+5	 [advp] 不/d [vp] m a 
+5	 r [advp] 不/d p r [advp] [vp] 
+5	 r g [advp] 不/d a 
+5	 不但/c [np] r 
+33	 [advp] 不如/v [vp] y 
+5	 u [np] [advp] 不/d [vp] a 
+5	 r 不/d [vp] p t [vp] 
+11	 c 不/d [vp] p r f 
+22	 [vp] 不无/v [np] u 
+5	 不得已/a [advp] 
+5	 不/d g c a c a 
+5	 不/d g [np] r 
+5	 不/d [vp] g g g [vp] 
+13	 [vp] g [np] [vp] 不/d [vp] 
+10	 [vp] 不/d a k 
+5	 p g 不/d g 
+10	 [vp] b 不/d g 
+5	 [np] 不容/v [np] 
+5	 m g [vp] 不/d [vp] 
+5	 r 不得不/d [vp] c [vp] 
+5	 [np] [vp] g 不/d a 
+5	 不/d p [qp] f 
+5	 不要/d a u 
+5	 g 不/d p r 
+5	 p g [advp] 不/d [vp] 
+18	 r [advp] 不再/d [advp] [vp] y 
+5	 m a 不/d [vp] 
+5	 不易/a g [vp] 
+5	 [np] g c 不/d [vp] 
+5	 [pp] 不同/a f 
+5	 不要/d [vp] c [vp] 
+5	 a c 不/d a u 
+5	 c [pp] u 不/d [vp] 
+10	 c [pp] [advp] 不/d [vp] 
+11	 [advp] 不再/d [vp] a 
+96	 r [advp] 不足为奇/v y 
+11	 r [qp] 不/d [vp] [pp] [vp] [pp] 
+5	 [vp] [advp] u 不/d [vp] 
+5	 [vp] 不道德/a u 
+106	 [advp] [vp] 不好/a u [np] 
+5	 不得/v [pp] [pp] [np] 
+5	 不/d [vp] b u [np] [vp] 
+5	 [qp] 不/d [pp] u [np] 
+5	 [np] [qp] 不对/a [np] 
+5	 r m t [np] 不好/a 
+5	 不/d a m [np] 
+5	 [np] 不为所动/v 
+5	 f u 不/d [np] 
+5	 c 不/d [vp] z u [vp] 
+5	 [pp] [np] 不/d m 
+5	 [advp] 不择手段/l 
+5	 [vp] p r 不利/a u [np] 
+5	 [pp] [np] 不/d [vp] g 
+10	 [advp] [vp] [advp] a 不/d [vp] 
+5	 c 不/d [vp] [pp] s 
+12	 [advp] 不/d u 不/d [advp] [vp] 
+28	 r [pp] u [np] [advp] 不/d a 
+5	 [advp] a [advp] 不好/a 
+10	 [vp] [qp] [advp] 不好/a u [np] 
+11	 a g 不/d [advp] p 
+5	 c a g 不/d [advp] 
+19	 [pp] 不景气/a u [np] 
+21	 r p r [advp] 不利/a 
+5	 [vp] [advp] 不/d r a 
+35	 p [vp] 不良/a u [np] 
+5	 s 不必/d [vp] 
+5	 [pp] u 不及/v 
+11	 [np] [advp] [vp] [advp] 不/d a u 
+5	 [np] c 不/d [vp] l 
+35	 [np] 不/d a [advp] [vp] y 
+62	 c [np] 不/d [vp] a u 
+5	 [np] b [vp] 不/d [vp] 
+5	 [vp] [advp] [vp] 不好/a 
+22	 r t [vp] 不/d y 
+53	 [advp] [vp] 不好/a [np] 
+5	 [advp] [vp] [pp] [advp] [vp] 不/d [advp] [vp] l c l 
+5	 [np] u a 不好/a 
+25	 [advp] [vp] 不断/d u [np] k u [vp] 
+5	 [np] [qp] [advp] 不能/v [vp] 
+5	 c 不畏/v [np] 
+5	 不可避免/v u [advp] [vp] 
+5	 [np] [advp] 不/d [vp] [advp] [np] 
+5	 不/d c [vp] y 
+5	 c u [np] [advp] 不/d [vp] 
+11	 [advp] 不见得/d a 
+16	 m [np] 不/d [advp] [vp] 
+5	 t [vp] 不得/v 
+5	 s [np] [vp] 不/d [vp] a 
+5	 [advp] [vp] 不/d a 不/d a 
+16	 [np] 不/d [vp] c a 
+5	 不能不/d [vp] [qp] [vp] 
+50	 p s 不/d [vp] [advp] [vp] 
+5	 r t [np] c 不/d a 
+5	 不/d [vp] l c l u [np] 
+49	 [advp] 不失为/v [np] 
+5	 不/d [np] u g 
+20	 [vp] p 不/d p y 
+41	 [advp] 不同/a p r 
+5	 m t [np] [advp] [vp] 不/d [vp] 
+5	 u t [advp] 不/d [vp] 
+5	 a [qp] 不/d a 
+5	 [np] u r 不/d [vp] 
+5	 [advp] 不/d [advp] [vp] l 
+5	 [np] 不/d g u g 
+12	 c 不/d [advp] [vp] a u 
+5	 不/d p a [vp] 
+5	 u [np] 不再/d [vp] 
+5	 g r 不/d g 
+5	 [vp] f 不/d u [np] 
+5	 不论是/c [np] u 
+17	 c [advp] [vp] a 不/d [vp] 
+272	 c [np] f [vp] 不/d [vp] 
+10	 [vp] 不/d [vp] g u [np] 
+5	 r 不乏/v a u g 
+12	 [np] [advp] 不/d [np] y 
+5	 [vp] 不/d [vp] [advp] [vp] c [vp] 
+5	 不好/a g 
+29	 [advp] [vp] 不/d [advp] u [np] 
+5	 不知/v r p [vp] [qp] r 
+5	 [vp] 不/d a c [np] 不/d a 
+5	 不端/a 
+5	 不但/c s [vp] 
+5	 [vp] c 不/d [np] 
+5	 不顾/v [np] u 
+5	 m [vp] 不/d [pp] 
+13	 [np] [vp] a c 不/d a 
+10	 [vp] 不知/v [np] 
+5	 不得/v [np] c [vp] 
+5	 不管/c [np] f [np] f 
+23	 [advp] [vp] 不/d u m [np] 
+5	 t [vp] 不/d u g 
+5	 [np] [vp] [pp] 不/d [vp] 
+5	 [pp] 不明/v 
+5	 不在乎/v u [vp] 
+10	 [vp] [advp] [vp] 不/d u r 
+787	 r c [np] 不好/a 
+5	 不许/d [np] [advp] [vp] 
+5	 不屑/v p 
+5	 不周/a g 
+85	 [pp] [np] 不足/a u [np] f 
+5	 a u c 不/d [np] 
+16	 [vp] g 不/d [advp] [vp] 
+5	 z 不断/d 
+5	 不须/v [np] 
+5	 不外/v [qp] 
+5	 g g 不/d p 
+5	 s 不足/v 
+5	 [np] g 不/d p 
+5	 g 不/d a g 
+5	 g g g 不/d [vp] 
+5	 c a 不/d g 
+5	 [vp] 不利/a k 
+5	 o 不/d g 
+28	 [np] 不胜/d a 
+5	 [vp] 不知/v g 
+5	 [np] g 不/d [advp] 
+5	 a 不定/d 
+5	 [vp] 不和/a 
+16	 [np] [vp] c [np] 不/d a 
+12	 [np] g [vp] c 不/d [vp] 
+5	 [np] 不知/v r 
+155	 [np] [vp] g 不/d g 
+5	 [advp] 不/d [vp] [advp] a [vp] 
+5	 [advp] g u 不/d [vp] 
+5	 不/d [advp] [vp] g g 
+5	 r [advp] 不/d [vp] t u r 
+5	 [vp] c 不/d [vp] 不/d a 
+5	 [np] 不/d r g 
+5	 r g 不可/v [vp] 
+5	 [advp] [vp] 不力/a 
+108	 c 不能/v [vp] a 
+5	 c [vp] m t 不/d [vp] 
+5	 [pp] [np] u [advp] [vp] c [np] u 不断/d [vp] 
+5	 不论/c b 
+10	 [np] [advp] 不翼而飞/v 
+5	 [pp] 不断/d [vp] t 
+24	 [advp] [vp] 不惑之年/l u r 
+5	 不要/d [vp] a a 
+5	 [np] [advp] [vp] [advp] 不足/v 
+5	 c [vp] 不得/v 
+5	 [vp] 不言自明/v u 
+5	 g 不/d [vp] b 
+5	 c 不仅/c p s 
+5	 [np] 不足/a [np] [vp] 
+5	 不能/v [advp] [vp] a 
+5	 m k 不/d [vp] 
+5	 c 不容/v a 
+13	 c t [np] 不/d [vp] [advp] a 
+5	 u [np] [advp] 不能/v [vp] 
+5	 [pp] 不甘/v 
+17	 [np] a u 不利/a [np] f 
+5	 r [advp] [vp] 不足/a 
+185	 r [advp] [vp] [qp] [advp] 不错/a u [np] 
+5	 [pp] 不/d [vp] 不/d [vp] 
+22	 r 不管/c [advp] [vp] 
+5	 [vp] 不/d u [np] g 
+5	 b u [np] 不/d [advp] [vp] 
+24	 [advp] 不/d [vp] l [np] 
+14	 m [advp] [vp] 不/d [vp] y 
+12	 [advp] 不甘/v [vp] 
+5	 a u [advp] 不/d g 
+5	 a 不足/a t [np] 
+5	 [vp] [advp] 不少/m 
+5	 只不过/d [np] 不同/a y 
+15	 [advp] [vp] a u 不/d a 
+10	 [advp] u 不惑之年/l u r 
+5	 [pp] [np] f [vp] 不/d [vp] 
+14	 r [advp] [qp] 不/d a 
+5	 [np] [advp] b [vp] 不可/v 
+5	 不/d g [vp] y 
+29	 [np] [vp] m 不/d a 
+5	 [np] 不管/c r 
+5	 u [np] [advp] 不要/d 
+5	 不论/c [vp] [advp] [vp] 
+5	 不要/d [vp] 不/d [np] 
+5	 [np] [vp] 不/d [vp] 不/d [vp] 
+5	 c p 不/d [advp] [vp] 
+10	 不啻/d [vp] l 
+5	 [np] g 不断/d 
+5	 不问/v g [vp] 
+5	 c f 不/d [vp] 
+71	 r [advp] 不/d [vp] z u [np] 
+5	 [vp] 不/d [advp] [vp] a 
+160	 [pp] [np] f [advp] [vp] 不利/a [np] 
+5	 [np] 不宜/v m 
+5	 m [np] 不/d [np] 
+5	 [vp] 不妥/a u [np] 
+5	 r 不择手段/l 
+13	 [vp] 不同/a [np] u 不同/a [np] 
+38	 r g g 不/d a 
+5	 g u [np] 不/d a 
+5	 不管/c [vp] f 
+5	 t [pp] 不/d [vp] 
+5	 t m [np] 不/d [vp] 
+10	 [vp] g [np] [advp] 不/d a 
+5	 [vp] 不/d a [advp] [vp] 
+5	 [advp] 不拘一格/v 
+5	 p [vp] 不/d [vp] m t u [np] f 
+5	 不过/c [advp] 不/d [vp] 
+101	 [vp] c [vp] 不/d [np] 
+5	 不/d [vp] [advp] [vp] p s 
+5	 [advp] a [advp] 不/d [vp] a 
+73	 不论/c [np] [vp] m a 
+5	 [np] 不/d [vp] g y 
+302	 c [np] [advp] [vp] 不断/d [vp] 
+10	 [vp] 不可避免/v u [np] 
+26	 [pp] c [np] u 不同/a [np] 
+5	 [np] 不可限量/v 
+5	 p a 不/d [vp] 
+13	 [advp] 不/d [vp] [pp] [np] u 
+5	 u [np] [advp] 不够/a 
+5	 不仅仅/d [vp] [pp] [np] 
+7940	 c r [advp] [vp] 不/d a y 
+10	 [advp] [vp] a u 不正之风/l 
+5	 不/d a [vp] c [vp] 
+5	 不准/v [pp] [np] [vp] 
+16	 [advp] p r p s u [advp] 不/d [np] [vp] m 
+5	 不管/c [vp] p r 
+5	 r t 不能自己/v [vp] y 
+5	 不仅/c [advp] [vp] l 
+5	 [vp] g 不好/a 
+5	 不/d [np] [pp] [vp] 
+30	 p 不同/a [np] [vp] 不同/a u [np] 
+5	 t m [np] [advp] 不/d [vp] 
+21	 r 不仅/c [vp] p [vp] 
+5	 r 不足为怪/v 
+230	 [advp] [vp] 不/d [vp] [pp] [vp] 
+27	 c [vp] l 不/d [vp] 
+5	 不论/c t t 
+5	 r 不乏/v [vp] 
+11	 不管/c r g 不/d [vp] 
+5	 r 不甘/v [vp] 
+5	 不断/d [vp] y 
+27	 [advp] p g [np] 不及/v [vp] g 
+5	 [np] 不/d [vp] 不行/a 
+10	 [advp] 不/d [vp] [advp] [pp] [vp] 
+5	 t 不但/c [vp] 
+5	 不堪重负/v u [np] 
+5	 l 不够/a 
+5	 c [vp] 不良/a [np] 
+44	 [advp] [vp] 不寒而栗/v 
+5	 [vp] 不拘一格/v 
+10	 c [vp] [advp] 不够/a 
+5	 r 不同/a u [np] [vp] 
+5	 r c 不/d [pp] 
+5	 r t 不/d [vp] [advp] a y 
+5	 t 不仅/c [vp] 
+5	 不/d [vp] g [advp] [vp] 
+5	 [advp] 不/d [vp] g g [vp] 
+5	 [qp] 不足/a 
+5	 [vp] a [vp] a 不/d a 
+5	 [advp] 不/d [vp] l [vp] 
+5	 不得/v [vp] m t [np] u m 
+5	 r p r [qp] 不/d [vp] 
+13	 不足/v [qp] u [np] f 
+5	 [np] [pp] c 不/d a 
+44	 不遗余力/v u [vp] 
+5	 p m [np] [vp] a [vp] 不/d [advp] 
+5	 不禁/d u [vp] 
+5	 [np] [advp] [vp] 不到/v [qp] u [np] 
+5	 c [advp] [vp] s [np] c 不/d [advp] a 
+17	 [vp] 不/d a r [advp] [vp] 
+10	 不仅仅/d [vp] s [np] 
+40	 c r 不/d [vp] s [vp] 
+5	 t m [np] 不/d a 
+184	 r 不惜/v [np] [vp] 
+5	 不/d [vp] p r [qp] 
+57	 c r 不/d [vp] s u [np] 
+5	 不要/d z 
+5	 不/d g [np] u 
+5	 c [advp] [vp] 不已/v 
+5	 l 不/d [advp] [vp] 
+5	 [np] c 不/d [vp] [pp] 
+5	 不/d [vp] m u [np] c [vp] 
+5	 不能/v [vp] 不/d [vp] 
+42	 [vp] m c [np] 不/d [vp] c [np] [advp] [vp] [advp] [vp] 
+5	 [advp] 不得/v [advp] [vp] 
+5	 g [advp] 不/d g 
+5	 [np] u [vp] 不易/a 
+5	 t 不/d [pp] [vp] 
+5	 [advp] 不/d u r t 
+11	 t t t 不久/m 
+5	 s l [advp] [vp] s 不可分割/v u m m 
+5	 不/d p [vp] f [vp] 
+5	 [np] k r [advp] 不/d [vp] 
+10	 [advp] u [np] [advp] 不/d [vp] y 
+5	 p f m [vp] 不同/a u [vp] 
+25	 u 不毛之地/l 
+5	 [vp] 不/d [vp] 撒手不管/v 
+5	 [advp] 不能/v [vp] [advp] [vp] 
+5	 [vp] 不能/v [advp] a 
+5	 s u [np] [advp] 不错/a 
+5	 m [np] 不以为然/v 
+5	 [np] f 不予/v [vp] 
+5	 [advp] [vp] 不严/a 
+31	 t 不/d [np] u p [vp] 
+5	 s [vp] s 不/d a 
+5	 [np] 不再/d z 
+5	 [vp] c 不断/d [vp] 
+5	 [np] [advp] 不准/v [vp] 
+12	 [vp] 不/d [vp] [advp] a [advp] a 
+15758	 c r c 不/d [vp] p r 
+14	 [advp] u [np] [advp] g 不/d [vp] 
+21	 r 不仅/c [pp] u [np] f [vp] 
+5	 z [np] [vp] 不/d [vp] 
+5	 [np] [advp] a u 不得了/l 
+5	 [np] u 不断/d [vp] c [vp] 
+29	 r 不仅/c [vp] p s 
+5	 s [np] [advp] 不/d [vp] a 
+520	 r 不/d [vp] p r [advp] [vp] y 
+5	 [advp] [vp] g 不/d g 
+12	 r [advp] [vp] 不/d r 
+18	 r [advp] [np] [advp] 不/d a 
+5	 s c [advp] 不/d [vp] 
+5	 [vp] 不如/v u [np] 
+5	 s 不/d [vp] [qp] 
+5	 不过/c [np] [advp] [vp] a u 
+5	 不/d [vp] s [vp] s 
+45	 r [advp] [vp] 不/d u g 
+5	 c 不惜/v [np] 
+45	 [np] 不/d p [vp] [pp] 
+46	 [np] [vp] 不/d [vp] c 不/d [vp] 
+5	 不/d a [vp] f 
+5	 [np] 不断/d [pp] [np] 
+12	 r m t [advp] 不/d a 
+5	 t 不知/v r u 
+20	 t 不/d a [vp] c [np] 
+5	 [vp] l 不仅/c [vp] [pp] u [np] f [vp] [pp] 
+5	 [vp] p [vp] [advp] 不/d [vp] 
+15	 [vp] k 不乏其人/v 
+5	 c [np] 不仅/c [np] a 
+5	 m [vp] 不力/a 
+79	 [np] 不大/d a [vp] 
+5	 [pp] u 不断/d [vp] c [vp] 
+5	 不禁/d [np] [advp] [vp] 
+5	 不要/d [vp] a y 
+10	 [advp] 不/d a y y 
+57	 [np] [advp] 不/d a [vp] y 
+5	 [advp] g c 不/d [vp] 
+5	 [vp] [pp] u 不断/d [vp] 
+5	 [np] 不/d [np] 不/d a 
+5	 不可一日无此君/v 
+5	 [qp] 不法分子/n p [vp] 
+5	 c [vp] [advp] 不/d [np] 
+5	 不/d [vp] 不/d u [np] 
+5	 [advp] r 不/d [np] 
+20	 c [pp] 不利/a 
+25	 c [np] 不能/v [advp] a 
+11	 [advp] 不得/v [vp] [advp] [vp] 
+5	 r 不在乎/v [vp] 
+5	 [vp] 不胜/d [vp] 
+5	 [vp] [advp] [vp] 不/d g 
+5	 c 不/d [vp] [qp] u [np] 
+5	 [vp] p f [advp] 不/d a 
+17	 c r [advp] 不/d g [vp] 
+5	 r 不/d [vp] s u r 
+5	 [np] [advp] u 不/d a 
+19	 c 不/d g g [vp] 
+5	 m r [advp] 不/d [vp] 
+5	 u [qp] 不同/a [np] 
+5	 a u 不/d [vp] [qp] 
+5	 不顾/v l 
+23	 p [vp] 不久/m u 
+5	 a a [vp] [advp] 不/d a 
+5	 p b [vp] 不可/v 
+5	 [np] [vp] 不公/a 
+5	 不/d [pp] l 
+5	 不禁/d [np] f [vp] 
+5	 [advp] 不厌其烦/l 
+63	 c [np] 不够/a [np] 
+5	 不/d a [vp] l 
+5	 [vp] 不利/a p a 
+99	 [advp] [np] 不已/v 
+5	 c [vp] 不能/v [vp] 
+5	 s [advp] 不/d [vp] y 
+5	 [np] [vp] 不准/v 
+5	 r [qp] 不容置疑/v 
+5	 z [np] [advp] 不/d [vp] 
+5	 不要/d [np] [advp] a 
+5	 不/d [vp] m [vp] m [vp] 
+5	 c 不/d p s [np] 
+5	 p r m [np] 不/d [vp] 
+44	 r [advp] [vp] 不/d u r m t 
+5	 c [advp] 不/d [vp] f u [np] 
+5	 [advp] g r 不/d [vp] 
+5	 [np] [advp] 不减当年/v 
+5	 不管/c r m 
+10	 [np] 不理/v r 
+5	 r [advp] 不假思索/l 
+5	 不/d [vp] s u m 
+60	 不仅/c s [vp] g [np] 
+5	 p 不足/v m t u [np] f 
+5	 r 不能不/d [vp] [qp] [advp] [np] 
+26	 [vp] 不能/v [advp] [vp] [qp] 
+11	 r 不/d [vp] c [advp] [vp] 
+5	 s [advp] 不/d [advp] a 
+5	 不失时机/l [vp] 
+5	 不论/c [vp] s [advp] [vp] s 
+5	 [advp] [pp] 不同/a 
+5	 不久/m f u [qp] t 
+26	 [advp] 不起眼/a u [np] 
+5	 r 不善言辞/v 
+26	 r 不必/d l 
+5	 [advp] [vp] 不尽/d 
+5	 [advp] r 不/d g 
+5	 m t 不/d [np] 
+5	 t 不见/v [vp] t 
+209	 [np] [vp] 不少/m [np] [vp] 
+5	 [np] [advp] 不省人事/l 
+5	 不料/d [np] 不/d [vp] 
+29	 不管/c [vp] [pp] [vp] 
+5	 [vp] m [np] [vp] 不已/v 
+10	 [np] s [vp] 不/d [vp] 
+5	 c g g 不/d a 
+5	 [np] 不宜/v [advp] [vp] 
+5	 r g 不/d [pp] 
+5	 r 不/d [vp] [pp] [vp] a 
+147	 r [advp] [vp] [advp] 不够/a u 
+5	 c r 不/d [vp] g [np] 
+5	 s [advp] 不/d r 
+5	 c [np] 不良/a 
+5	 u [np] 不/d a y 
+5	 [advp] [pp] [np] 不/d [vp] 
+5	 [vp] 不能/v p [vp] 
+20	 r 不/d p f [vp] y 
+5	 不过/c [advp] [np] 
+5	 [np] 不卑不亢/v 
+5	 不/d [vp] s [np] r 
+5	 [vp] t r [advp] 不/d [vp] 
+5	 [pp] [np] 不够/a 
+5	 [np] [vp] 不/d a [vp] 
+549	 r s [advp] 不/d [vp] a 
+5	 [vp] [advp] 不/d a u m t 
+63	 u [np] 不绝于耳/v 
+5	 c [np] 不得不/d [vp] 
+5	 [vp] [advp] 不/d a a 
+5	 不断/d [vp] f u [np] 
+5	 t r [advp] [vp] 不/d u r 
+5	 [np] k [np] 不/d a 
+5	 p z 不/d [vp] m t u [np] f 
+5	 l u [np] 不断/d [vp] 
+12	 [advp] [vp] 不安/a u [vp] 
+5	 不/d [vp] [advp] [pp] [np] 
+5	 r u a 不/d [vp] 
+5	 c 不/d [vp] [advp] a [advp] a 
+30	 r p r c 不/d [vp] 
+22	 [advp] [vp] 不/d u [np] u 
+11	 [advp] 不/d [vp] l y 
+5	 b u 不/d a 
+5	 s [vp] 不可分割/v u m m 
+15	 [advp] 不/d [vp] a u a 
+5	 [vp] l 不断/d [vp] 
+5	 [pp] [np] [advp] 不足/v u [np] f 
+11	 r [advp] 不无/v [advp] [vp] 
+5	 s 不断/d u [vp] 
+5	 不断/d [vp] [advp] [np] 
+5	 [np] u 不/d a [vp] 
+24	 [np] [vp] 不治之症/l 
+5	 r [advp] [vp] 不惑之年/l 
+5	 不仅/c [np] f 不/d [vp] 
+5	 [advp] [vp] 不/d [vp] m [vp] 
+13	 [np] 不但/c [advp] a 
+5	 r c [vp] 不少/m [np] 
+5	 s m [np] u 不/d [advp] [vp] 
+5	 t [advp] a 不/d [vp] 
+49	 [np] k [advp] [vp] p 不同/a u [np] 
+5	 [advp] 不/d [advp] [vp] f u [np] 
+10	 c 不/d [vp] [advp] [pp] [vp] 
+19	 r [advp] 不/d [vp] [qp] a 
+5	 [vp] [advp] 不如/v [vp] a 
+5	 [vp] f u 不/d a 
+5	 不/d [vp] 不/d [vp] g 
+144	 c r [advp] 不曾/d [vp] 
+5	 不容/v r 
+5	 [np] [vp] 不/d [vp] m [np] 
+5	 不/d [vp] [pp] [vp] [advp] a 
+17	 r 不/d [vp] p g [vp] 
+5	 c 不论/c [vp] 
+11	 [advp] [vp] 不足/v [vp] 
+49	 [advp] [pp] [np] f 不断/d [vp] 
+162	 [vp] [qp] 不同/a [np] c 不/d [pp] [vp] 
+11	 c f [np] 不/d [vp] c [advp] a 
+46	 [pp] [np] [vp] 不/d u u 
+5	 [vp] a [vp] 不同/a [np] 
+29	 b m [np] 不/d [vp] c [vp] 
+504	 p r [advp] 不/d [np] [vp] a u [advp] [vp] y 
+135	 r [advp] 不/d [vp] f [vp] c [np] 
+5	 c [np] 不/d [vp] [pp] [np] u [advp] [vp] 
+44	 [pp] [np] [advp] 不可/v [vp] 
+5	 f 不许/d [vp] 
+5	 [vp] 不伦不类/l 
+5	 [np] r 不/d [vp] g 
+31	 r f 不/d [vp] y 
+5	 不/d [pp] u r 
+5	 [advp] [vp] 不当/a 
+5	 [vp] 不/d [advp] [np] 
+5	 m t f [np] 不/d [vp] 
+36	 r [advp] p r 不/d a y 
+5	 r 不胜/d a 
+5	 s [np] r [advp] 不/d [vp] 
+5	 不/d a 不/d [advp] 
+5	 c [vp] 不/d a [vp] 
+10	 [np] 不得/v [pp] c [np] [vp] c [vp] 
+14	 r f [vp] 不/d [vp] y 
+90	 r [advp] [vp] 不/d [vp] c [np] [pp] [vp] 
+5	 u [np] c 不/d [advp] a 
+38	 m [np] p r 不/d [vp] 
+5	 不/d u [vp] 不/d a 
+5	 [np] [vp] 不可/v y 
+5	 [advp] g 不足/v 
+5	 r 不甘落后/v 
+5	 t [np] [advp] 不/d [advp] a 
+5	 [vp] 不过/c [qp] 
+5	 g 不必/d g [pp] 
+5	 不觉/d [np] [vp] 
+5	 [np] [vp] s 不久/m 
+5	 [pp] 不/d a u 
+5	 s u [np] u 不/d [advp] [vp] 
+5	 不/d a [advp] 不/d [vp] 
+10	 [vp] [advp] [vp] 不少/m 
+5	 [np] 不/d a u r 
+80	 c [vp] 不久/m f 
+5	 f 不/d [vp] m t [np] 
+5	 [advp] a a 不/d [vp] 
+5	 [advp] 不言而喻/v 
+12	 不仅/c [advp] [vp] s [np] 
+81	 r 不仅仅/d [vp] [pp] 
+5	 r m [np] 不/d [vp] a 
+10	 [np] [advp] [vp] 不已/v 
+5	 r m [vp] m [vp] [pp] [np] u a [vp] 不言而喻/v u 
+5	 p r f 不远处/s 
+5	 [np] [advp] 不要/d [np] 
+18	 [np] [advp] 不得而知/v y 
+5	 p r [advp] 不/d [np] f 
+5	 [np] 不得/v [pp] [vp] 
+5	 [np] [advp] 不/d [advp] [vp] a 
+35	 r [pp] [vp] 不/d [vp] y 
+5	 [advp] [vp] p s 不/d [vp] 
+33	 [advp] 不能自拔/v 
+271	 [vp] t 不行/a y 
+5	 p 不久/t [pp] 
+19	 r 不露声色/v 
+5	 r 不得不/d [vp] [pp] 
+107	 [np] [advp] [vp] 不错/a y 
+47	 不同/a u [np] [advp] [vp] 不同/a u [np] 
+5	 不要/d [advp] u [vp] 
+5	 不知/v [vp] t 
+5	 不要/d [vp] [advp] [np] 
+5	 r 不依/v 
+5	 p t [np] [advp] 不/d a 
+5	 c 不/d [vp] a r 
+5	 [advp] [vp] [pp] 不断/d [vp] 
+5	 不少/m [np] [vp] l 
+10	 r l [advp] [vp] 不/d [vp] y 
+6117	 t [np] [vp] 不/d [vp] y 
+17	 c r [advp] 不顾/v 
+5	 [np] 不管/c [vp] 
+49	 r p r [advp] [vp] 不/d [vp] 
+26	 [vp] 不/d u r u a 
+5	 r a [qp] [advp] 不/d [vp] 
+11	 [vp] 不/d [vp] [advp] p [vp] 
+5	 r [advp] [vp] 不/d u m 
+5	 g 不解/v [vp] 
+5	 r p f [vp] 不/d [vp] 
+5	 [vp] 不/d [vp] [advp] p r y 
+13	 c [vp] [advp] [vp] 不/d [np] 
+5	 [np] 不/d [advp] [vp] a 
+5	 c [advp] r 不/d [vp] 
+22	 c [np] p r [advp] 不/d [vp] 
+61	 c r [pp] 不/d [vp] 
+5	 c [advp] [vp] 不久/m 
+5	 [vp] [advp] 不断/d u [vp] 
+5	 [advp] 不好意思/a [np] [vp] 
+5	 不知/v p r m t f 
+5	 r a c 不/d [vp] 
+5	 t [vp] [qp] 不/d [np] 
+5	 m u [np] 不/d a 
+62	 [advp] 不/d u m t u [np] 
+10	 c 不/d u m t [np] 
+5	 [vp] g [np] 不/d g 
+5	 c [vp] p 不同/a [np] 
+13	 r [advp] [np] 不好/a 
+5	 r 不/d [vp] z u [np] 
+5	 c l [vp] 不/d [vp] 
+29	 s [np] f 不久/m 
+21	 [advp] 不辞而别/v 
+19	 [pp] [np] 不断/d [vp] p [vp] 
+5	 r 不但/c [pp] 
+5	 不准/v [pp] [np] f [vp] 
+5	 [np] c 不/d [vp] m 
+5	 不/d [vp] p [vp] p s 
+5	 [vp] 不同/a [np] k 
+5	 s 不/d [vp] t 
+5	 [advp] u 不/d u a 
+5	 [advp] 不会/v [vp] y 
+5	 [vp] l p 不顾/v 
+5	 r c 不能/v [vp] 
+5	 不禁/d s [vp] 
+5	 [np] 不可/v [advp] [vp] 
+5	 [vp] 不满/a [np] 
+5	 r 不/d [vp] a u a 
+5	 p s u [np] [vp] 不/d [vp] 
+5	 b u [np] [vp] 不/d [vp] 
+5	 [vp] p t 不同/a 
+34	 p 不/d [advp] [vp] t [np] 
+10	 [np] 不可/v a 
+5	 t p 不少/m [np] 
+5	 不/d a 不行/a 
+5	 不亢不卑/v 
+5	 不必/d [vp] [qp] 
+5	 [advp] 不/d [vp] 了不起/a u [np] 
+14	 [advp] 不/d [vp] [pp] a 
+5	 [vp] [qp] 不/d [advp] [vp] 
+174	 r [advp] 不敢当/v 
+5	 [advp] [vp] [advp] 不同/a 
+5	 不/d [vp] g r g 
+5	 [advp] [vp] [qp] 不利/a [np] 
+5	 [advp] 不/d [vp] a [qp] 
+5	 s [np] 不可/v [vp] 
+5	 不仅/c [np] g [np] 
+5	 t 不再/d a 
+219	 r 不/d a [advp] [vp] y 
+5	 不忍/v g g 
+5	 [pp] 不行/a 
+11	 不可动摇/v u 
+28	 r 不/d [pp] [pp] 
+5	 p s [np] [advp] 不/d [vp] 
+5	 [np] 不必/d a 
+5	 不仅/c [vp] b b m [np] 
+5	 [np] 不/d [vp] t g 
+5	 r [advp] p 不断/d u [vp] 
+321	 不要/d [np] [vp] a 
+5	 t [advp] 不能/v [vp] 
+10	 c [advp] [vp] 不容忽视/v u [np] 
+35	 b b m [np] c [vp] 不/d a 
+5	 [np] [advp] [np] 不/d a 
+5	 r [advp] 不见/v [np] 
+5	 [np] [vp] 不能/v l 
+5	 [np] [vp] 不少/m [vp] 
+73	 r 不但/c a a 
+5	 c [pp] 不/d g 
+5	 [qp] u 不/d a 
+14	 r t 不知所措/v 
+11	 r [advp] [vp] 不得已/a 
+5	 r [advp] [vp] a 不/d [vp] 
+5	 r 不/d [advp] [vp] f u [np] 
+5	 r s [np] c 不/d [vp] 
+14	 不/d [vp] 不/d [vp] a u 
+5	 [np] [pp] [vp] 不尽/d a u 
+5	 c [advp] 不妨/d [vp] 
+62	 [advp] [vp] m 不准/v 
+33	 [np] 不/d a a y 
+5	 不料/d [pp] [vp] 
+5	 g 不/d [pp] [vp] 
+23	 t 不/d [vp] t y 
+5	 不/d [vp] 不/d [vp] [advp] [vp] 
+18	 r [advp] 不/d [vp] m t y 
+5	 不过/c f 
+5	 s [advp] [vp] 不安/a 
+5	 m t 不/d [vp] [advp] [vp] 
+5	 不要/d [pp] [vp] [advp] a 
+5	 [advp] [vp] m 不/d a 
+24	 [np] 不等/v 不/d [vp] 
+10	 不要/d [vp] [advp] a y 
+5	 [np] 不堪/v [vp] 
+68	 r 不由/d u [vp] y 
+5	 c m [np] [vp] 不/d [vp] 
+5	 不/d [vp] 不/d g u [np] 
+5	 [np] 不/d m p 
+5	 [pp] [advp] [vp] 不/d u [np] 
+5	 不过/c t t 
+20	 a c 不/d [vp] p a 
+163	 [advp] [vp] g c 不/d [vp] 
+5	 c r m 不/d [vp] 
+17	 不同/a u [np] p 不同/a u [np] 
+5	 [vp] a r 不/d [vp] 
+14	 [vp] 不少/m a 
+5	 m [np] [vp] 不/d [np] 
+12	 [advp] [vp] a 不/d g 
+5	 r 不禁/d r a 
+5	 [advp] 不/d [vp] p r c [vp] 
+5	 t [vp] 不同/a y 
+5	 [np] [advp] 不大/d a 
+5	 r [advp] 不/d g [np] y 
+19	 [advp] 不/d g [vp] g 
+5	 [advp] 不/d [vp] [qp] y 
+5	 t 不/d [vp] a y 
+5	 [np] 不过/d 
+5	 l 不能/v [vp] 
+5	 p 不/d u r y 
+5	 r [advp] [vp] [advp] a 不/d u u [np] 
+5	 不/d [vp] 不/d p [vp] 
+5	 [vp] 不/d [pp] y 
+50	 [advp] 不准/v [pp] [vp] 
+5	 r t 不/d p 
+37	 [advp] [vp] 不尽/b u [np] 
+5	 不无/v [np] u [vp] 
+5	 t [np] 不少/m 
+121	 u [np] [advp] 不见/v y 
+5	 不/d [vp] 不足以/v [np] g 
+5	 [pp] [vp] 不衰/v 
+12	 r [advp] 不/d [vp] z [np] 
+5	 c r 不过/d [vp] 
+5	 不管/c [np] [vp] a [vp] a 
+5	 [qp] [advp] [vp] 不/d u [np] 
+22	 r 不妨/d [vp] m [vp] 
+5	 r [advp] p 不/d u r 
+5	 r [advp] 不在乎/v [np] 
+51	 [advp] [vp] 不/d r a 
+5	 [advp] 不知/v r p [vp] 
+5	 [vp] 不/d [vp] [advp] [pp] [vp] 
+19	 m t [vp] 不/d u [np] [vp] 
+5	 [vp] [advp] 不错/a u 
+5	 不仅仅/d [vp] a 
+5	 不/d u [vp] g 
+5	 [vp] 不已/v u [np] 
+5	 t 不/d [advp] [vp] y 
+159	 r [advp] [vp] t 不/d [vp] y 
+56	 [advp] [vp] 不幸/a u [np] 
+5	 [np] 不在乎/v 
+5	 不/d [advp] [np] y 
+39	 r [advp] 不仅/c [vp] 
+5	 c 不/d [vp] m t u [np] 
+33	 [advp] 不可同日而语/v y 
+15	 [advp] [vp] [qp] 不朽/z u [np] 
+5	 [advp] [vp] a u 不得了/l 
+5	 r p 不断/d [vp] 
+5	 [advp] [vp] s g 不足/v 
+33	 [vp] 不成/v [np] p 
+5	 l r [advp] 不/d [vp] 
+23	 [vp] 不/d [vp] [pp] [np] [vp] 
+47	 不/d [vp] [advp] 不/d [vp] [advp] [vp] 
+5	 [advp] p t 不久/m 
+67	 [vp] [advp] [vp] 不/d u [np] [vp] 
+5	 c 不/d [vp] p t u [np] 
+5	 r u m [np] 不/d [vp] 
+5	 s [np] 不/d [vp] y 
+24	 r s [advp] [vp] 不/d [vp] a 
+5	 [np] [advp] [vp] 不可/v a 
+53	 [advp] [vp] [pp] u 不/d [vp] 
+17	 s 不/d [vp] p s u [np] 
+5	 [advp] 不/d u t 
+12	 r 不/d [vp] [pp] r 
+5	 不/d [pp] [vp] [pp] 
+12	 [advp] [vp] c 不见/v 
+5	 不幸/n f u [np] 
+137	 [advp] 不/d m t 
+5	 不仅/c [np] f [vp] 
+5	 p r u 不/d [vp] 
+5	 [np] [advp] [vp] p c 不/d [vp] 
+5	 t u 不/d [vp] 
+11	 c [np] 不/d r a 
+5	 r [advp] 不顾一切/l 
+22	 [advp] 不/d [vp] z [vp] 
+5	 m [np] r 不/d [vp] 
+5	 r [advp] a 不过/c 
+5	 z [vp] f 不久/m 
+5	 t m [vp] 不/d [vp] 
+5	 r [advp] 不/d [vp] [qp] b u [np] 
+5	 g g r 不/d [np] 
+5	 不/d [vp] c [np] p r s [vp] [pp] u [np] 
+5	 [np] 不然/c 
+5	 c [advp] [vp] 不好/a 
+5	 b [vp] 不/d [vp] y 
+5	 r 不/d [vp] [pp] u [vp] 
+10	 [vp] 不到/v [np] [vp] 
+11	 [np] a u 不错/a 
+641	 [np] 不论/c [np] a a 
+5	 [vp] 不/d u m [vp] 
+41	 [vp] g g 不/d g 
+5	 [vp] 不/d p a 
+5	 [advp] l [vp] 不/d [vp] 
+456	 c [np] [advp] 不/d [vp] a u 
+5	 [np] [vp] 不/d [vp] g [np] 
+5	 t r 不/d [vp] [qp] 
+30	 不消/v m t [np] 
+5	 不/d [vp] m [np] m g 
+5	 不/d [vp] f u 不正之风/l 
+5	 不/d [advp] p a 
+5	 不许/d [vp] [qp] 
+5	 [advp] 不/d [vp] p r [advp] [vp] y 
+5	 s p s m [np] [advp] 不/d [vp] 
+5	 [np] [advp] 不能/v p [vp] [pp] 
+5	 不/d [vp] s m [vp] 
+12	 [np] [vp] a 不少/m 
+5	 r [advp] 不知去向/v 
+5	 [np] [vp] 不/d [vp] p [vp] 
+5	 不仅仅/d r 
+5	 c [advp] 不便/a [vp] 
+5	 s 不由/d u [advp] [vp] 
+5	 不管/c r p [vp] 
+5	 r u 不幸/n 
+22	 [vp] l 不同/a u [np] 
+5	 [np] [qp] [advp] 不错/a 
+5	 s 不服/v 
+12	 r 不/d [vp] [qp] [advp] [vp] 
+5	 c [advp] 不止/v r 
+30	 r 不修边幅/v 
+5	 [advp] g 不/d [vp] g 
+5	 c 不可/v a 
+60	 p 不断/d u [np] f 
+5	 r 不/d [vp] [pp] [np] y 
+5	 r c 不/d [np] 
+5	 r 不/d f [vp] 
+24	 m [np] 不/d [vp] m [vp] 
+5	 c u [np] [advp] [vp] 不/d [vp] 
+14	 不/d a u g [np] 
+5	 [advp] 不/d [vp] [qp] a u 
+5	 [np] f 不/d a [vp] 
+5	 r g 不解/v u [vp] 
+5	 [np] [advp] [vp] 不/d u [vp] 
+5	 [np] f r [advp] 不/d [vp] 
+5	 c s [advp] [vp] 不/d [vp] 
+11	 [advp] 不足道/v 
+5	 [vp] [advp] 不/d [vp] m f 
+5	 [np] [advp] 不/d [vp] p f y 
+1867	 g 不/d [vp] g 不/d [vp] 
+12	 r g r [advp] 不/d [vp] 
+110	 r [advp] 不知/v p [vp] 
+5	 r [advp] r [advp] 不怕/v 
+5	 r 不/d m 
+22	 r 不要/d l 
+14	 r p r 不/d [vp] [advp] [vp] 
+5	 不/d [vp] 不好/a 
+5	 [advp] [np] [advp] 不/d a y 
+75	 r 不由自主/l u [vp] m [vp] 
+5	 [vp] 不/d [advp] [pp] 
+25	 r a 不知所措/v 
+5	 r [advp] a [vp] 不/d [vp] 
+31	 r [advp] a u 不/d [vp] 
+5	 [np] [vp] 不要/d [vp] 
+5	 p 不/d u p [vp] 
+5	 r [advp] [vp] 不/d a r 
+5	 不知/v [vp] c [np] 
+5	 r [advp] 不/d p f 
+5	 [vp] 不必/d y 
+5	 m [np] 不错/a 
+5	 不禁/d b y 
+20	 不着边际/l u [np] 
+5	 c [np] 不/d g [np] 
+5	 s 不禁/d [vp] 
+25	 r [advp] m t 不/d [vp] 
+5	 r 不耐烦/a [np] 
+5	 r 不甘寂寞/v 
+5	 r 不用/d [advp] [vp] y 
+5	 r 不至于/d [vp] 
+5	 [advp] [vp] [advp] [vp] 不/d u 
+33	 r [advp] 不/d p s [np] 
+21	 c [advp] 不便/a [advp] [vp] 
+5	 不/d [vp] o 
+5	 [vp] [qp] 不知/v [np] 
+5	 [vp] 不/d u m t y 
+5	 c [vp] t 不/d [vp] 
+79	 [np] [vp] [advp] [vp] 不/d [vp] y 
+5	 [advp] 不/d a [advp] 不/d a 
+5	 r s 不/d [vp] y 
+5	 r 不断/d p [vp] 
+293	 r s [vp] 不/d [vp] a 
+5	 r [advp] [vp] [advp] 不/d [vp] [qp] 
+977	 r [advp] [vp] 不/d g y 
+5	 [vp] [pp] 不好/a 
+19	 不必/d r a y 
+12	 [np] f u [np] [vp] 不/d [vp] 
+25	 r 不/d p r [advp] [vp] y 
+183	 r 不/d [vp] p [vp] y y 
+5	 r [advp] [vp] 不过/u y 
+5	 [advp] p [vp] 不/d [np] 
+96	 r [advp] 不安/a u [vp] 
+5	 [advp] 不约而同/l u [vp] 
+5	 a r 不再/d [vp] 
+5	 r [advp] 不/d p r y 
+10	 不免/d [vp] a 
+5	 r c 不/d a [vp] 
+5	 m [advp] 不宜/v 
+10	 不过/c r g [vp] 
+5	 c 不/d p t 
+5	 [np] 不/d a c [advp] a 
+5	 [np] [advp] r 不同/a 
+12	 m t 不/d [vp] g 
+12	 [advp] [vp] [qp] 不可多得/v u [np] 
+32	 p r 不必/d [advp] [vp] 
+5	 [np] 不知去向/v 
+5	 r 不好意思/v u p [vp] 
+5	 c [advp] 不/d [vp] c [np] 
+11	 r 不/d u m t 
+5	 s [np] 不/d [vp] x 
+5	 不敢当/v y 
+5	 s a a u 不/d a 
+5	 r 不/d [vp] 不/d [vp] a 
+5	 t [np] 不/d [pp] 
+18	 [advp] 不/d p [vp] a 
+22	 [vp] 不得已/a u [np] 
+24	 [np] [advp] 不止/v [qp] 
+459	 c 不管/c r a 
+19	 [np] 不知/v u [vp] 
+5	 [advp] 不/d z 
+16	 [vp] p f 不久/m 
+5	 r [advp] 不/d a [pp] 
+5	 [vp] [advp] 不/d a [vp] 
+10	 r [advp] 不至于/d r a 
+5	 [vp] 不/d [vp] a a 
+178	 r [advp] [vp] 不/d [vp] a u 
+22	 [advp] 不外乎/v [np] 
+466	 [np] c [advp] 不/d a y 
+5	 r c 不/d [vp] z 
+15	 r 不自量/a [np] 
+5	 [vp] 不/d [vp] p a 
+5	 [vp] [qp] 不/d p 
+5	 不但/c [vp] g 
+10	 r [qp] [advp] 不/d [advp] [vp] 
+5	 不管/c [vp] b u 
+5	 r a g 不/d [vp] 
+20	 r [advp] 不能/v [np] 
+5	 c t 不行/a y 
+37	 r 不/d u [vp] y 
+20	 [advp] 不/d [pp] [vp] a 
+5	 r u r 不/d [vp] 
+5	 不/d [pp] p [vp] 
+34	 [np] [advp] [vp] 不同/a y 
+11	 g 不/d [vp] 不/d r 
+5	 [np] 不/d [np] m g 
+5	 [np] 不/d [vp] p g 
+5	 [qp] 不/d [vp] [qp] 
+21	 r 不/d [vp] [qp] a u 
+5	 不久/m u r 
+5	 g 不如/v [np] 
+5	 不大不小/l u [np] 
+5	 [np] [vp] 不/d [vp] [pp] g 
+5	 [advp] r [advp] 不/d [vp] [advp] [vp] 
+5	 m g 不/d [vp] m g 
+5	 [advp] [vp] 不/d g [vp] 
+5	 r [advp] 不/d a g 
+5	 p 不济/a 
+12	 r 不/d [advp] p f [vp] 
+5	 不由得/d [vp] a 
+5	 r [pp] [vp] 不/d a 
+5	 [vp] 不/d [vp] [advp] a [vp] 
+5	 不/d [vp] m [advp] [vp] 
+5	 不过/c [np] [vp] a u 
+14	 不过/c [vp] a y 
+5	 不/d [vp] t [vp] y 
+5	 [vp] p p 不/d [vp] p 
+11	 r 不/d p r f 
+16	 r [advp] [vp] 不折不扣/v u [np] 
+14	 r [advp] 不/d [vp] [advp] 不/d [vp] 
+5	 不过/c [np] c [advp] [vp] 
+5	 [advp] r [advp] 不/d [vp] [advp] a 
+5	 r 不/d [vp] [qp] b u [np] 
+45	 r 不/d [vp] [advp] [vp] g [vp] 
+5	 [vp] p s [vp] 不/d [vp] 
+5	 不禁/d [np] m [vp] 
+18	 不知/v l u [np] 
+5	 b a 不/d f [vp] 
+5	 [np] [advp] 不悦/a 
+5	 [np] 不/d [vp] 不/d [vp] y 
+5	 p r 不必/d [vp] 
+5	 p r [advp] [vp] 不/d [vp] y 
+5	 [vp] [advp] 不耐烦/a 
+19	 [advp] 不/d g [vp] a 
+5	 c [vp] 不/d g [np] 
+5	 [vp] 不顾一切/l 
+5	 [advp] 不/d [vp] s [vp] y 
+11	 [advp] 不知/v p [vp] [qp] r 
+5	 [advp] 不/d [vp] g g u [np] 
+5	 [np] 不由/d u [advp] [vp] 
+56	 不许/d [advp] [vp] y 
+5	 r 不/d p r m 
+5	 [vp] [advp] 不/d [vp] 不/d [vp] 
+5	 r [advp] [vp] c 不/d a 
+5	 c [advp] 不再/d [vp] y 
+5	 不等/v [np] [vp] 
+34	 不许/d [np] [vp] g 
+5	 不/d [vp] a g u [np] 
+5	 [pp] [advp] 不/d a y 
+5	 r p r [qp] [advp] 不/d [vp] 
+5	 [vp] [advp] 不/d p y 
+5	 r [advp] 不悦/a 
+5	 s 不悦/a 
+213	 r 不禁/d [advp] [vp] y 
+82	 r 不要/d r a y 
+5	 [advp] 不置可否/v 
+24	 c r [advp] b [vp] 不可/v 
+5	 m g 不/d f 
+5	 r 不/d [vp] p r f 
+5	 [vp] [advp] [vp] 不得/v 
+5	 r 不/d [vp] [advp] [vp] [qp] 
+5	 [advp] [vp] [qp] 不折不扣/v u [np] 
+23	 r p r [advp] 不/d [vp] y 
+5	 [vp] [qp] [advp] [vp] 不/d [vp] 
+5	 [advp] 不可理喻/v 
+5	 b b 不耐烦/a u [vp] 
+10	 不要/d p r a 
+29	 z [advp] 不/d [vp] y 
+63	 r [advp] 不要脸/a y 
+5	 [qp] [vp] 不得/v 
+5	 m t [advp] 不/d [vp] y 
+5	 a u r [advp] 不/d [vp] 
+5	 r 不/d [vp] s [vp] y 
+5	 [vp] g 不要/d [vp] 
+365	 不/d 不/d 不/d 不/d 不/d 
+5	 [np] [advp] r [advp] [vp] 不/d [vp] y 
+5	 [vp] t 不耐烦/a 
+5	 u [np] [advp] 不/d [vp] [advp] [vp] 
+5	 不要/d [advp] a u 
+5	 不知/v [vp] c [vp] 
+52	 不然/c [vp] y 
+5	 r g [advp] [vp] 不/d [vp] y 
+5	 r [advp] [vp] [advp] 不安/a 
+200	 c [np] 不见/v y 
+5	 不见/v u r 
+5	 [advp] 不/d [vp] 不行/a 
+29	 r [advp] 不/d g g y 
+59	 不如说/c [vp] a 
+5	 r t [advp] 不/d p 
+5	 不/d [vp] 置之不理/v 
+23	 r t 不/d a y 
+31	 r s 不/d [vp] a 
+24	 [advp] [vp] 不/d p r 
+5	 r 不/d [vp] c r p 
+5	 r 不必/d [advp] [vp] y 
+5	 c [advp] 不/d u m t 
+5	 r [advp] 不错/a y 
+5	 不过/c r [advp] p [vp] 
+17	 r [qp] [advp] 不怕/v r 
+5	 不胜/d g g 
+5	 不禁/d s a 
+584	 [np] [vp] 不错/a y 
+20	 r 不/d [vp] [advp] [vp] a y y 
+56	 不过/c r [advp] a y 
+78	 [np] [vp] 不/d [vp] [advp] [vp] y 
+35	 不过/c c r [advp] [vp] 
+5	 r 不够/a 
+5	 r [advp] 不/d [vp] p [vp] g 
+5	 r [advp] 不解/v u [vp] 
+12	 c [advp] r [advp] [vp] 不/d [vp] y 
+5	 [vp] 不/d [vp] g y 
+11	 [vp] [pp] 不/d p 
+5	 a [advp] [vp] 不/d u 
+5	 g [np] [advp] 不/d [vp] y 
+5	 [np] 不/d [np] y 
+5	 不/d [vp] p r f [vp] 
+5	 [np] 不/d p r f 
+10	 r 不/d [pp] [vp] y 
+27	 r 不/d c [np] [vp] 
+11	 r [advp] 不/d [vp] p [vp] a 
+5	 r 不/d r y 
+26	 c 不幸/n u [advp] 
+1972	 c r 不/d [vp] p [vp] a 
+5	 不/d [vp] s [advp] [vp] 
+5	 [advp] p 不住/d u [vp] 
+29	 r [advp] a 不/d a y 
+22	 r [advp] [vp] p r 不/d a 
+32	 r [advp] 不/d [vp] [advp] u [np] 
+16	 r m g [advp] 不/d [vp] 
+5	 s [vp] 不/d p [vp] 
+5	 [np] [vp] 不/d g [vp] 
+5	 r 不必/d r 
+13	 p s [vp] [advp] 不/d a 
+5	 [pp] [np] 不/d u r 
+5	 不过/c [vp] a u 
+5	 [vp] 不/d [vp] [advp] [vp] p r 
+5	 c [advp] 不动声色/v 
+35	 r 不/d [vp] t u [np] y 
+5	 a f [vp] 不/d [vp] 
+28	 [vp] p [vp] 不/d g 
+5	 不准/v [pp] [vp] f 
+11	 [vp] 不要/d p g f [vp] 
+5	 [vp] 不至于/d [vp] 
+30	 [advp] [vp] m t 不/d a 
+5	 不可/v [vp] m 
+5	 不/d [vp] b m u [np] [vp] s [np] [vp] [pp] u [np] 
+5	 [vp] 不要/d p [vp] 
+5	 不/d [advp] c [vp] 
+5	 z 不明/v u [np] 
+5	 不过/c t r [advp] [vp] 
+23	 不过/c 不/d [vp] p r 
+43	 r 不/d [vp] [advp] p f [vp] y 
+114	 r 不利/a [advp] [vp] y 
+5	 不过/c [vp] [advp] [np] 
+5	 [vp] b 不耐烦/a u [vp] 
+5	 b s 不/d [vp] 
+Query >

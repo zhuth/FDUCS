@@ -1,0 +1,20 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UrpRefresher", "UrpRefresher.csproj", "{EE0F3A31-5BCC-443B-B954-3642CB5C55B3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EE0F3A31-5BCC-443B-B954-3642CB5C55B3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EE0F3A31-5BCC-443B-B954-3642CB5C55B3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EE0F3A31-5BCC-443B-B954-3642CB5C55B3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EE0F3A31-5BCC-443B-B954-3642CB5C55B3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

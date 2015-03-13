@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="FrequencyAnalysis">
+</Property><Property Name="Solution File" Value="D:\My Documents\FrequencyAnalysis\FrequencyAnalysis.sln">
+</Property><Property Name="User Options File" Value="D:\My Documents\FrequencyAnalysis\FrequencyAnalysis.suo">
+</Property><Property Name="Date" Value="2010年12月5日">
+</Property><Property Name="Time" Value="10:43">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="FrequencyAnalysis.sln" Description="File successfully backed up as D:\My Documents\FrequencyAnalysis\Backup\FrequencyAnalysis.sln">
+</Event><Event ErrorLevel="0" Project="" Source="FrequencyAnalysis.suo" Description="File successfully backed up as D:\My Documents\FrequencyAnalysis\Backup\FrequencyAnalysis.suo">
+</Event><Event ErrorLevel="0" Project="FrequencyAnalysis" Source="FrequencyAnalysis.csproj" Description="Project file successfully backed up as D:\My Documents\FrequencyAnalysis\Backup\FrequencyAnalysis.csproj">
+</Event><Event ErrorLevel="0" Project="FrequencyAnalysis" Source="FrequencyAnalysis.csproj.user" Description="Project user file successfully backed up as D:\My Documents\FrequencyAnalysis\Backup\FrequencyAnalysis.csproj.user">
+</Event><Event ErrorLevel="0" Project="FrequencyAnalysis" Source="Program.cs" Description="File successfully backed up as D:\My Documents\FrequencyAnalysis\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="FrequencyAnalysis" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as D:\My Documents\FrequencyAnalysis\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="FrequencyAnalysis" Source="FrequencyAnalysis.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="FrequencyAnalysis" Source="FrequencyAnalysis.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="FrequencyAnalysis.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="FrequencyAnalysis.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="FrequencyAnalysis" Source="FrequencyAnalysis.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

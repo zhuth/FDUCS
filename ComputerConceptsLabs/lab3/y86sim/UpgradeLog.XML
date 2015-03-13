@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type='text/xsl' href='_UpgradeReport_Files/UpgradeReport.xslt'?><UpgradeLog>
+<Properties><Property Name="Solution" Value="y86sim">
+</Property><Property Name="Solution File" Value="H:\lab3\y86sim\y86sim.sln">
+</Property><Property Name="User Options File" Value="H:\lab3\y86sim\y86sim.suo">
+</Property><Property Name="Date" Value="2011年5月18日">
+</Property><Property Name="Time" Value="8:51">
+</Property></Properties><Event ErrorLevel="0" Project="" Source="y86sim.sln" Description="File successfully backed up as H:\lab3\y86sim\Backup\y86sim.sln">
+</Event><Event ErrorLevel="0" Project="" Source="y86sim.suo" Description="File successfully backed up as H:\lab3\y86sim\Backup\y86sim.suo">
+</Event><Event ErrorLevel="0" Project="y86sim" Source="y86sim.csproj" Description="Project file successfully backed up as H:\lab3\y86sim\Backup\y86sim.csproj">
+</Event><Event ErrorLevel="0" Project="y86sim" Source="Form1.cs" Description="File successfully backed up as H:\lab3\y86sim\Backup\Form1.cs">
+</Event><Event ErrorLevel="0" Project="y86sim" Source="Form1.Designer.cs" Description="File successfully backed up as H:\lab3\y86sim\Backup\Form1.Designer.cs">
+</Event><Event ErrorLevel="0" Project="y86sim" Source="Program.cs" Description="File successfully backed up as H:\lab3\y86sim\Backup\Program.cs">
+</Event><Event ErrorLevel="0" Project="y86sim" Source="Properties\AssemblyInfo.cs" Description="File successfully backed up as H:\lab3\y86sim\Backup\Properties\AssemblyInfo.cs">
+</Event><Event ErrorLevel="0" Project="y86sim" Source="Properties\Resources.Designer.cs" Description="File successfully backed up as H:\lab3\y86sim\Backup\Properties\Resources.Designer.cs">
+</Event><Event ErrorLevel="0" Project="y86sim" Source="Properties\Settings.Designer.cs" Description="File successfully backed up as H:\lab3\y86sim\Backup\Properties\Settings.Designer.cs">
+</Event><Event ErrorLevel="0" Project="y86sim" Source="RegisterFile.cs" Description="File successfully backed up as H:\lab3\y86sim\Backup\RegisterFile.cs">
+</Event><Event ErrorLevel="0" Project="y86sim" Source="y86Sim.cs" Description="File successfully backed up as H:\lab3\y86sim\Backup\y86Sim.cs">
+</Event><Event ErrorLevel="0" Project="y86sim" Source="Properties\Settings.settings" Description="File successfully backed up as H:\lab3\y86sim\Backup\Properties\Settings.settings">
+</Event><Event ErrorLevel="0" Project="y86sim" Source="Properties\Resources.resx" Description="File successfully backed up as H:\lab3\y86sim\Backup\Properties\Resources.resx">
+</Event><Event ErrorLevel="0" Project="y86sim" Source="y86sim.csproj" Description="Project converted successfully">
+</Event><Event ErrorLevel="3" Project="y86sim" Source="y86sim.csproj" Description="Converted">
+</Event><Event ErrorLevel="0" Project="" Source="y86sim.sln" Description="Solution converted successfully">
+</Event><Event ErrorLevel="3" Project="" Source="y86sim.sln" Description="Converted">
+</Event><Event ErrorLevel="0" Project="y86sim" Source="y86sim.csproj" Description="Scan complete: Upgrade not required for project files.">
+</Event></UpgradeLog>

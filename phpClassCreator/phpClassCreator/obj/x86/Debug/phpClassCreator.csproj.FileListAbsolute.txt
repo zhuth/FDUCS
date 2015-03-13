@@ -1,0 +1,5 @@
+d:\documents\visual studio 2010\Projects\phpClassCreator\phpClassCreator\bin\Debug\phpClassCreator.exe
+d:\documents\visual studio 2010\Projects\phpClassCreator\phpClassCreator\bin\Debug\phpClassCreator.pdb
+d:\documents\visual studio 2010\Projects\phpClassCreator\phpClassCreator\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\documents\visual studio 2010\Projects\phpClassCreator\phpClassCreator\obj\x86\Debug\phpClassCreator.exe
+d:\documents\visual studio 2010\Projects\phpClassCreator\phpClassCreator\obj\x86\Debug\phpClassCreator.pdb

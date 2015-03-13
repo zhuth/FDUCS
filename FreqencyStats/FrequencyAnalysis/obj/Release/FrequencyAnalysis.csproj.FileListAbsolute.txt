@@ -1,0 +1,11 @@
+D:\Documents\Visual Studio 2008\Projects\FrequencyAnalysis\bin\Release\FrequencyAnalysis.exe
+D:\Documents\Visual Studio 2008\Projects\FrequencyAnalysis\bin\Release\FrequencyAnalysis.pdb
+D:\Documents\Visual Studio 2008\Projects\FrequencyAnalysis\obj\Release\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2008\Projects\FrequencyAnalysis\obj\Release\FrequencyAnalysis.exe
+D:\Documents\Visual Studio 2008\Projects\FrequencyAnalysis\obj\Release\FrequencyAnalysis.pdb
+D:\My Documents\FrequencyAnalysis\bin\Release\FrequencyAnalysis.exe.config
+D:\My Documents\FrequencyAnalysis\obj\Release\FrequencyAnalysis.exe
+D:\My Documents\FrequencyAnalysis\obj\Release\FrequencyAnalysis.pdb
+D:\My Documents\FrequencyAnalysis\obj\Release\ResolveAssemblyReference.cache
+D:\My Documents\FrequencyAnalysis\bin\Release\FrequencyAnalysis.exe
+D:\My Documents\FrequencyAnalysis\bin\Release\FrequencyAnalysis.pdb

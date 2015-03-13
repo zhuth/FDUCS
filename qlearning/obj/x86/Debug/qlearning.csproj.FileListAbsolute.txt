@@ -1,0 +1,9 @@
+D:\Documents\Visual Studio 2010\Projects\qlearning\obj\x86\Debug\ResolveAssemblyReference.cache
+D:\Documents\Visual Studio 2010\Projects\qlearning\obj\x86\Debug\qlearning.Form1.resources
+D:\Documents\Visual Studio 2010\Projects\qlearning\obj\x86\Debug\qlearning.Properties.Resources.resources
+D:\Documents\Visual Studio 2010\Projects\qlearning\obj\x86\Debug\GenerateResource.read.1.tlog
+D:\Documents\Visual Studio 2010\Projects\qlearning\obj\x86\Debug\GenerateResource.write.1.tlog
+D:\Documents\Visual Studio 2010\Projects\qlearning\bin\Debug\qlearning.exe
+D:\Documents\Visual Studio 2010\Projects\qlearning\bin\Debug\qlearning.pdb
+D:\Documents\Visual Studio 2010\Projects\qlearning\obj\x86\Debug\qlearning.exe
+D:\Documents\Visual Studio 2010\Projects\qlearning\obj\x86\Debug\qlearning.pdb

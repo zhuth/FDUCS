@@ -1,0 +1,819 @@
+Circle_1
+--------------------
+FETCH:
+	F_predPC 	=	1024
+
+DECODE:
+	D_icode 	=	0
+	D_ifun 		=	0
+	D_rA		=	8
+	D_rB		=	8
+	D_valC		=	0
+	D_valP		=	0
+
+EXECUTE:
+	E_icode		=	0
+	E_ifun		=	0
+	E_valC		=	0
+	E_valA		=	0
+	E_valB		=	0
+	E_dstE		=	8
+	E_dstM		=	8
+	E_srcA		=	8
+	E_srcB		=	8
+    
+MEMORY:
+	M_icode		=	0
+	M_Bch		=	0
+	M_valE		=	0
+	M_valA		=	0
+	M_dstE		=	0
+	M_dstM		=	0
+
+WRITE BACK:
+	W_icode		=	0
+	W_valE		=	0
+	W_valM		=	0
+	W_dstE		=	0
+	W_dstM		=	0
+
+Circle_2
+--------------------
+FETCH:
+	F_predPC 	=	1030
+
+DECODE:
+	D_icode 	=	3
+	D_ifun 		=	0
+	D_rA		=	8
+	D_rB		=	0
+	D_valC		=	10
+	D_valP		=	1030
+
+EXECUTE:
+	E_icode		=	0
+	E_ifun		=	0
+	E_valC		=	0
+	E_valA		=	0
+	E_valB		=	0
+	E_dstE		=	8
+	E_dstM		=	8
+	E_srcA		=	8
+	E_srcB		=	8
+    
+MEMORY:
+	M_icode		=	0
+	M_Bch		=	0
+	M_valE		=	0
+	M_valA		=	0
+	M_dstE		=	8
+	M_dstM		=	8
+
+WRITE BACK:
+	W_icode		=	0
+	W_valE		=	0
+	W_valM		=	0
+	W_dstE		=	0
+	W_dstM		=	0
+
+Circle_3
+--------------------
+FETCH:
+	F_predPC 	=	1032
+
+DECODE:
+	D_icode 	=	10
+	D_ifun 		=	0
+	D_rA		=	0
+	D_rB		=	8
+	D_valC		=	0
+	D_valP		=	1032
+
+EXECUTE:
+	E_icode		=	3
+	E_ifun		=	0
+	E_valC		=	10
+	E_valA		=	0
+	E_valB		=	0
+	E_dstE		=	0
+	E_dstM		=	8
+	E_srcA		=	8
+	E_srcB		=	8
+    
+MEMORY:
+	M_icode		=	0
+	M_Bch		=	0
+	M_valE		=	0
+	M_valA		=	0
+	M_dstE		=	8
+	M_dstM		=	8
+
+WRITE BACK:
+	W_icode		=	0
+	W_valE		=	0
+	W_valM		=	0
+	W_dstE		=	8
+	W_dstM		=	8
+
+Circle_4
+--------------------
+FETCH:
+	F_predPC 	=	1038
+
+DECODE:
+	D_icode 	=	3
+	D_ifun 		=	0
+	D_rA		=	8
+	D_rB		=	0
+	D_valC		=	1099
+	D_valP		=	1038
+
+EXECUTE:
+	E_icode		=	10
+	E_ifun		=	0
+	E_valC		=	0
+	E_valA		=	10
+	E_valB		=	1024
+	E_dstE		=	4
+	E_dstM		=	8
+	E_srcA		=	0
+	E_srcB		=	4
+    
+MEMORY:
+	M_icode		=	3
+	M_Bch		=	0
+	M_valE		=	10
+	M_valA		=	0
+	M_dstE		=	0
+	M_dstM		=	8
+
+WRITE BACK:
+	W_icode		=	0
+	W_valE		=	0
+	W_valM		=	0
+	W_dstE		=	8
+	W_dstM		=	8
+
+Circle_5
+--------------------
+FETCH:
+	F_predPC 	=	1040
+
+DECODE:
+	D_icode 	=	10
+	D_ifun 		=	0
+	D_rA		=	0
+	D_rB		=	8
+	D_valC		=	0
+	D_valP		=	1040
+
+EXECUTE:
+	E_icode		=	3
+	E_ifun		=	0
+	E_valC		=	1099
+	E_valA		=	0
+	E_valB		=	0
+	E_dstE		=	0
+	E_dstM		=	8
+	E_srcA		=	8
+	E_srcB		=	8
+    
+MEMORY:
+	M_icode		=	10
+	M_Bch		=	0
+	M_valE		=	1020
+	M_valA		=	10
+	M_dstE		=	4
+	M_dstM		=	8
+
+WRITE BACK:
+	W_icode		=	3
+	W_valE		=	10
+	W_valM		=	0
+	W_dstE		=	0
+	W_dstM		=	8
+
+Circle_6
+--------------------
+FETCH:
+	F_predPC 	=	1042
+
+DECODE:
+	D_icode 	=	10
+	D_ifun 		=	0
+	D_rA		=	5
+	D_rB		=	8
+	D_valC		=	0
+	D_valP		=	1042
+
+EXECUTE:
+	E_icode		=	10
+	E_ifun		=	0
+	E_valC		=	0
+	E_valA		=	1099
+	E_valB		=	1020
+	E_dstE		=	4
+	E_dstM		=	8
+	E_srcA		=	0
+	E_srcB		=	4
+    
+MEMORY:
+	M_icode		=	3
+	M_Bch		=	0
+	M_valE		=	1099
+	M_valA		=	0
+	M_dstE		=	0
+	M_dstM		=	8
+
+WRITE BACK:
+	W_icode		=	10
+	W_valE		=	1020
+	W_valM		=	0
+	W_dstE		=	4
+	W_dstM		=	8
+
+Circle_1
+--------------------
+FETCH:
+	F_predPC 	=	1044
+
+DECODE:
+	D_icode 	=	2
+	D_ifun 		=	0
+	D_rA		=	4
+	D_rB		=	5
+	D_valC		=	0
+	D_valP		=	1044
+
+EXECUTE:
+	E_icode		=	10
+	E_ifun		=	0
+	E_valC		=	0
+	E_valA		=	1024
+	E_valB		=	1016
+	E_dstE		=	4
+	E_dstM		=	8
+	E_srcA		=	5
+	E_srcB		=	4
+    
+MEMORY:
+	M_icode		=	10
+	M_Bch		=	0
+	M_valE		=	1016
+	M_valA		=	1099
+	M_dstE		=	4
+	M_dstM		=	8
+
+WRITE BACK:
+	W_icode		=	3
+	W_valE		=	1099
+	W_valM		=	0
+	W_dstE		=	0
+	W_dstM		=	8
+
+Circle_2
+--------------------
+FETCH:
+	F_predPC 	=	1050
+
+DECODE:
+	D_icode 	=	5
+	D_ifun 		=	0
+	D_rA		=	1
+	D_rB		=	5
+	D_valC		=	4
+	D_valP		=	1050
+
+EXECUTE:
+	E_icode		=	2
+	E_ifun		=	0
+	E_valC		=	0
+	E_valA		=	1012
+	E_valB		=	0
+	E_dstE		=	5
+	E_dstM		=	8
+	E_srcA		=	4
+	E_srcB		=	8
+    
+MEMORY:
+	M_icode		=	10
+	M_Bch		=	0
+	M_valE		=	1012
+	M_valA		=	1024
+	M_dstE		=	4
+	M_dstM		=	8
+
+WRITE BACK:
+	W_icode		=	10
+	W_valE		=	1016
+	W_valM		=	0
+	W_dstE		=	4
+	W_dstM		=	8
+
+Circle_3
+--------------------
+FETCH:
+	F_predPC 	=	1056
+
+DECODE:
+	D_icode 	=	5
+	D_ifun 		=	0
+	D_rA		=	2
+	D_rB		=	5
+	D_valC		=	8
+	D_valP		=	1056
+
+EXECUTE:
+	E_icode		=	5
+	E_ifun		=	0
+	E_valC		=	4
+	E_valA		=	0
+	E_valB		=	1012
+	E_dstE		=	8
+	E_dstM		=	1
+	E_srcA		=	8
+	E_srcB		=	5
+    
+MEMORY:
+	M_icode		=	2
+	M_Bch		=	0
+	M_valE		=	1012
+	M_valA		=	1012
+	M_dstE		=	5
+	M_dstM		=	8
+
+WRITE BACK:
+	W_icode		=	10
+	W_valE		=	1012
+	W_valM		=	0
+	W_dstE		=	4
+	W_dstM		=	8
+
+Circle_4
+--------------------
+FETCH:
+	F_predPC 	=	1058
+
+DECODE:
+	D_icode 	=	6
+	D_ifun 		=	3
+	D_rA		=	0
+	D_rB		=	0
+	D_valC		=	0
+	D_valP		=	1058
+
+EXECUTE:
+	E_icode		=	5
+	E_ifun		=	0
+	E_valC		=	8
+	E_valA		=	1016
+	E_valB		=	1012
+	E_dstE		=	8
+	E_dstM		=	2
+	E_srcA		=	8
+	E_srcB		=	5
+    
+MEMORY:
+	M_icode		=	5
+	M_Bch		=	0
+	M_valE		=	1016
+	M_valA		=	0
+	M_dstE		=	8
+	M_dstM		=	1
+
+WRITE BACK:
+	W_icode		=	2
+	W_valE		=	1012
+	W_valM		=	0
+	W_dstE		=	5
+	W_dstM		=	8
+
+Circle_5
+--------------------
+FETCH:
+	F_predPC 	=	1060
+
+DECODE:
+	D_icode 	=	6
+	D_ifun 		=	2
+	D_rA		=	2
+	D_rB		=	2
+	D_valC		=	0
+	D_valP		=	1060
+
+EXECUTE:
+	E_icode		=	6
+	E_ifun		=	3
+	E_valC		=	0
+	E_valA		=	1099
+	E_valB		=	1099
+	E_dstE		=	0
+	E_dstM		=	8
+	E_srcA		=	0
+	E_srcB		=	0
+    
+MEMORY:
+	M_icode		=	5
+	M_Bch		=	0
+	M_valE		=	1020
+	M_valA		=	1016
+	M_dstE		=	8
+	M_dstM		=	2
+
+WRITE BACK:
+	W_icode		=	5
+	W_valE		=	1016
+	W_valM		=	1099
+	W_dstE		=	8
+	W_dstM		=	1
+
+Circle_6
+--------------------
+FETCH:
+	F_predPC 	=	1094
+
+DECODE:
+	D_icode 	=	7
+	D_ifun 		=	3
+	D_rA		=	8
+	D_rB		=	8
+	D_valC		=	1094
+	D_valP		=	1065
+
+EXECUTE:
+	E_icode		=	6
+	E_ifun		=	2
+	E_valC		=	0
+	E_valA		=	10
+	E_valB		=	10
+	E_dstE		=	2
+	E_dstM		=	8
+	E_srcA		=	2
+	E_srcB		=	2
+    
+MEMORY:
+	M_icode		=	6
+	M_Bch		=	0
+	M_valE		=	0
+	M_valA		=	1099
+	M_dstE		=	0
+	M_dstM		=	8
+
+WRITE BACK:
+	W_icode		=	5
+	W_valE		=	1020
+	W_valM		=	10
+	W_dstE		=	8
+	W_dstM		=	2
+
+Circle_7
+--------------------
+FETCH:
+	F_predPC 	=	1096
+
+DECODE:
+	D_icode 	=	2
+	D_ifun 		=	0
+	D_rA		=	5
+	D_rB		=	4
+	D_valC		=	0
+	D_valP		=	1096
+
+EXECUTE:
+	E_icode		=	7
+	E_ifun		=	3
+	E_valC		=	1094
+	E_valA		=	1065
+	E_valB		=	10
+	E_dstE		=	8
+	E_dstM		=	8
+	E_srcA		=	8
+	E_srcB		=	8
+    
+MEMORY:
+	M_icode		=	6
+	M_Bch		=	0
+	M_valE		=	10
+	M_valA		=	10
+	M_dstE		=	2
+	M_dstM		=	8
+
+WRITE BACK:
+	W_icode		=	6
+	W_valE		=	0
+	W_valM		=	10
+	W_dstE		=	0
+	W_dstM		=	8
+
+Circle_8
+--------------------
+FETCH:
+	F_predPC 	=	1065
+
+DECODE:
+	D_icode 	=	0
+	D_ifun 		=	0
+	D_rA		=	8
+	D_rB		=	8
+	D_valC		=	0
+	D_valP		=	1096
+
+EXECUTE:
+	E_icode		=	0
+	E_ifun		=	0
+	E_valC		=	0
+	E_valA		=	0
+	E_valB		=	0
+	E_dstE		=	8
+	E_dstM		=	8
+	E_srcA		=	8
+	E_srcB		=	8
+    
+MEMORY:
+	M_icode		=	7
+	M_Bch		=	0
+	M_valE		=	0
+	M_valA		=	1065
+	M_dstE		=	8
+	M_dstM		=	8
+
+WRITE BACK:
+	W_icode		=	6
+	W_valE		=	10
+	W_valM		=	10
+	W_dstE		=	2
+	W_dstM		=	8
+
+Circle_9
+--------------------
+FETCH:
+	F_predPC 	=	1071
+
+DECODE:
+	D_icode 	=	5
+	D_ifun 		=	0
+	D_rA		=	6
+	D_rB		=	1
+	D_valC		=	0
+	D_valP		=	1071
+
+EXECUTE:
+	E_icode		=	0
+	E_ifun		=	0
+	E_valC		=	0
+	E_valA		=	0
+	E_valB		=	0
+	E_dstE		=	8
+	E_dstM		=	8
+	E_srcA		=	8
+	E_srcB		=	8
+    
+MEMORY:
+	M_icode		=	0
+	M_Bch		=	0
+	M_valE		=	0
+	M_valA		=	1065
+	M_dstE		=	8
+	M_dstM		=	8
+
+WRITE BACK:
+	W_icode		=	7
+	W_valE		=	0
+	W_valM		=	10
+	W_dstE		=	8
+	W_dstM		=	8
+
+Circle_10
+--------------------
+FETCH:
+	F_predPC 	=	1073
+
+DECODE:
+	D_icode 	=	6
+	D_ifun 		=	0
+	D_rA		=	6
+	D_rB		=	0
+	D_valC		=	0
+	D_valP		=	1073
+
+EXECUTE:
+	E_icode		=	5
+	E_ifun		=	0
+	E_valC		=	0
+	E_valA		=	0
+	E_valB		=	1099
+	E_dstE		=	8
+	E_dstM		=	6
+	E_srcA		=	8
+	E_srcB		=	1
+    
+MEMORY:
+	M_icode		=	0
+	M_Bch		=	0
+	M_valE		=	0
+	M_valA		=	0
+	M_dstE		=	8
+	M_dstM		=	8
+
+WRITE BACK:
+	W_icode		=	0
+	W_valE		=	0
+	W_valM		=	10
+	W_dstE		=	8
+	W_dstM		=	8
+
+Circle_11
+--------------------
+FETCH:
+	F_predPC 	=	1073
+
+DECODE:
+	D_icode 	=	6
+	D_ifun 		=	0
+	D_rA		=	6
+	D_rB		=	0
+	D_valC		=	0
+	D_valP		=	1073
+
+EXECUTE:
+	E_icode		=	0
+	E_ifun		=	0
+	E_valC		=	0
+	E_valA		=	0
+	E_valB		=	0
+	E_dstE		=	8
+	E_dstM		=	8
+	E_srcA		=	8
+	E_srcB		=	8
+    
+MEMORY:
+	M_icode		=	5
+	M_Bch		=	0
+	M_valE		=	1099
+	M_valA		=	0
+	M_dstE		=	8
+	M_dstM		=	6
+
+WRITE BACK:
+	W_icode		=	0
+	W_valE		=	0
+	W_valM		=	10
+	W_dstE		=	8
+	W_dstM		=	8
+
+Circle_12
+--------------------
+FETCH:
+	F_predPC 	=	1079
+
+DECODE:
+	D_icode 	=	3
+	D_ifun 		=	0
+	D_rA		=	8
+	D_rB		=	3
+	D_valC		=	4
+	D_valP		=	1079
+
+EXECUTE:
+	E_icode		=	6
+	E_ifun		=	0
+	E_valC		=	0
+	E_valA		=	1
+	E_valB		=	0
+	E_dstE		=	0
+	E_dstM		=	8
+	E_srcA		=	6
+	E_srcB		=	0
+    
+MEMORY:
+	M_icode		=	0
+	M_Bch		=	0
+	M_valE		=	0
+	M_valA		=	0
+	M_dstE		=	8
+	M_dstM		=	8
+
+WRITE BACK:
+	W_icode		=	5
+	W_valE		=	1099
+	W_valM		=	1
+	W_dstE		=	8
+	W_dstM		=	6
+
+Circle_13
+--------------------
+FETCH:
+	F_predPC 	=	1081
+
+DECODE:
+	D_icode 	=	6
+	D_ifun 		=	0
+	D_rA		=	3
+	D_rB		=	1
+	D_valC		=	0
+	D_valP		=	1081
+
+EXECUTE:
+	E_icode		=	3
+	E_ifun		=	0
+	E_valC		=	4
+	E_valA		=	1
+	E_valB		=	1
+	E_dstE		=	3
+	E_dstM		=	8
+	E_srcA		=	8
+	E_srcB		=	8
+    
+MEMORY:
+	M_icode		=	6
+	M_Bch		=	0
+	M_valE		=	1
+	M_valA		=	1
+	M_dstE		=	0
+	M_dstM		=	8
+
+WRITE BACK:
+	W_icode		=	0
+	W_valE		=	0
+	W_valM		=	1
+	W_dstE		=	8
+	W_dstM		=	8
+
+Circle_14
+--------------------
+FETCH:
+	F_predPC 	=	1087
+
+DECODE:
+	D_icode 	=	3
+	D_ifun 		=	0
+	D_rA		=	8
+	D_rB		=	3
+	D_valC		=	-1
+	D_valP		=	1087
+
+EXECUTE:
+	E_icode		=	6
+	E_ifun		=	0
+	E_valC		=	0
+	E_valA		=	4
+	E_valB		=	1099
+	E_dstE		=	1
+	E_dstM		=	8
+	E_srcA		=	3
+	E_srcB		=	1
+    
+MEMORY:
+	M_icode		=	3
+	M_Bch		=	0
+	M_valE		=	4
+	M_valA		=	1
+	M_dstE		=	3
+	M_dstM		=	8
+
+WRITE BACK:
+	W_icode		=	6
+	W_valE		=	1
+	W_valM		=	1
+	W_dstE		=	0
+	W_dstM		=	8
+
+Circle_15
+--------------------
+FETCH:
+	F_predPC 	=	1089
+
+DECODE:
+	D_icode 	=	6
+	D_ifun 		=	0
+	D_rA		=	3
+	D_rB		=	2
+	D_valC		=	0
+	D_valP		=	1089
+
+EXECUTE:
+	E_icode		=	3
+	E_ifun		=	0
+	E_valC		=	-1
+	E_valA		=	1
+	E_valB		=	1
+	E_dstE		=	3
+	E_dstM		=	8
+	E_srcA		=	8
+	E_srcB		=	8
+    
+MEMORY:
+	M_icode		=	6
+	M_Bch		=	0
+	M_valE		=	1103
+	M_valA		=	4
+	M_dstE		=	1
+	M_dstM		=	8
+
+WRITE BACK:
+	W_icode		=	3
+	W_valE		=	4
+	W_valM		=	1
+	W_dstE		=	3
+	W_dstM		=	8
+

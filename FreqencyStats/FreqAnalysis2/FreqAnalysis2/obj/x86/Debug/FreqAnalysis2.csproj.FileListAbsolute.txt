@@ -1,0 +1,5 @@
+d:\documents\visual studio 2010\Projects\FreqAnalysis2\FreqAnalysis2\obj\x86\Debug\ResolveAssemblyReference.cache
+d:\documents\visual studio 2010\Projects\FreqAnalysis2\FreqAnalysis2\bin\Debug\FreqAnalysis2.exe
+d:\documents\visual studio 2010\Projects\FreqAnalysis2\FreqAnalysis2\bin\Debug\FreqAnalysis2.pdb
+d:\documents\visual studio 2010\Projects\FreqAnalysis2\FreqAnalysis2\obj\x86\Debug\FreqAnalysis2.exe
+d:\documents\visual studio 2010\Projects\FreqAnalysis2\FreqAnalysis2\obj\x86\Debug\FreqAnalysis2.pdb

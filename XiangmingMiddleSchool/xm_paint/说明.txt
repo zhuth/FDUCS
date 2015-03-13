@@ -1,0 +1,13 @@
+第一步 安装驱动程序
+1. 安装慧鱼驱动。运行 驱动程序\慧鱼驱动\setup.exe
+2. 安装USB串口线驱动。运行 驱动程序\USB串口线驱动\Vista_win7驱动\PL2303_Prolific_DriverInstaller_v1210.exe
+
+第二步 安装支持软件
+1. 运行 dotNetFx40_Full_x86_x64.exe
+2. 运行 SharpDevelop_4.1.0.8000_Setup.msi（可选）
+
+第三步 主程序
+运行 pcctrl\pcctrl\bin\Debug\pcctrl.exe
+
+打开源程序的方法：
+做完第二步之2后，在开始菜单中打开SharpDevelop，点Open Solution，定位到 pcctrl\pcctrl.sln文件，打开即可。

@@ -1,0 +1,118 @@
+Circle_1
+--------------------
+FETCH:
+	F_predPC 	= 
+
+DECODE:
+	D_icode 	= 
+	D_ifun 		= 
+	D_rA			=
+	D_rB			=
+	D_valC		=
+	D_valP		=
+
+EXECUTE:
+	E_icode		=
+	E_ifun		=
+	E_valC		=
+	E_valA		=
+	E_valB		=
+	E_dstE		=
+	E_dstM		=
+	E_srcA		=
+	E_srcB		=
+	
+MEMORY:
+	M_icode		=
+	M_Bch			=
+	M_valE		=
+	M_valA		=
+	M_dstE		=
+	M_dstM		=
+	
+WRITE BACK:
+	W_icode		=
+	W_valE		=
+	W_valM		=
+	W_dstE		=
+	W_dstM		=
+	
+Circle_2
+--------------------
+FETCH:
+	F_predPC 	= 
+
+DECODE:
+	D_icode 	= 
+	D_ifun 		= 
+	D_rA			=
+	D_rB			=
+	D_valC		=
+	D_valP		=
+
+EXECUTE:
+	E_icode		=
+	E_ifun		=
+	E_valC		=
+	E_valA		=
+	E_valB		=
+	E_dstE		=
+	E_dstM		=
+	E_srcA		=
+	E_srcB		=
+	
+MEMORY:
+	M_icode		=
+	M_Bch			=
+	M_valE		=
+	M_valA		=
+	M_dstE		=
+	M_dstM		=
+	
+WRITE BACK:
+	W_icode		=
+	W_valE		=
+	W_valM		=
+	W_dstE		=
+	W_dstM		=
+	
+Circle_3
+--------------------
+FETCH:
+	F_predPC 	= 
+
+DECODE:
+	D_icode 	= 
+	D_ifun 		= 
+	D_rA			=
+	D_rB			=
+	D_valC		=
+	D_valP		=
+
+EXECUTE:
+	E_icode		=
+	E_ifun		=
+	E_valC		=
+	E_valA		=
+	E_valB		=
+	E_dstE		=
+	E_dstM		=
+	E_srcA		=
+	E_srcB		=
+	
+MEMORY:
+	M_icode		=
+	M_Bch			=
+	M_valE		=
+	M_valA		=
+	M_dstE		=
+	M_dstM		=
+	
+WRITE BACK:
+	W_icode		=
+	W_valE		=
+	W_valM		=
+	W_dstE		=
+	W_dstM		=
+	
+#followed by circle 4 ~ last circle
